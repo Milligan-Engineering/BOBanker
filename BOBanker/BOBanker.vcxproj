@@ -167,6 +167,28 @@
     <ResourceCompile Include="BOBanker.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="baltimore &amp; ohio_files\bitmap1.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\bm35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\bm50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\bo35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\bo35.png" />
+    <Image Include="Baltimore &amp; Ohio_files\co35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\co50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\er35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\er50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\ic35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\ic50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\nh35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\nh50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\np35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\np50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\ny35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\ny50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\pn35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\pn50.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\wb35.bmp" />
+    <Image Include="Baltimore &amp; Ohio_files\wb50.bmp" />
+    <Image Include="bo50.bmp" />
     <Image Include="BOBanker.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
