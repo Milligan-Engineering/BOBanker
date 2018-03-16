@@ -30,6 +30,18 @@
     <ClInclude Include="Players.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Companies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TechLevels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trains.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +51,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Players.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Companies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TechLevels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trains.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
