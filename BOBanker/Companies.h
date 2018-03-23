@@ -13,6 +13,9 @@ public:
 
 	int getPresident(int company);
     int setPresident(int company, int player);
+	int getCompanyRunCount(int player);
+	int getCompanyRun(int player, int index);
+
 
 	int getNetprofit(int company);
     int setNetprofit(int company, int netprofit);

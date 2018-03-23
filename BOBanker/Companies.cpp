@@ -62,6 +62,36 @@ int Companies::setPresident(int company, int player)
 	president[company] = player;
 	return(president[company]);
 }
+int Companies::getCompanyRunCount(int player)
+{
+	int count = 0;
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (president[j] == player)
+		{
+			count++;
+		}
+	}
+	return(count);
+}
+
+int Companies::getCompanyRun(int player, int index)
+{
+	int count = 0;
+	int companiesRun[maxCompanies];
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (president[j] == player)
+		{
+			companiesRun[count] = j;
+			count++;
+		}
+	}
+	return(companiesRun[index]);
+}
+
+
+
 
 //Valuation functions
 int Companies::getValuation(int company)

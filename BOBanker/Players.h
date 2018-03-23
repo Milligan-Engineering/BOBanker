@@ -13,6 +13,8 @@ public:
 	int getOrder(int player);
 	int getShares(int player, int company);
 	int getSold(int player, int company);
+	int getCompanyCount(int player);
+	int getCompanyOwned(int player, int index);
 
 	int setCash(int player, int amount);
 	int setNetworth(int player, int amount);

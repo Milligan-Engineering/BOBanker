@@ -150,6 +150,7 @@
     <ClInclude Include="BOBanker.h" />
     <ClInclude Include="Cities.h" />
     <ClInclude Include="Companies.h" />
+    <ClInclude Include="Game.h" />
     <ClInclude Include="Players.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -161,6 +162,7 @@
     <ClCompile Include="BOBanker.cpp" />
     <ClCompile Include="Cities.cpp" />
     <ClCompile Include="Companies.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Players.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

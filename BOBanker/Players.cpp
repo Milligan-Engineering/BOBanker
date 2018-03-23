@@ -74,6 +74,37 @@ int  Players::totalSharesOwned(int company)
 	}
 	return(sum);
 }
+int Players::getCompanyCount(int player)
+{
+	int count = 0;
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (shares[player][j] != 0)
+		{
+			count++;
+		}
+	}
+	return(count);
+}
+
+int Players::getCompanyOwned(int player, int index)
+{
+	int count = 0;
+	int companiesOwned[maxCompanies];
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (shares[player][j] != 0)
+		{
+			companiesOwned[count] = j;
+			count++;
+		}
+	}
+	return(companiesOwned[index]);
+}
+
+
+
+
 
 //Sold functions
 int  Players::getSold(int player, int company)
