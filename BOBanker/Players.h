@@ -28,7 +28,7 @@ public:
 	int changeCash(int player, int amount);
 	int changeShares(int player, int company, int amount);
 	int getTurnorders(int playerTurnorder[], int numberPlayers);
-	// Preconditions: Current turn order is passed to function with number of player.
+	// Preconditions: Current turn order is passed to function with number of players.
 	// Postcondition: The function will use the current player cash to re-evaluated turn order so that 
 	//				  the index of the lowest cash in playerTurnorder[0] and highest cash is in playerTurnorder[numberPlayers].
 	//				Returns 0 if successful.

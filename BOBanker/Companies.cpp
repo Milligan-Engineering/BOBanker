@@ -292,19 +292,33 @@ int Companies::buyTrainForSale(int company, int & techLevel)
 	return (trainsC.cost[train]); //Return cost of highest train not owned
 }
 
-int Companies::getCompanyTrains(int company)
+int Companies::getTrainCount(int company)
 {
 	int numberTrains = 0;
 	for (int k = 0; k < 30; k++)
 	{
-		if (trains[company][k]==1)
+		if (trains[company][k] == 1)
 		{
-			cout << trainsC.number[k] << ": Train " << trainsC.number[k] << " with scrap value $" << trainsC.scrap[k] << endl;
 			numberTrains++;
 		}
 	}
 	return (numberTrains);
 }
+int Companies::getTrainOwned(int company, int index)
+{
+	int count = 0;
+	int trainsOwned[maxTrains];
+	for (int k = 0; k < 30; k++)
+	{
+		if (trains[company][k] == 1)
+		{
+			trainsOwned[count] = k;
+			count++;
+		}
+	}
+	return (trainsOwned[index]);
+}
+
 int Companies::scrapTrainOfCompany(int train, int company)
 {
 	if ((train<0) || (train>=30))

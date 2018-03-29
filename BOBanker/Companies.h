@@ -68,10 +68,14 @@ public:
 
 	int getTrainForSale();
 	//Precondition: None
-	//Postcondition: Returns the cost of the train that is currently for sale
-	int getCompanyTrains(int companyVal);
+	//Postcondition: Returns the index of the train that is currently for sale
+	int getTrainCount(int companyVal);
 	// Precondition: index of company purchasing the train - postive integer
-	// Postcondition: Prints list of trains a company owns
+	// Postcondition: Returns number of trains a company owns
+	int getTrainOwned(int company, int index);
+		//Precondition: company and index of how many trains owned by the company in order
+		//Postcondition: Returns the train index.
+
 	int scrapTrainOfCompany(int indexVal, int companyVal);
 	//Precondition: Index of train that company owns and wants to scrap - number between 1 and 30.
 	//Postcondition: Returns the scrap value of the train if no error. Returns
@@ -93,7 +97,7 @@ public:
 	int buyTrainForSale(int company, int & techLevel);
 	int getTechLevel(int currentTechLevel);
 
-	const char name[maxCompanies][35] = { "Baltimore & Ohio", "Boston & Maine", "Chesapeake & Ohio", "Illinois Central", "Erie", "New York Central","Nickel Plate", "New York New Haven & Hartford", "Pennsylvania", "Wabash" };
+	const wchar_t name[maxCompanies][35] = { L"Baltimore & Ohio", L"Boston & Maine", L"Chesapeake & Ohio", L"Illinois Central", L"Erie", L"New York Central",L"Nickel Plate", L"New York New Haven & Hartford", L"Pennsylvania", L"Wabash" };
 	const int available[maxCompanies] = { 1,1,1,3,3,1,3,1,1,3 };
 
 
