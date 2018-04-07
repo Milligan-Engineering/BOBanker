@@ -58,12 +58,11 @@ public:
 	int getOrder(int company);
 	int setOrder(int company, int turn);
 	int getTurnorders(int companyTurnorder[]);
-	int setTurnorders();
-    int getorderCompany(int oldTurnorder[]);
     //Precondition: The current turnorders of each companies are stored in turnorder.
     //Postcondition: This values are stored in oldTurnorder with the first company index
     // in 0, the second in 1, ...
-    int setTurnorder(int company, int direction);
+	int setTurnorders();
+
 
 
 	int getTrainForSale();

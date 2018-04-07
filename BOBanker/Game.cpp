@@ -39,8 +39,6 @@ int Game::setEndLevel(int pLevel)
 }
 
 
-
-
 // Version for B&O
 int Game::incTurn(int order[], int number)
 {
@@ -95,6 +93,7 @@ int Game::incTurn(int order[], int number)
 		}
 	}
 	}
+	return(0);
 }
 
 // Version for Catan
@@ -152,5 +151,6 @@ int Game::incTurn2(int order[], int number)
 		}
 	}
 	}
+	return(order[turn]);
 }
 
