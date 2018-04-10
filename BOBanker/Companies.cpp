@@ -183,6 +183,37 @@ int Companies::clearCity(int company, int city)
 	cities[company][city] = false;
 	return (cities[company][city]);
 }
+int Companies::getCityCount(int company)
+{
+	int count = 0;
+	for (int k = 0; k < maxCities; k++)
+	{
+		if (cities[company][k])
+		{
+			count++;
+		}
+	}
+	return(count);
+}
+
+int Companies::getCityServiced(int company, int number)
+{
+	int count = 0;
+	int cityServiced[maxCities];
+	for (int k = 0; k < maxCities; k++)
+	{
+		if (cities[company] [k])
+		{
+			cityServiced[count] = k;
+			count++;
+		}
+	}
+	return(cityServiced[number]);
+}
+
+
+
+
 
 //Started functions
 bool Companies::getStarted(int company)

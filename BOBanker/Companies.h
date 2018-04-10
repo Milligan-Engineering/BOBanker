@@ -39,6 +39,14 @@ public:
 	bool getCity(int company, int city);
 	int setCity(int company, int city);
 	int clearCity(int company, int city);
+	int getCityCount(int company);
+	// Precondition: index of company 
+	// Postcondition: Returns number of cities the company currently services
+
+	int getCityServiced(int company, int number);
+	//Precondition: company and number of the city serviced by the company in order
+	// For example: 3 would be the third city serviced of 8 total.
+	//Postcondition: Returns the city idex
 
     int getNext(int order);
     void getInfo(int company);

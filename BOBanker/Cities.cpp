@@ -2,7 +2,7 @@
 #include "Cities.h"
 
 
-Cities::Cities()
+Cities::Cities(int setup)
 {
 }
 
