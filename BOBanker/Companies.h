@@ -77,7 +77,7 @@ public:
 	//Precondition: None
 	//Postcondition: Returns the index of the train that is currently for sale
 	int getTrainCount(int companyVal);
-	// Precondition: index of company purchasing the train - postive integer
+	// Precondition: index of company
 	// Postcondition: Returns number of trains a company owns
 	int getTrainOwned(int company, int index);
 		//Precondition: company and index of how many trains owned by the company in order
