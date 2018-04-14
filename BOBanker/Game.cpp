@@ -38,6 +38,17 @@ int Game::setEndLevel(int pLevel)
 	return(0);
 }
 
+bool Game::getMarketSuccess()
+{
+	return(marketSuccess);
+}
+
+bool Game::setMarketSuccess(bool value)
+{
+	marketSuccess = value;
+	return(value);
+}
+
 
 // Version for B&O
 int Game::incTurn(int order[], int number)

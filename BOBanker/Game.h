@@ -28,6 +28,9 @@ public:
 	//Precondition: None
 	//Postcondition: Current value of the end level is returned.
 
+	bool getMarketSuccess();
+	bool setMarketSuccess(bool value);
+
 	int incTurn(int order[], int number);
 		// Precondition: The order of the entities is stored in array order with the index of the first entity
 		//				stored in order[0]. The number of entities is stored in number. The current round is 
