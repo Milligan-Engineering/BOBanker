@@ -47,16 +47,13 @@ public:
 	{ 10, 10, 10, 20, 20, 20 },
 	{ 20, 20, 30, 30, 30, 30 },
 	{ 20, 20, 30, 40, 50, 60 },
-
-	{ 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0 }
 	};
 
 	const char name[maxCities][20] = { "Albany", "Augusta", "Baltimore", "Boston", "Buffalo", "Burlington", "Cairo", "Chicago", "Cincinnati", "Cleveland",
 		"Concord", "Detroit", "Dover", "FortWayne", "Harrisburg", "Hartford", "Hunington", "Indainapolis", "Lexington", "Lousiville", "NewHaven", "NewYork",
-		"Norfolk", "Philadelphia", "Pittsburg", "Portsmouth", "Provience", "Richmond", "Roanoke", "SaintLouis", "Springfield", "Syracuse", "Utica", "Washington", "Wheeling", "Coal1", "Coal2", "Coal3", "Coal4", "Coal5" };
+		"Norfolk", "Philadelphia", "Pittsburg", "Portsmouth", "Provience", "Richmond", "Roanoke", "SaintLouis", "Springfield", "Syracuse", "Utica", "Washington", "Wheeling" };
 
+	const char coals[maxCoal][20] = { "Coal1","Coal2","Coal3","Coal4","Coal5" };
+
+	const int coalValue[maxCoal] = { 40,40,40,40,40 };
 };

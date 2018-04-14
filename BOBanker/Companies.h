@@ -1,7 +1,7 @@
 #pragma once
 
 
-class Companies
+class Companies 
 {
 public:
 	
@@ -48,6 +48,16 @@ public:
 	// For example: 3 would be the third city serviced of 8 total.
 	//Postcondition: Returns the city idex
 
+	bool getCoal(int company, int coal);
+	int setCoal(int company, int coal);
+	int clearCoal(int company, int coal);
+	int getCoalCount(int company);
+	// Precondition: index of company 
+	// Postcondition: Returns number of cities the coals currently services
+
+
+
+
     int getNext(int order);
     void getInfo(int company);
 
@@ -76,17 +86,21 @@ public:
 	int getTrainForSale();
 	//Precondition: None
 	//Postcondition: Returns the index of the train that is currently for sale
+	int returnTrainForSale(int company);
 	int getTrainCount(int companyVal);
 	// Precondition: index of company
 	// Postcondition: Returns number of trains a company owns
 	int getTrainOwned(int company, int index);
 		//Precondition: company and index of how many trains owned by the company in order
 		//Postcondition: Returns the train index.
-
 	int scrapTrainOfCompany(int indexVal, int companyVal);
 	//Precondition: Index of train that company owns and wants to scrap - number between 1 and 30.
 	//Postcondition: Returns the scrap value of the train if no error. Returns
 	//0 if there is and error. Also removes train from company's ownership.
+	int unscrapTrainOfCompany(int indexVal, int companyVal);
+	//Precondition: Index of train that company owns and wants to unscrap - number between 1 and 30.
+	//Postcondition: Returns the scrap value of the train if no error. Returns
+	//0 if there is and error. Also returns train from company's ownership.
 	int getServiceCapacity(int companyVal);
 	// Precondition: index of company purchasing the train - postive integer
 	// Postcondition:  Returns the number of cities that the company can service.
@@ -101,12 +115,26 @@ public:
 	int setTrains(int company, int train, int value);
 	//Precondition: index of train in indexVal, and index owner of train in 
 	//Postcondion: Returns the index of the company owning the train.
-	int buyTrainForSale(int company, int & techLevel);
-	int getTechLevel(int currentTechLevel);
+	int buyTrainForSale(int company);
 
-	const wchar_t name[maxCompanies][35] = { L"Baltimore & Ohio", L"Boston & Maine", L"Chesapeake & Ohio", L"Illinois Central", L"Erie", L"New York Central",L"Nickel Plate", L"New York New Haven & Hartford", L"Pennsylvania", L"Wabash" };
-	const int available[maxCompanies] = { 1,1,1,3,3,1,3,1,1,3 };
 
+	int getTechLevel();
+	//Postcondition: Returns current value stored in techLevel
+	int setTechLevel(int level);
+	// Precondition: The level to set techLevel to is passed in level
+	//				If level = 0, techLevel is determined by the trains bought
+	// Postcondition: Returns techLevel based on trains.
+
+	int calcNP(int company, int netProfitList[]);
+	//Precondition:
+	//Postconditions:
+
+	int addone(bool profits[], int sum, int n, int k, int start, int nsum, int company);
+
+
+
+	wchar_t name[maxCompanies][35] = { L"Baltimore & Ohio", L"Boston & Maine", L"Chesapeake & Ohio", L"Illinois Central", L"Erie", L"New York Central",L"Nickel Plate", L"New York New Haven & Hartford", L"Pennsylvania", L"Wabash" };
+	int available[maxCompanies] = { 1,1,1,3,3,1,3,1,1,3 };
 
 private:
 
@@ -121,7 +149,10 @@ private:
 	int order[maxCompanies];
 	bool recievership[maxCompanies];
 	bool cities[maxCompanies][maxCities];
+	bool coals[maxCompanies][maxCoal];
 	int trains[maxCompanies][maxTrains];
+	int techLevel;
+
 
 
 };

@@ -41,9 +41,7 @@ public:
 
 
 private:
-
-
-	int cash[maxPlayers] = { 120,20,55,35,204,10 };
+int cash[maxPlayers] = { 120,20,55,35,204,10 };
 int networth[maxPlayers] = { 1000, 300, 555, 234, 1090, 49 };
 int order[maxPlayers];
 int shares[maxPlayers][maxCompanies];

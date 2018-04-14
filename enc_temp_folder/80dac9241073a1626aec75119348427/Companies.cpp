@@ -502,8 +502,8 @@ int Companies::calcNP(int company, int netProfitList[])
 	int k = getServiceCapacity(company);
 	if (k == 0)
 	{
-		netProfitList[0] = 0;
-		return(1);
+		profits[0] = true;
+		return(0);
 	}
 	if (k > n)
 	{

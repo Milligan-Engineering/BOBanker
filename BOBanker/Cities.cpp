@@ -5,4 +5,3 @@
 Cities::Cities(int setup)
 {
 }
-
