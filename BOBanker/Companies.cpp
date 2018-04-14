@@ -500,7 +500,7 @@ int Companies::calcNP(int company, int netProfitList[])
 		profits[i] = false;
 	int n = getCityCount(company);
 	int k = getServiceCapacity(company);
-	if (k == 0)
+	if ((k == 0)||(n==0))
 	{
 		netProfitList[0] = 0;
 		return(1);
