@@ -132,7 +132,7 @@ public:
 	int addone(bool profits[], int sum, int n, int k, int start, int nsum, int company);
 
 
-
+	COLORREF color[maxCities];
 	wchar_t name[maxCompanies][35] = { L"Baltimore & Ohio", L"Boston & Maine", L"Chesapeake & Ohio", L"Illinois Central", L"Erie", L"New York Central",L"Nickel Plate", L"New York New Haven & Hartford", L"Pennsylvania", L"Wabash" };
 	int available[maxCompanies] = { 1,1,1,3,3,1,3,1,1,3 };
 

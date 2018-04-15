@@ -49,6 +49,12 @@ int  Players::changeCash(int player, int amount)
 	setTurnorders();
 	return(cash[player]);
 }
+int  Players::setCashM(int player, int amount)
+{
+	cash[player] = amount;
+	return(cash[player]);
+}
+
 
 //Shares Routines
 int  Players::getShares(int player, int company)

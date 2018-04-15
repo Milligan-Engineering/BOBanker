@@ -17,6 +17,7 @@ public:
 	int getCompanyOwned(int player, int index);
 
 	int setCash(int player, int amount);
+	int setCashM(int player, int amount);//does not try to adjust turn order
 	int setNetworth(int player, int amount);
 	int setOrder(int player, int order);
 	int setShares(int player, int company, int amount);

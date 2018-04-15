@@ -36,6 +36,16 @@ Companies::Companies(int setup)
 			trains[j][k] = 0;
 		}
 	}
+	color[0] = RGB(0, 0, 155); //blue
+	color[1] = RGB(200,0 ,100 ); //pink
+	color[2] = RGB(200,200 ,0 ); //yellow
+	color[3] = RGB(255,64 , 0); //orange
+	color[4] = RGB(76, 34,0 ); //brown
+	color[5] = RGB(0,155 ,0 ); //green
+	color[6] = RGB(100,0 ,100 ); //purple
+	color[7] = RGB(75,75,75 ); //white
+	color[8] = RGB(200, 0, 0); //red
+	color[9] = RGB(30, 20,10 ); //black
 }
 
 
