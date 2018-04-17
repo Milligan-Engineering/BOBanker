@@ -120,6 +120,11 @@ int Companies::setValuation(int company, int value)
 	setTurnorders();
 	return (valuation[company]);
 }
+int Companies::setValuationM(int company, int value)
+{
+	valuation[company] = value;
+	return (valuation[company]);
+}
 int Companies::increaseValuation(int company)
 {
 	if (valuation[company] < 26)
@@ -270,6 +275,24 @@ int Companies::clearStarted(int company)
 	started[company] = false;
 	return (started[company]);
 }
+
+//Sold functions
+bool Companies::getSold(int company)
+{
+	return (sold[company]);
+}
+int Companies::setSold(int company)
+{
+	sold[company] = true;
+	return (sold[company]);
+}
+int Companies::clearSold(int company)
+{
+	for (int j = 0; j< maxCompanies; j++)
+		sold[j] = false;
+	return (0);
+}
+
 
 //Recievership functions
 bool Companies::getRecievership(int company)

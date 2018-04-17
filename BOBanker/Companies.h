@@ -28,6 +28,7 @@ public:
 	int setOrphans(int company, int value);
     int changeOrphans(int company, int sharesVal);
 
+
     bool getStarted(int company);
     int setStarted(int company);
 	int clearStarted(int company);
@@ -68,6 +69,7 @@ public:
 
 	int getValuation(int company);
     int setValuation(int company, int value);
+	int setValuationM(int company, int value);
     int increaseValuation(int company);
 	int decreaseValuation(int company);
 
@@ -152,8 +154,5 @@ private:
 	bool coals[maxCompanies][maxCoal];
 	int trains[maxCompanies][maxTrains];
 	int techLevel;
-
-
-
 };
 
