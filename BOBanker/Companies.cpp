@@ -362,6 +362,15 @@ int Companies::setTurnorders()
 
 //Train Funtions
 
+int Companies::getTrain(int company, int index)
+{
+	return (trains[company][index]);
+}
+int Companies::setTrain(int company, int index, int value)
+{
+	trains[company][index] = value;
+	return (trains[company][index]);
+}
 
 int Companies::getTrainForSale()
 {

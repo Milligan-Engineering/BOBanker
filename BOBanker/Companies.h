@@ -118,6 +118,9 @@ public:
 	//Precondition: index of train in indexVal, and index owner of train in 
 	//Postcondion: Returns the index of the company owning the train.
 	int buyTrainForSale(int company);
+	int getTrain(int company, int index);
+	int setTrain(int company, int index, int value);
+
 
 
 	int getTechLevel();
