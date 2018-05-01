@@ -2,10 +2,13 @@
 #include "Game.h"
 
 
-Game::Game(int pTurn, int pRound)
+//Game::Game(int pTurn, int pRound)
+//{
+//	turn = pTurn;
+//	round = pRound;
+//}
+Game::Game()
 {
-	turn = pTurn;
-	round = pRound;
 }
 
 int Game::getTurn()

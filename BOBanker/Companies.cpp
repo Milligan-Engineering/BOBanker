@@ -9,7 +9,7 @@ using namespace std;
 Trains trainsC(0);
 Cities citiesC(0);
 
-Companies::Companies(int setup)
+Companies::Companies()
 
 {
 	for (int j = 0; j < maxCompanies; j++)

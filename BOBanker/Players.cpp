@@ -16,7 +16,7 @@ Players::Players(char nameVal[20], int cashVal, int networthVal, int sharesVal[m
  }
 } */
 
-Players::Players(int value)
+Players::Players()
 {
 	for (int i = 0; i < maxPlayers; i++)
 	{
@@ -31,6 +31,7 @@ Players::Players(int value)
 	}
 
 }
+
 
 // Cash functions
 int  Players::getCash(int player)

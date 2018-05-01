@@ -2,7 +2,9 @@
 class Game
 {
 public:
-	Game(int pTurn, int pRound);
+//	Game(int pTurn, int pRound);
+
+	Game();
 
 	int setTurn(int turn);
 	//Precondition: The index of the turn order is passed in turn

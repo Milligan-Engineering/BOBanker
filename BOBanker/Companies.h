@@ -5,7 +5,7 @@ class Companies
 {
 public:
 	
-	Companies(int setup);
+	Companies();
 
 	int getCash(int company);
     int setCash(int company, int cash);

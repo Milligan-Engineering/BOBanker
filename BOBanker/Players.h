@@ -4,7 +4,7 @@
 class Players
 {
 public:
-	Players(int value);
+	Players();
 
 	wchar_t name[maxPlayers][20];
 	void getInfo(int player);
