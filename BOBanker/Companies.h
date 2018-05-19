@@ -20,6 +20,9 @@ public:
 	int getNetprofit(int company);
     int setNetprofit(int company, int netprofit);
 
+	int getProfitPerShare(int company);
+	int setProfitPerShare(int company, int value);
+
 	int getShares(int company);
 	int setShares(int company, int value);
     int changeShares(int company, int sharesVal);
@@ -145,6 +148,7 @@ private:
 
 	int cash[maxCompanies];
 	int netprofit[maxCompanies];
+	int profitPerShare[maxCompanies];
 	int valuation[maxCompanies];
 	int shares[maxCompanies];
 	int orphans[maxCompanies];

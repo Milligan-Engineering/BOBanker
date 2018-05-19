@@ -16,6 +16,7 @@ Companies::Companies()
 	{
 		cash[j] = 0;
 		netprofit[j] = 0;
+		profitPerShare[j] = 0;
 		valuation[j] = 0;
 		shares[j] = 10;
 		orphans[j] = 0;
@@ -155,6 +156,17 @@ int Companies::setNetprofit(int company, int netprofitVal)
 {
 	netprofit[company] = netprofitVal;
 	return(netprofit[company]);
+}
+
+//Net Profit per Share functions
+int Companies::getProfitPerShare(int company)
+{
+	return (profitPerShare[company]);
+}
+int Companies::setProfitPerShare(int company, int value)
+{
+	profitPerShare[company] = value;
+	return(profitPerShare[company]);
 }
 
 //Shares fucntions
