@@ -52,6 +52,10 @@ public:
 	// For example: 3 would be the third city serviced of 8 total.
 	//Postcondition: Returns the city idex
 
+	int getCompaniesinCity(int city);
+	//Precondition: city to get count for is in passes in city
+	//Postcondition: The number of companies currently in that city is returned by function
+
 	bool getCoal(int company, int coal);
 	int setCoal(int company, int coal);
 	int clearCoal(int company, int coal);

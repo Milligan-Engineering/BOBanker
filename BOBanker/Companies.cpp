@@ -228,7 +228,6 @@ int Companies::getCityCount(int company)
 	}
 	return(count);
 }
-
 int Companies::getCityServiced(int company, int number)
 {
 	int count = 0;
@@ -242,6 +241,19 @@ int Companies::getCityServiced(int company, int number)
 		}
 	}
 	return(cityServiced[number]);
+}
+
+int Companies::getCompaniesinCity(int city)
+{
+	int count = 0;
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (cities[j][city])
+		{
+			count++;
+		}
+	}
+	return(count);
 }
 
 //Coal functions
