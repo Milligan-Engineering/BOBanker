@@ -32,6 +32,11 @@ public:
 
 	bool getMarketSuccess();
 	bool setMarketSuccess(bool value);
+	
+	int getNumberPasses();
+	int incNumberPasses();
+	int setNumberPasses(int value);
+
 
 	int incTurn(int order[], int number);
 		// Precondition: The order of the entities is stored in array order with the index of the first entity

@@ -9,6 +9,7 @@
 //}
 Game::Game()
 {
+	numberPasses = 0;
 }
 
 int Game::getTurn()
@@ -52,6 +53,20 @@ bool Game::setMarketSuccess(bool value)
 	return(value);
 }
 
+int Game::getNumberPasses()
+{
+	return(numberPasses);
+}
+int Game::incNumberPasses()
+{
+	numberPasses++;
+	return(numberPasses);
+}
+int Game::setNumberPasses(int value)
+{
+	numberPasses = value;
+	return(numberPasses);
+}
 
 // Version for B&O
 int Game::incTurn(int order[], int number)
