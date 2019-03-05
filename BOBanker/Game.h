@@ -49,12 +49,12 @@ public:
 
 
 private:
-	int turn; // Index of current Player or company
-	int round; // Current round
-	bool marketSuccess; //Indicates player did not pass
+	int turn = 0; // Index of current Player or company
+	int round = 0; // Current round
+	bool marketSuccess; //Indicates player did not only pass
 	int numberPasses; //Number of passes in turn
-	int playerOrder[maxPlayers];
-	int companyOrder[maxCompanies];
+	int playerOrder[maxPlayers] = { 0,1,2,3,4,5 };
+	int companyOrder[maxCompanies] = { 0,1,2,3,4,5,6,7,8,9 };
 	int endLevel = 2;
 };
 
