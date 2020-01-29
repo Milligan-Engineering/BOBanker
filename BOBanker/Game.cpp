@@ -53,6 +53,17 @@ bool Game::setMarketSuccess(bool value)
 	return(value);
 }
 
+bool Game::getBuySuccess()
+{
+	return(buySuccess);
+}
+
+bool Game::setBuySuccess(bool value)
+{
+	buySuccess = value;
+	return(value);
+}
+
 int Game::getNumberPasses()
 {
 	return(numberPasses);

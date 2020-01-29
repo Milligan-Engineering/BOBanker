@@ -33,6 +33,9 @@ public:
 	bool getMarketSuccess();
 	bool setMarketSuccess(bool value);
 	
+	bool getBuySuccess();
+	bool setBuySuccess(bool value);
+
 	int getNumberPasses();
 	int incNumberPasses();
 	int setNumberPasses(int value);
@@ -52,6 +55,7 @@ private:
 	int turn = 0; // Index of current Player or company
 	int round = 0; // Current round
 	bool marketSuccess; //Indicates player did not only pass
+	bool buySuccess; // Inicates player bought shares and market turn should end
 	int numberPasses; //Number of passes in turn
 	int playerOrder[maxPlayers] = { 0,1,2,3,4,5 };
 	int companyOrder[maxCompanies] = { 0,1,2,3,4,5,6,7,8,9 };

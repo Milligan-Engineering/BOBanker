@@ -1,0 +1,922 @@
+Monitor File 
+ 
+ALL ABOARD!!!! Here we go.
+++ Casey/Mackenzie now has  5 shares of Baltimore & Ohio. 
+++ Casey/Mackenzie now has $45. 
+++ Baltimore & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $330. 
+++ Casey/Mackenzie is the new president for Baltimore & Ohio. 
+++ John/Erin now has  5 shares of Pennsylvania. 
+++ John/Erin now has $45. 
+++ Pennsylvania now has 5 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $330. 
+++ John/Erin is the new president for Pennsylvania. 
+++ Henry/Brandon now has  5 shares of Pennsylvania. 
+++ Henry/Brandon now has $45. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $660. 
+++ Dr.G/Tyler now has  6 shares of New York New Haven & Hartford. 
+++ Dr.G/Tyler now has $45. 
+++ New York New Haven & Hartford now has 4 regualr shares and 0 orphan shares. 
+++ New York New Haven & Hartford now has $330. 
+++ Dr.G/Tyler is the new president for New York New Haven & Hartford. 
+Baltimore & Ohio building actions: 
+  *Buy train 1. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $5 from 5 shares and now has $225. 
+++ Casey/Mackenzie revieved $5 from 5 shares of Baltimore & Ohio and now has $50. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+Pennsylvania building actions: 
+  *Buy train 2. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Philadelphia. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $545. 
+++ John/Erin revieved $10 from 5 shares of Pennsylvania and now has $55. 
+++ Henry/Brandon revieved $10 from 5 shares of Pennsylvania and now has $55. 
+++ Pennsylvania valuation increases to $74 per share. 
+New York New Haven & Hartford building actions: 
+  *Buy train 3. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Hartford. 
+   -NewHaven. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $4 from 4 shares and now has $234. 
+++ Dr.G/Tyler revieved $6 from 6 shares of New York New Haven & Hartford and now has $51. 
+++ New York New Haven & Hartford valuation increases to $60 per share. 
+Baltimore & Ohio building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Withhold dividens. 
+++ Baltimore & Ohio  recieved net profit of  $10 and now has $215. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Harrisburg. 
+  *Set net profit to $20. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $20 and now has $545. 
+++ Pennsylvania valuation remains the same at $74 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+   -NewYork. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $8 from 4 shares and now has $182. 
+++ Dr.G/Tyler revieved $12 from 6 shares of New York New Haven & Hartford and now has $63. 
+++ New York New Haven & Hartford valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $5 from 5 shares and now has $140. 
+++ Casey/Mackenzie revieved $5 from 5 shares of Baltimore & Ohio and now has $55. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+Pennsylvania building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $20 and now has $485. 
+++ Pennsylvania valuation remains the same at $74 per share. 
+New York New Haven & Hartford building actions: 
+  *Buy train 4. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Boston. 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $12 from 4 shares and now has $99. 
+++ Dr.G/Tyler revieved $18 from 6 shares of New York New Haven & Hartford and now has $81. 
+++ New York New Haven & Hartford valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal1. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $25 from 5 shares and now has $165. 
+++ Casey/Mackenzie revieved $25 from 5 shares of Baltimore & Ohio and now has $80. 
+++ Baltimore & Ohio valuation increases to $82 per share. 
+Pennsylvania building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $20 and now has $445. 
+++ Pennsylvania valuation remains the same at $74 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $16 from 4 shares and now has $115. 
+++ Dr.G/Tyler revieved $24 from 6 shares of New York New Haven & Hartford and now has $105. 
+++ New York New Haven & Hartford valuation increases to $82 per share. 
+++ Dr.G/Tyler now has  7 shares of New York New Haven & Hartford. 
+++ Dr.G/Tyler now has $23. 
+++ New York New Haven & Hartford now has 3 regualr shares and 0 orphan shares. 
+++ New York New Haven & Hartford now has $197. 
+Baltimore & Ohio building actions: 
+  *Buy train 5. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Washington. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $30 from 5 shares and now has $95. 
+++ Casey/Mackenzie revieved $30 from 5 shares of Baltimore & Ohio and now has $110. 
+++ Baltimore & Ohio valuation increases to $91 per share. 
+New York New Haven & Hartford building actions: 
+  *Buy train 6. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $15 from 3 shares and now has $72. 
+++ Dr.G/Tyler revieved $35 from 7 shares of New York New Haven & Hartford and now has $58. 
+++ New York New Haven & Hartford valuation increases to $91 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal2. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $445. 
+++ John/Erin revieved $30 from 5 shares of Pennsylvania and now has $85. 
+++ Henry/Brandon revieved $30 from 5 shares of Pennsylvania and now has $85. 
+++ Pennsylvania valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Scrap train 1. 
+  *Scrap train 5. 
+  *Buy train 7. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $70. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $35 from 5 shares and now has $40. 
+++ Casey/Mackenzie revieved $35 from 5 shares of Baltimore & Ohio and now has $145. 
+++ Baltimore & Ohio valuation increases to $100 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $15 from 3 shares and now has $87. 
+++ Dr.G/Tyler revieved $35 from 7 shares of New York New Haven & Hartford and now has $93. 
+++ New York New Haven & Hartford valuation remains the same at $91 per share. 
+Pennsylvania building actions: 
+  *Buy train 8. 
+  *Build $120 of track. 
+  *Cities added: 
+   -NewYork. 
+   -Pittsburg. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $205. 
+++ John/Erin revieved $45 from 5 shares of Pennsylvania and now has $130. 
+++ Henry/Brandon revieved $45 from 5 shares of Pennsylvania and now has $130. 
+++ Pennsylvania valuation increases to $91 per share. 
+++ Dr.G/Tyler now has $548. 
+++ Dr.G/Tyler now has 2 shares of New York New Haven & Hartford 
+++ New York New Haven & Hartford now has 3 regualr shares and 5 orphan shares. 
+++ New York New Haven & Hartford now has $87. 
+++ New York New Haven & Hartford  has been sold this turn and its valuation has been reduced to $82 per share. 
+++ Dr.G/Tyler now has  1 shares of Baltimore & Ohio. 
+++ Dr.G/Tyler now has $448. 
+++ Baltimore & Ohio now has 4 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $140. 
+++ Casey/Mackenzie now has  6 shares of Baltimore & Ohio. 
+++ Casey/Mackenzie now has $45. 
+++ Baltimore & Ohio now has 3 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $240. 
+++ Dr.G/Tyler now has  6 shares of Chesapeake & Ohio. 
+++ Dr.G/Tyler now has $4. 
+++ Chesapeake & Ohio now has 4 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $444. 
+++ Dr.G/Tyler is the new president for Chesapeake & Ohio. 
+++ Henry/Brandon now has  1 shares of Chesapeake & Ohio. 
+++ Henry/Brandon now has $56. 
+++ Chesapeake & Ohio now has 3 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $518. 
+++ John/Erin now has  1 shares of Chesapeake & Ohio. 
+++ John/Erin now has $56. 
+++ Chesapeake & Ohio now has 2 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $592. 
+ New York New Haven & Hartford now has $5 and 4 regular shares and 4 orphan shares. 
+++ New York New Haven & Hartford valuation decreases to $74 per share due to orphaned shares. 
+Baltimore & Ohio building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+   -Philadelphia. 
+   -Pittsburg. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $27 from 3 shares and now has $187. 
+++ Dr.G/Tyler revieved $9 from 1 shares of Baltimore & Ohio and now has $13. 
+++ Casey/Mackenzie revieved $54 from 6 shares of Baltimore & Ohio and now has $99. 
+++ Baltimore & Ohio valuation increases to $110 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $110. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $185. 
+++ John/Erin revieved $55 from 5 shares of Pennsylvania and now has $111. 
+++ Henry/Brandon revieved $55 from 5 shares of Pennsylvania and now has $111. 
+++ Pennsylvania valuation increases to $100 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Withhold dividens. 
+++ New York New Haven & Hartford  recieved net profit of  $50 and now has $55. 
+++ New York New Haven & Hartford valuation remains the same at $74 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 9. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Richmond. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $2 from 2 shares and now has $454. 
+++ John/Erin revieved $1 from 1 shares of Chesapeake & Ohio and now has $112. 
+++ Henry/Brandon revieved $1 from 1 shares of Chesapeake & Ohio and now has $112. 
+++ Dr.G/Tyler revieved $6 from 6 shares of Chesapeake & Ohio and now has $19. 
+++ Chesapeake & Ohio valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Buy train 10. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $39 from 3 shares and now has $96. 
+++ Dr.G/Tyler revieved $13 from 1 shares of Baltimore & Ohio and now has $32. 
+++ Casey/Mackenzie revieved $78 from 6 shares of Baltimore & Ohio and now has $177. 
+++ Baltimore & Ohio valuation increases to $121 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $110. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $110 and now has $275. 
+++ Pennsylvania valuation remains the same at $100 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $120 of track. 
+  *Cities added: 
+   -Roanoke. 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $6 from 2 shares and now has $340. 
+++ John/Erin revieved $3 from 1 shares of Chesapeake & Ohio and now has $115. 
+++ Henry/Brandon revieved $3 from 1 shares of Chesapeake & Ohio and now has $115. 
+++ Dr.G/Tyler revieved $18 from 6 shares of Chesapeake & Ohio and now has $50. 
+++ Chesapeake & Ohio valuation increases to $91 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Withhold dividens. 
+++ New York New Haven & Hartford  recieved net profit of  $50 and now has $105. 
+++ New York New Haven & Hartford valuation remains the same at $74 per share. 
+++ Henry/Brandon now has  2 shares of Chesapeake & Ohio. 
+++ Henry/Brandon now has $24. 
+++ Chesapeake & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $431. 
+++ John/Erin now has  2 shares of Chesapeake & Ohio. 
+++ John/Erin now has $24. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $522. 
+++ Casey/Mackenzie now has  7 shares of Baltimore & Ohio. 
+++ Casey/Mackenzie now has $56. 
+++ Baltimore & Ohio now has 2 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $217. 
+++ New York New Haven & Hartford valuation decreases to $66 per share due to orphaned shares. 
+Baltimore & Ohio building actions: 
+  *Scrap train 7. 
+  *Buy train 11. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $170. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $34 from 2 shares and now has $71. 
+++ Dr.G/Tyler revieved $17 from 1 shares of Baltimore & Ohio and now has $67. 
+++ Casey/Mackenzie revieved $119 from 7 shares of Baltimore & Ohio and now has $175. 
+++ Baltimore & Ohio valuation increases to $133 per share. 
+Pennsylvania building actions: 
+  *Scrap train 2. 
+  *Buy train 12. 
+  *Build $30 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $80. 
+++ John/Erin revieved $95 from 5 shares of Pennsylvania and now has $119. 
+++ Henry/Brandon revieved $95 from 5 shares of Pennsylvania and now has $119. 
+++ Pennsylvania valuation increases to $110 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal3. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $522. 
+++ John/Erin revieved $10 from 2 shares of Chesapeake & Ohio and now has $129. 
+++ Henry/Brandon revieved $10 from 2 shares of Chesapeake & Ohio and now has $129. 
+++ Dr.G/Tyler revieved $30 from 6 shares of Chesapeake & Ohio and now has $97. 
+++ Chesapeake & Ohio valuation increases to $100 per share. 
+New York New Haven & Hartford building actions: 
+  *Scrap train 3. 
+  *Scrap train 4. 
+  *Scrap train 6. 
+  *Buy train 13. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $24 from 4 shares and now has $39. 
+++ Dr.G/Tyler revieved $12 from 2 shares of New York New Haven & Hartford and now has $109. 
+++ New York New Haven & Hartford valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $70 of track. 
+  *Cities added: 
+   -NewYork. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $38 from 2 shares and now has $39. 
+++ Dr.G/Tyler revieved $19 from 1 shares of Baltimore & Ohio and now has $128. 
+++ Casey/Mackenzie revieved $133 from 7 shares of Baltimore & Ohio and now has $308. 
+++ Baltimore & Ohio valuation increases to $146 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $60. 
+++ John/Erin revieved $100 from 5 shares of Pennsylvania and now has $229. 
+++ Henry/Brandon revieved $100 from 5 shares of Pennsylvania and now has $229. 
+++ Pennsylvania valuation increases to $121 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $200 of track. 
+  *Cities added: 
+   -Washington. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $322. 
+++ John/Erin revieved $12 from 2 shares of Chesapeake & Ohio and now has $241. 
+++ Henry/Brandon revieved $12 from 2 shares of Chesapeake & Ohio and now has $241. 
+++ Dr.G/Tyler revieved $36 from 6 shares of Chesapeake & Ohio and now has $164. 
+++ Chesapeake & Ohio valuation increases to $110 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $70. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $28 from 4 shares and now has $67. 
+++ Dr.G/Tyler revieved $14 from 2 shares of New York New Haven & Hartford and now has $178. 
+++ New York New Haven & Hartford valuation increases to $82 per share. 
+++ Dr.G/Tyler now has  2 shares of Baltimore & Ohio. 
+++ Dr.G/Tyler now has $32. 
+++ Baltimore & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $185. 
+++ Henry/Brandon now has  3 shares of Illinois Central. 
+++ Henry/Brandon now has $19. 
+++ Illinois Central now has 7 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $222. 
+++ Henry/Brandon is the new president for Illinois Central. 
+++ John/Erin now has  3 shares of Illinois Central. 
+++ John/Erin now has $19. 
+++ Illinois Central now has 4 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $444. 
+++ Casey/Mackenzie now has  8 shares of Baltimore & Ohio. 
+++ Casey/Mackenzie now has $162. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $331. 
+++ Casey/Mackenzie now has  2 shares of Illinois Central. 
+++ Casey/Mackenzie now has $14. 
+++ Illinois Central now has 2 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $592. 
+++ New York New Haven & Hartford valuation decreases to $74 per share due to orphaned shares. 
+Baltimore & Ohio building actions: 
+  *Buy train 14. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $136. 
+++ Dr.G/Tyler revieved $54 from 2 shares of Baltimore & Ohio and now has $86. 
+++ Casey/Mackenzie revieved $216 from 8 shares of Baltimore & Ohio and now has $230. 
+++ Baltimore & Ohio valuation increases to $160 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $200. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $200 and now has $260. 
+++ Pennsylvania valuation remains the same at $121 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal4. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $322. 
+++ John/Erin revieved $20 from 2 shares of Chesapeake & Ohio and now has $39. 
+++ Henry/Brandon revieved $20 from 2 shares of Chesapeake & Ohio and now has $39. 
+++ Dr.G/Tyler revieved $60 from 6 shares of Chesapeake & Ohio and now has $146. 
+++ Chesapeake & Ohio valuation increases to $121 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $32 from 4 shares and now has $99. 
+++ Dr.G/Tyler revieved $16 from 2 shares of New York New Haven & Hartford and now has $162. 
+++ New York New Haven & Hartford valuation increases to $82 per share. 
+Illinois Central building actions: 
+  *Buy train 15. 
+  *Build $30 of track. 
+  *Cities added: 
+   -SaintLouis. 
+   -Springfield. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $8 from 2 shares and now has $435. 
+++ John/Erin revieved $12 from 3 shares of Illinois Central and now has $51. 
+++ Henry/Brandon revieved $12 from 3 shares of Illinois Central and now has $51. 
+++ Casey/Mackenzie revieved $8 from 2 shares of Illinois Central and now has $238. 
+++ Illinois Central valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $70 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Wheeling. 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $66. 
+++ Dr.G/Tyler revieved $54 from 2 shares of Baltimore & Ohio and now has $216. 
+++ Casey/Mackenzie revieved $216 from 8 shares of Baltimore & Ohio and now has $454. 
+++ Baltimore & Ohio valuation remains the same at $160 per share. 
+Pennsylvania building actions: 
+  *Scrap train 8. 
+  *Buy train 16. 
+  *Build $10 of track. 
+  *Cities added: 
+   -FortWayne. 
+  *Set net profit to $320. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $10. 
+++ John/Erin revieved $160 from 5 shares of Pennsylvania and now has $211. 
+++ Henry/Brandon revieved $160 from 5 shares of Pennsylvania and now has $211. 
+++ Pennsylvania valuation increases to $133 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $90 of track. 
+  *Cities added: 
+   -Baltimore. 
+   -Harrisburg. 
+   -NewYork. 
+   -Philadelphia. 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $232. 
+++ John/Erin revieved $28 from 2 shares of Chesapeake & Ohio and now has $239. 
+++ Henry/Brandon revieved $28 from 2 shares of Chesapeake & Ohio and now has $239. 
+++ Dr.G/Tyler revieved $84 from 6 shares of Chesapeake & Ohio and now has $300. 
+++ Chesapeake & Ohio valuation increases to $133 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $36 from 4 shares and now has $135. 
+++ Dr.G/Tyler revieved $18 from 2 shares of New York New Haven & Hartford and now has $318. 
+++ New York New Haven & Hartford valuation increases to $91 per share. 
+Illinois Central building actions: 
+  *Build $50 of track. 
+  *Cities added: 
+   -Chicago. 
+   -FortWayne. 
+  *Set net profit to $120. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $24 from 2 shares and now has $409. 
+++ John/Erin revieved $36 from 3 shares of Illinois Central and now has $275. 
+++ Henry/Brandon revieved $36 from 3 shares of Illinois Central and now has $275. 
+++ Casey/Mackenzie revieved $24 from 2 shares of Illinois Central and now has $478. 
+++ Illinois Central valuation increases to $91 per share. 
+++ Henry/Brandon now has  5 shares of Illinois Central. 
+++ Henry/Brandon now has $93. 
+++ Illinois Central now has 0 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $591. 
+++ John/Erin now has $541. 
+++ John/Erin now has 0 shares of Chesapeake & Ohio 
+++ Chesapeake & Ohio now has 0 regualr shares and 2 orphan shares. 
+++ Chesapeake & Ohio now has $232. 
+++ Chesapeake & Ohio  has been sold this turn and its valuation has been reduced to $121 per share. 
+++ John/Erin now has  7 shares of Nickel Plate. 
+++ John/Erin now has $23. 
+++ Nickel Plate now has 3 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $518. 
+++ John/Erin is the new president for Nickel Plate. 
+++ Dr.G/Tyler now has  3 shares of Nickel Plate. 
+++ Dr.G/Tyler now has $96. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $740. 
+++ Casey/Mackenzie now has  2 shares of Chesapeake & Ohio. 
+++ Casey/Mackenzie now has $236. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $232. 
+++ Casey/Mackenzie now has  3 shares of Erie. 
+++ Casey/Mackenzie now has $14. 
+++ Erie now has 7 regualr shares and 0 orphan shares. 
+++ Erie now has $222. 
+++ Casey/Mackenzie is the new president for Erie. 
+++ Henry/Brandon now has  1 shares of Erie. 
+++ Henry/Brandon now has $19. 
+++ Erie now has 6 regualr shares and 0 orphan shares. 
+++ Erie now has $296. 
+++ Dr.G/Tyler now has  1 shares of Erie. 
+++ Dr.G/Tyler now has $22. 
+++ Erie now has 5 regualr shares and 0 orphan shares. 
+++ Erie now has $370. 
+++ New York New Haven & Hartford valuation decreases to $82 per share due to orphaned shares. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $310. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $66. 
+++ Dr.G/Tyler revieved $62 from 2 shares of Baltimore & Ohio and now has $84. 
+++ Casey/Mackenzie revieved $248 from 8 shares of Baltimore & Ohio and now has $262. 
+++ Baltimore & Ohio valuation increases to $176 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $330. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $10. 
+++ John/Erin revieved $165 from 5 shares of Pennsylvania and now has $188. 
+++ Henry/Brandon revieved $165 from 5 shares of Pennsylvania and now has $184. 
+++ Pennsylvania valuation increases to $146 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal5. 
+  *Set net profit to $180. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $232. 
+++ Henry/Brandon revieved $36 from 2 shares of Chesapeake & Ohio and now has $220. 
+++ Dr.G/Tyler revieved $108 from 6 shares of Chesapeake & Ohio and now has $192. 
+++ Casey/Mackenzie revieved $36 from 2 shares of Chesapeake & Ohio and now has $298. 
+++ Chesapeake & Ohio valuation increases to $133 per share. 
+Illinois Central building actions: 
+  *Scrap train 15. 
+  *Buy train 17. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+  *Set net profit to $170. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $351. 
+++ John/Erin revieved $51 from 3 shares of Illinois Central and now has $239. 
+++ Henry/Brandon revieved $85 from 5 shares of Illinois Central and now has $305. 
+++ Casey/Mackenzie revieved $34 from 2 shares of Illinois Central and now has $332. 
+++ Illinois Central valuation increases to $100 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $90. 
+  *Withhold dividens. 
+++ New York New Haven & Hartford  recieved net profit of  $90 and now has $225. 
+++ New York New Haven & Hartford valuation remains the same at $82 per share. 
+Nickel Plate building actions: 
+  *Buy train 18. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $460. 
+++ John/Erin revieved $70 from 7 shares of Nickel Plate and now has $309. 
+++ Dr.G/Tyler revieved $30 from 3 shares of Nickel Plate and now has $222. 
+++ Nickel Plate valuation increases to $82 per share. 
+ALL ABOARD!!!! Here we go.
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $330. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $66. 
+++ Dr.G/Tyler revieved $66 from 2 shares of Baltimore & Ohio and now has $297. 
+++ Casey/Mackenzie revieved $264 from 8 shares of Baltimore & Ohio and now has $623. 
+++ Baltimore & Ohio valuation increases to $194 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal1. 
+  *Set net profit to $330. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $330 and now has $340. 
+++ Pennsylvania valuation remains the same at $146 per share. 
+Chesapeake & Ohio building actions: 
+  *Scrap train 9. 
+  *Buy train 20. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Boston. 
+   -Hartford. 
+   -NewHaven. 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $72. 
+++ Henry/Brandon revieved $48 from 2 shares of Chesapeake & Ohio and now has $362. 
+++ Dr.G/Tyler revieved $144 from 6 shares of Chesapeake & Ohio and now has $441. 
+++ Casey/Mackenzie revieved $48 from 2 shares of Chesapeake & Ohio and now has $671. 
+++ Chesapeake & Ohio valuation increases to $146 per share. 
+Illinois Central building actions: 
+  *Scrap train 17. 
+  *Buy train 21. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $250. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $51. 
+++ John/Erin revieved $75 from 3 shares of Illinois Central and now has $384. 
+++ Henry/Brandon revieved $125 from 5 shares of Illinois Central and now has $487. 
+++ Casey/Mackenzie revieved $50 from 2 shares of Illinois Central and now has $721. 
+++ Illinois Central valuation increases to $110 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $40 from 4 shares and now has $265. 
+++ Dr.G/Tyler revieved $20 from 2 shares of New York New Haven & Hartford and now has $461. 
+++ New York New Haven & Hartford valuation increases to $91 per share. 
+Nickel Plate building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+  *Set net profit to $220. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $420. 
+++ John/Erin revieved $154 from 7 shares of Nickel Plate and now has $538. 
+++ Dr.G/Tyler revieved $66 from 3 shares of Nickel Plate and now has $527. 
+++ Nickel Plate valuation increases to $91 per share. 
+Erie building actions: 
+  *Build $50 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+  *Set net profit to $180. 
+  *Distribute dividiens. 
+++ Erie recieved $90 from 5 shares and now has $165. 
+++ Henry/Brandon revieved $18 from 1 shares of Erie and now has $505. 
+++ Dr.G/Tyler revieved $18 from 1 shares of Erie and now has $545. 
+++ Casey/Mackenzie revieved $54 from 3 shares of Erie and now has $775. 
+++ Erie valuation increases to $91 per share. 
+++ Henry/Brandon now has $797. 
+++ Henry/Brandon now has 0 shares of Chesapeake & Ohio 
+++ Chesapeake & Ohio now has 0 regualr shares and 2 orphan shares. 
+++ Chesapeake & Ohio now has $72. 
+++ Chesapeake & Ohio  has been sold this turn and its valuation has been reduced to $133 per share. 
+++ Henry/Brandon now has  7 shares of Wabash. 
+++ Henry/Brandon now has $97. 
+++ Wabash now has 3 regualr shares and 0 orphan shares. 
+++ Wabash now has $700. 
+++ Henry/Brandon is the new president for Wabash. 
+++ John/Erin now has  5 shares of Erie. 
+++ John/Erin now has $83. 
+++ Erie now has 0 regualr shares and 0 orphan shares. 
+++ Erie now has $620. 
+++ John/Erin is the new president for Erie. 
+++ Dr.G/Tyler now has  8 shares of Chesapeake & Ohio. 
+++ Dr.G/Tyler now has $279. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $72. 
+++ Casey/Mackenzie now has  7 shares of New York Central. 
+++ Casey/Mackenzie now has $75. 
+++ New York Central now has 3 regualr shares and 0 orphan shares. 
+++ New York Central now has $700. 
+++ Casey/Mackenzie is the new president for New York Central. 
+++ Henry/Brandon now has  1 shares of New York New Haven & Hartford. 
+++ Henry/Brandon now has $6. 
+++ New York New Haven & Hartford now has 4 regualr shares and 3 orphan shares. 
+++ New York New Haven & Hartford now has $265. 
+++ Dr.G/Tyler now has  2 shares of New York Central. 
+++ Dr.G/Tyler now has $79. 
+++ New York Central now has 1 regualr shares and 0 orphan shares. 
+++ New York Central now has $900. 
+ New York New Haven & Hartford now has $83 and 6 regular shares and 1 orphan shares. 
+++ New York New Haven & Hartford valuation decreases to $82 per share due to orphaned shares. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $390. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $66. 
+++ Dr.G/Tyler revieved $78 from 2 shares of Baltimore & Ohio and now has $157. 
+++ Casey/Mackenzie revieved $312 from 8 shares of Baltimore & Ohio and now has $387. 
+++ Baltimore & Ohio valuation increases to $213 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $400. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $340. 
+++ John/Erin revieved $200 from 5 shares of Pennsylvania and now has $283. 
+++ Henry/Brandon revieved $200 from 5 shares of Pennsylvania and now has $206. 
+++ Pennsylvania valuation increases to $160 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+   -Wheeling. 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $12. 
+++ Dr.G/Tyler revieved $224 from 8 shares of Chesapeake & Ohio and now has $381. 
+++ Casey/Mackenzie revieved $56 from 2 shares of Chesapeake & Ohio and now has $443. 
+++ Chesapeake & Ohio valuation increases to $146 per share. 
+Illinois Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $51. 
+++ John/Erin revieved $81 from 3 shares of Illinois Central and now has $364. 
+++ Henry/Brandon revieved $135 from 5 shares of Illinois Central and now has $341. 
+++ Casey/Mackenzie revieved $54 from 2 shares of Illinois Central and now has $497. 
+++ Illinois Central valuation increases to $121 per share. 
+Wabash building actions: 
+  *Buy train 22. 
+  *Build $60 of track. 
+  *Cities added: 
+   -Cincinnati. 
+   -FortWayne. 
+   -Indainapolis. 
+   -Lousiville. 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Wabash recieved $42 from 3 shares and now has $327. 
+++ Henry/Brandon revieved $98 from 7 shares of Wabash and now has $439. 
+++ Wabash valuation increases to $110 per share. 
+New York Central building actions: 
+  *Buy train 23. 
+  *Build $130 of track. 
+  *Cities added: 
+   -Albany. 
+   -Buffalo. 
+   -NewYork. 
+   -Syracuse. 
+   -Utica. 
+  *Set net profit to $160. 
+  *Distribute dividiens. 
+++ New York Central recieved $16 from 1 shares and now has $456. 
+++ Dr.G/Tyler revieved $32 from 2 shares of New York Central and now has $413. 
+++ Casey/Mackenzie revieved $112 from 7 shares of New York Central and now has $609. 
+++ New York Central valuation increases to $110 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $420. 
+++ John/Erin revieved $161 from 7 shares of Nickel Plate and now has $525. 
+++ Dr.G/Tyler revieved $69 from 3 shares of Nickel Plate and now has $482. 
+++ Nickel Plate valuation increases to $100 per share. 
+Erie building actions: 
+  *Buy train 24. 
+  *Build $90 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Indainapolis. 
+   -Pittsburg. 
+  *Set net profit to $340. 
+  *Distribute dividiens. 
+++ Erie recieved $0 from 0 shares and now has $225. 
+++ John/Erin revieved $170 from 5 shares of Erie and now has $695. 
+++ Henry/Brandon revieved $34 from 1 shares of Erie and now has $473. 
+++ Dr.G/Tyler revieved $34 from 1 shares of Erie and now has $516. 
+++ Casey/Mackenzie revieved $102 from 3 shares of Erie and now has $711. 
+++ Erie valuation increases to $100 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $60 from 6 shares and now has $143. 
+++ Henry/Brandon revieved $10 from 1 shares of New York New Haven & Hartford and now has $483. 
+++ Dr.G/Tyler revieved $20 from 2 shares of New York New Haven & Hartford and now has $536. 
+++ New York New Haven & Hartford valuation remains the same at $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $400. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $66. 
+++ Dr.G/Tyler revieved $80 from 2 shares of Baltimore & Ohio and now has $616. 
+++ Casey/Mackenzie revieved $320 from 8 shares of Baltimore & Ohio and now has $1031. 
+++ Baltimore & Ohio valuation increases to $234 per share. 
+Pennsylvania building actions: 
+  *Scrap train 12. 
+  *Buy train 25. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $420. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $120. 
+++ John/Erin revieved $210 from 5 shares of Pennsylvania and now has $905. 
+++ Henry/Brandon revieved $210 from 5 shares of Pennsylvania and now has $693. 
+++ Pennsylvania valuation increases to $176 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $12. 
+++ Dr.G/Tyler revieved $232 from 8 shares of Chesapeake & Ohio and now has $848. 
+++ Casey/Mackenzie revieved $58 from 2 shares of Chesapeake & Ohio and now has $1089. 
+++ Chesapeake & Ohio valuation increases to $160 per share. 
+Illinois Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $51. 
+++ John/Erin revieved $87 from 3 shares of Illinois Central and now has $992. 
+++ Henry/Brandon revieved $145 from 5 shares of Illinois Central and now has $838. 
+++ Casey/Mackenzie revieved $58 from 2 shares of Illinois Central and now has $1147. 
+++ Illinois Central valuation increases to $133 per share. 
+Wabash building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Wabash recieved $69 from 3 shares and now has $356. 
+++ Henry/Brandon revieved $161 from 7 shares of Wabash and now has $999. 
+++ Wabash valuation increases to $121 per share. 
+New York Central building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Philadelphia. 
+  *Set net profit to $220. 
+  *Distribute dividiens. 
+++ New York Central recieved $22 from 1 shares and now has $418. 
+++ Dr.G/Tyler revieved $44 from 2 shares of New York Central and now has $892. 
+++ Casey/Mackenzie revieved $154 from 7 shares of New York Central and now has $1301. 
+++ New York Central valuation increases to $121 per share. 
+Nickel Plate building actions: 
+  *Scrap train 18. 
+  *Buy train 26. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $0. 
+++ John/Erin revieved $210 from 7 shares of Nickel Plate and now has $1202. 
+++ Dr.G/Tyler revieved $90 from 3 shares of Nickel Plate and now has $982. 
+++ Nickel Plate valuation increases to $110 per share. 
+Erie building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $390. 
+  *Distribute dividiens. 
+++ Erie recieved $0 from 0 shares and now has $225. 
+++ John/Erin revieved $195 from 5 shares of Erie and now has $1397. 
+++ Henry/Brandon revieved $39 from 1 shares of Erie and now has $1038. 
+++ Dr.G/Tyler revieved $39 from 1 shares of Erie and now has $1021. 
+++ Casey/Mackenzie revieved $117 from 3 shares of Erie and now has $1418. 
+++ Erie valuation increases to $110 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $110. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $66 from 6 shares and now has $209. 
+++ Henry/Brandon revieved $11 from 1 shares of New York New Haven & Hartford and now has $1049. 
+++ Dr.G/Tyler revieved $22 from 2 shares of New York New Haven & Hartford and now has $1043. 
+++ New York New Haven & Hartford valuation increases to $91 per share. 
+End of the game. The winner is Casey/Mackenzie! 

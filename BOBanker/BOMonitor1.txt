@@ -1,0 +1,1200 @@
+Monitor File 
+ 
+Here we go
+++ Pete now has  5 shares of Pennsylvania. 
+++ Pete now has $0. 
+++ Pennsylvania now has 5 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $300. 
+++ Pete is the new president for Pennsylvania. 
+++ Nel now has  4 shares of New York Central. 
+++ Nel now has $36. 
+++ New York Central now has 6 regualr shares and 0 orphan shares. 
+++ New York Central now has $264. 
+++ Nel is the new president for New York Central. 
+++ Mal now has  1 shares of Pennsylvania. 
+++ Mal now has $240. 
+++ Pennsylvania now has 4 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $360. 
+++ Bob now has  5 shares of Baltimore & Ohio. 
+++ Bob now has $0. 
+++ Baltimore & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $300. 
+++ Bob is the new president for Baltimore & Ohio. 
+++ Sue now has  2 shares of Baltimore & Ohio. 
+++ Sue now has $180. 
+++ Baltimore & Ohio now has 3 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $420. 
+++ Mal now has  3 shares of Pennsylvania. 
+++ Mal now has $120. 
+++ Pennsylvania now has 2 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $480. 
+++ Sue now has  1 shares of New York Central. 
+++ Sue now has $114. 
+++ New York Central now has 5 regualr shares and 0 orphan shares. 
+++ New York Central now has $330. 
+++ Mal now has  2 shares of Baltimore & Ohio. 
+++ Mal now has $0. 
+++ Baltimore & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $540. 
+++ Sue now has  1 shares of Pennsylvania. 
+++ Sue now has $54. 
+++ Pennsylvania now has 1 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $540. 
+New York Central building actions: 
+  *Buy train 1. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Albany. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $10 from 5 shares and now has $200. 
+++ Nel revieved $8 from 4 shares of New York Central and now has $44. 
+++ Sue revieved $2 from 1 shares of New York Central and now has $56. 
+++ New York Central valuation increases to $74 per share. 
+Pennsylvania building actions: 
+  *Buy train 2. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Philadelphia. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $2 from 1 shares and now has $427. 
+++ Pete revieved $10 from 5 shares of Pennsylvania and now has $10. 
+++ Sue revieved $2 from 1 shares of Pennsylvania and now has $58. 
+++ Mal revieved $6 from 3 shares of Pennsylvania and now has $6. 
+++ Pennsylvania valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Buy train 3. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $1 from 1 shares and now has $441. 
+++ Bob revieved $5 from 5 shares of Baltimore & Ohio and now has $5. 
+++ Sue revieved $2 from 2 shares of Baltimore & Ohio and now has $60. 
+++ Mal revieved $2 from 2 shares of Baltimore & Ohio and now has $8. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+New York Central building actions: 
+  *Buy train 4. 
+  *Build $60 of track. 
+  *Cities added: 
+   -NewYork. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 5 shares and now has $75. 
+++ Nel revieved $16 from 4 shares of New York Central and now has $60. 
+++ Sue revieved $4 from 1 shares of New York Central and now has $64. 
+++ New York Central valuation increases to $82 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Harrisburg. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $2 from 1 shares and now has $409. 
+++ Pete revieved $10 from 5 shares of Pennsylvania and now has $20. 
+++ Sue revieved $2 from 1 shares of Pennsylvania and now has $66. 
+++ Mal revieved $6 from 3 shares of Pennsylvania and now has $14. 
+++ Pennsylvania valuation remains the same at $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $1 from 1 shares and now has $422. 
+++ Bob revieved $5 from 5 shares of Baltimore & Ohio and now has $10. 
+++ Sue revieved $2 from 2 shares of Baltimore & Ohio and now has $68. 
+++ Mal revieved $2 from 2 shares of Baltimore & Ohio and now has $16. 
+++ Baltimore & Ohio valuation remains the same at $66 per share. 
+++ Sue now has  2 shares of Pennsylvania. 
+++ Sue now has $2. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $475. 
+New York Central building actions: 
+  *Build $10 of track. 
+  *Cities added: 
+   -Utica. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 5 shares and now has $85. 
+++ Nel revieved $16 from 4 shares of New York Central and now has $76. 
+++ Sue revieved $4 from 1 shares of New York Central and now has $6. 
+++ New York Central valuation remains the same at $82 per share. 
+Pennsylvania building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $395. 
+++ Pete revieved $10 from 5 shares of Pennsylvania and now has $30. 
+++ Sue revieved $4 from 2 shares of Pennsylvania and now has $10. 
+++ Mal revieved $6 from 3 shares of Pennsylvania and now has $22. 
+++ Pennsylvania valuation remains the same at $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $1 from 1 shares and now has $363. 
+++ Bob revieved $5 from 5 shares of Baltimore & Ohio and now has $15. 
+++ Sue revieved $2 from 2 shares of Baltimore & Ohio and now has $12. 
+++ Mal revieved $2 from 2 shares of Baltimore & Ohio and now has $24. 
+++ Baltimore & Ohio valuation remains the same at $66 per share. 
+New York Central building actions: 
+  *Build $10 of track. 
+  *Cities added: 
+   -Syracuse. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 5 shares and now has $95. 
+++ Nel revieved $16 from 4 shares of New York Central and now has $92. 
+++ Sue revieved $4 from 1 shares of New York Central and now has $16. 
+++ New York Central valuation remains the same at $82 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal1. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $395. 
+++ Pete revieved $30 from 5 shares of Pennsylvania and now has $60. 
+++ Sue revieved $12 from 2 shares of Pennsylvania and now has $28. 
+++ Mal revieved $18 from 3 shares of Pennsylvania and now has $42. 
+++ Pennsylvania valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal2. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $5 from 1 shares and now has $368. 
+++ Bob revieved $25 from 5 shares of Baltimore & Ohio and now has $40. 
+++ Sue revieved $10 from 2 shares of Baltimore & Ohio and now has $38. 
+++ Mal revieved $10 from 2 shares of Baltimore & Ohio and now has $52. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+++ Mal now has $200. 
+++ Mal now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 1 regualr shares and 2 orphan shares. 
+++ Baltimore & Ohio now has $368. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $66 per share. 
+++ Mal now has  2 shares of New York Central. 
+++ Mal now has $36. 
+++ New York Central now has 3 regualr shares and 0 orphan shares. 
+++ New York Central now has $259. 
+++ Nel now has  5 shares of New York Central. 
+++ Nel now has $10. 
+++ New York Central now has 2 regualr shares and 0 orphan shares. 
+++ New York Central now has $341. 
+++ Sue now has $170. 
+++ Sue now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 1 regualr shares and 4 orphan shares. 
+++ Baltimore & Ohio now has $368. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ Sue now has  3 shares of New York Central. 
+++ Sue now has $6. 
+++ New York Central now has 0 regualr shares and 0 orphan shares. 
+++ New York Central now has $505. 
+ Baltimore & Ohio now has $128 and 5 regular shares and 0 orphan shares. 
+++ Pete now has  1 shares of Baltimore & Ohio. 
+++ Pete now has $0. 
+++ Baltimore & Ohio now has 4 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $188. 
+New York Central building actions: 
+  *Scrap train 1. 
+  *Buy train 5. 
+  *Buy train 6. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Buffalo. 
+   -Philadelphia. 
+  *Set net profit to $70. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $275. 
+++ Nel revieved $35 from 5 shares of New York Central and now has $45. 
+++ Sue revieved $21 from 3 shares of New York Central and now has $27. 
+++ Mal revieved $14 from 2 shares of New York Central and now has $50. 
+++ New York Central valuation increases to $91 per share. 
+Pennsylvania building actions: 
+  *Buy train 7. 
+  *Build $80 of track. 
+  *Cities added: 
+   -Pittsburg. 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $185. 
+++ Pete revieved $40 from 5 shares of Pennsylvania and now has $40. 
+++ Sue revieved $16 from 2 shares of Pennsylvania and now has $43. 
+++ Mal revieved $24 from 3 shares of Pennsylvania and now has $74. 
+++ Pennsylvania valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $100 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $20 from 4 shares and now has $108. 
+++ Bob revieved $25 from 5 shares of Baltimore & Ohio and now has $65. 
+++ Pete revieved $5 from 1 shares of Baltimore & Ohio and now has $45. 
+++ Baltimore & Ohio valuation remains the same at $60 per share. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $255. 
+++ Nel revieved $40 from 5 shares of New York Central and now has $85. 
+++ Sue revieved $24 from 3 shares of New York Central and now has $67. 
+++ Mal revieved $16 from 2 shares of New York Central and now has $90. 
+++ New York Central valuation increases to $100 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $165. 
+++ Pete revieved $50 from 5 shares of Pennsylvania and now has $95. 
+++ Sue revieved $20 from 2 shares of Pennsylvania and now has $87. 
+++ Mal revieved $30 from 3 shares of Pennsylvania and now has $120. 
+++ Pennsylvania valuation increases to $91 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal3. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $36 from 4 shares and now has $144. 
+++ Bob revieved $45 from 5 shares of Baltimore & Ohio and now has $110. 
+++ Pete revieved $9 from 1 shares of Baltimore & Ohio and now has $104. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+++ Nel now has  1 shares of Baltimore & Ohio. 
+++ Nel now has $19. 
+++ Baltimore & Ohio now has 3 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $210. 
+++ Sue now has  1 shares of Baltimore & Ohio. 
+++ Sue now has $21. 
+++ Baltimore & Ohio now has 2 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $276. 
+++ Pete now has  2 shares of Baltimore & Ohio. 
+++ Pete now has $38. 
+++ Baltimore & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $342. 
+++ Bob now has  6 shares of Baltimore & Ohio. 
+++ Bob now has $44. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $408. 
+New York Central building actions: 
+  *Buy train 8. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $110. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $115. 
+++ Nel revieved $55 from 5 shares of New York Central and now has $74. 
+++ Sue revieved $33 from 3 shares of New York Central and now has $54. 
+++ Mal revieved $22 from 2 shares of New York Central and now has $142. 
+++ New York Central valuation increases to $110 per share. 
+Pennsylvania building actions: 
+  *Scrap train 2. 
+  *Buy train 9. 
+  *Build $70 of track. 
+  *Cities added: 
+   -Detroit. 
+   -NewYork. 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $5. 
+++ Pete revieved $65 from 5 shares of Pennsylvania and now has $103. 
+++ Sue revieved $26 from 2 shares of Pennsylvania and now has $80. 
+++ Mal revieved $39 from 3 shares of Pennsylvania and now has $181. 
+++ Pennsylvania valuation increases to $100 per share. 
+Baltimore & Ohio building actions: 
+  *Scrap train 3. 
+  *Buy train 10. 
+  *Build $160 of track. 
+  *Cities added: 
+   -Pittsburg. 
+  *Set net profit to $120. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $168. 
+++ Bob revieved $72 from 6 shares of Baltimore & Ohio and now has $116. 
+++ Pete revieved $24 from 2 shares of Baltimore & Ohio and now has $127. 
+++ Nel revieved $12 from 1 shares of Baltimore & Ohio and now has $86. 
+++ Sue revieved $12 from 1 shares of Baltimore & Ohio and now has $92. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $120. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $95. 
+++ Nel revieved $60 from 5 shares of New York Central and now has $146. 
+++ Sue revieved $36 from 3 shares of New York Central and now has $128. 
+++ Mal revieved $24 from 2 shares of New York Central and now has $205. 
+++ New York Central valuation increases to $121 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $5. 
+++ Pete revieved $70 from 5 shares of Pennsylvania and now has $197. 
+++ Sue revieved $28 from 2 shares of Pennsylvania and now has $156. 
+++ Mal revieved $42 from 3 shares of Pennsylvania and now has $247. 
+++ Pennsylvania valuation increases to $110 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal4. 
+  *Set net profit to $160. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $168. 
+++ Bob revieved $96 from 6 shares of Baltimore & Ohio and now has $212. 
+++ Pete revieved $32 from 2 shares of Baltimore & Ohio and now has $229. 
+++ Nel revieved $16 from 1 shares of Baltimore & Ohio and now has $162. 
+++ Sue revieved $16 from 1 shares of Baltimore & Ohio and now has $172. 
+++ Baltimore & Ohio valuation increases to $82 per share. 
+++ Sue now has $392. 
+++ Sue now has 0 shares of Pennsylvania 
+++ Pennsylvania now has 0 regualr shares and 2 orphan shares. 
+++ Pennsylvania now has $5. 
+++ Pennsylvania  has been sold this turn and its valuation has been reduced to $100 per share. 
+++ Sue now has  5 shares of Chesapeake & Ohio. 
+++ Sue now has $22. 
+++ Chesapeake & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $370. 
+++ Sue is the new president for Chesapeake & Ohio. 
+++ Pete now has  7 shares of Pennsylvania. 
+++ Pete now has $29. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $5. 
+++ Mal now has $547. 
+++ Mal now has 0 shares of Pennsylvania 
+++ Pennsylvania now has 0 regualr shares and 3 orphan shares. 
+++ Pennsylvania now has $5. 
+++ Pennsylvania  has been sold this turn and its valuation has been reduced to $91 per share. 
+++ Mal now has  5 shares of Chesapeake & Ohio. 
+++ Mal now has $177. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $740. 
+++ Nel now has  2 shares of Boston & Maine. 
+++ Nel now has $14. 
+++ Boston & Maine now has 8 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $148. 
+++ Nel is the new president for Boston & Maine. 
+++ Bob now has  2 shares of Boston & Maine. 
+++ Bob now has $64. 
+++ Boston & Maine now has 6 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $296. 
+++ Pete now has $193. 
+++ Pete now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 0 regualr shares and 2 orphan shares. 
+++ Baltimore & Ohio now has $168. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $74 per share. 
+++ Pete now has  9 shares of Pennsylvania. 
+++ Pete now has $11. 
+++ Pennsylvania now has 0 regualr shares and 1 orphan shares. 
+++ Pennsylvania now has $5. 
+++ Mal now has  2 shares of Boston & Maine. 
+++ Mal now has $29. 
+++ Boston & Maine now has 4 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $444. 
+++ Bob now has $212. 
+++ Bob now has 0 shares of Boston & Maine 
+++ Boston & Maine now has 4 regualr shares and 2 orphan shares. 
+++ Boston & Maine now has $444. 
+++ Boston & Maine  has been sold this turn and its valuation has been reduced to $66 per share. 
+++ Bob now has  8 shares of Baltimore & Ohio. 
+++ Bob now has $64. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $168. 
+ Boston & Maine now has $312 and 6 regular shares and 0 orphan shares. 
+++ Pennsylvania valuation decreases to $82 per share due to orphaned shares. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $120. 
+  *Withhold dividens. 
+++ New York Central  recieved net profit of  $120 and now has $195. 
+++ New York Central valuation remains the same at $121 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $140. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $140 and now has $145. 
+++ Pennsylvania valuation remains the same at $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+  *Set net profit to $160. 
+  *Withhold dividens. 
+++ Baltimore & Ohio  recieved net profit of  $160 and now has $248. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 11. 
+  *Build $50 of track. 
+  *Cities added: 
+   -Baltimore. 
+   -Philadelphia. 
+   -Richmond. 
+   -Washington. 
+  *Set net profit to $70. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $490. 
+++ Sue revieved $35 from 5 shares of Chesapeake & Ohio and now has $57. 
+++ Mal revieved $35 from 5 shares of Chesapeake & Ohio and now has $64. 
+++ Chesapeake & Ohio valuation increases to $82 per share. 
+Boston & Maine building actions: 
+  *Buy train 12. 
+  *Build $80 of track. 
+  *Cities added: 
+   -Boston. 
+   -Hartford. 
+   -NewHaven. 
+   -NewYork. 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $48 from 6 shares and now has $95. 
+++ Nel revieved $16 from 2 shares of Boston & Maine and now has $30. 
+++ Mal revieved $16 from 2 shares of Boston & Maine and now has $80. 
+++ Boston & Maine valuation increases to $74 per share. 
+New York Central building actions: 
+  *Scrap train 4. 
+  *Scrap train 5. 
+  *Buy train 13. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $180. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $35. 
+++ Nel revieved $90 from 5 shares of New York Central and now has $120. 
+++ Sue revieved $54 from 3 shares of New York Central and now has $111. 
+++ Mal revieved $36 from 2 shares of New York Central and now has $116. 
+++ New York Central valuation increases to $133 per share. 
+Pennsylvania building actions: 
+  *Scrap train 7. 
+  *Buy train 14. 
+  *Build $30 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $0. 
+++ Pete revieved $171 from 9 shares of Pennsylvania and now has $182. 
+++ Pennsylvania valuation increases to $91 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 15. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Norfolk. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $335. 
+++ Sue revieved $45 from 5 shares of Chesapeake & Ohio and now has $156. 
+++ Mal revieved $45 from 5 shares of Chesapeake & Ohio and now has $161. 
+++ Chesapeake & Ohio valuation increases to $91 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal5. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $248. 
+++ Bob revieved $160 from 8 shares of Baltimore & Ohio and now has $224. 
+++ Nel revieved $20 from 1 shares of Baltimore & Ohio and now has $140. 
+++ Sue revieved $20 from 1 shares of Baltimore & Ohio and now has $176. 
+++ Baltimore & Ohio valuation increases to $82 per share. 
+Boston & Maine building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+   -Albany. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $60 from 6 shares and now has $75. 
+++ Nel revieved $20 from 2 shares of Boston & Maine and now has $160. 
+++ Mal revieved $20 from 2 shares of Boston & Maine and now has $181. 
+++ Boston & Maine valuation increases to $82 per share. 
+++ Nel now has $324. 
+++ Nel now has 0 shares of Boston & Maine 
+++ Boston & Maine now has 6 regualr shares and 2 orphan shares. 
+++ Boston & Maine now has $75. 
+++ Boston & Maine  has been sold this turn and its valuation has been reduced to $74 per share. 
+++ Mal is the new president for Boston & Maine. 
+++ Nel now has  4 shares of Nickel Plate. 
+++ Nel now has $28. 
+++ Nickel Plate now has 6 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $296. 
+++ Nel is the new president for Nickel Plate. 
+++ Sue now has  2 shares of Nickel Plate. 
+++ Sue now has $28. 
+++ Nickel Plate now has 4 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $444. 
+++ Mal now has  4 shares of Boston & Maine. 
+++ Mal now has $33. 
+++ Boston & Maine now has 6 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $75. 
+++ Pete now has  10 shares of Pennsylvania. 
+++ Pete now has $91. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $0. 
+++ Bob now has  3 shares of Nickel Plate. 
+++ Bob now has $2. 
+++ Nickel Plate now has 1 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $666. 
+++ Pete now has  1 shares of Nickel Plate. 
+++ Pete now has $17. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $740. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $100 from 5 shares of New York Central and now has $128. 
+++ Sue revieved $60 from 3 shares of New York Central and now has $88. 
+++ Mal revieved $40 from 2 shares of New York Central and now has $73. 
+++ New York Central valuation increases to $146 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $190 and now has $190. 
+++ Pennsylvania valuation remains the same at $91 per share. 
+Chesapeake & Ohio building actions: 
+  *Scrap train 11. 
+  *Buy train 16. 
+  *Build $90 of track. 
+  *Cities added: 
+   -Boston. 
+   -Hartford. 
+   -NewHaven. 
+   -NewYork. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $25. 
+++ Sue revieved $95 from 5 shares of Chesapeake & Ohio and now has $183. 
+++ Mal revieved $95 from 5 shares of Chesapeake & Ohio and now has $168. 
+++ Chesapeake & Ohio valuation increases to $100 per share. 
+Baltimore & Ohio building actions: 
+  *Build $50 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+   -Philadelphia. 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $198. 
+++ Bob revieved $192 from 8 shares of Baltimore & Ohio and now has $194. 
+++ Nel revieved $24 from 1 shares of Baltimore & Ohio and now has $152. 
+++ Sue revieved $24 from 1 shares of Baltimore & Ohio and now has $207. 
+++ Baltimore & Ohio valuation increases to $91 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $60 from 6 shares and now has $135. 
+++ Mal revieved $40 from 4 shares of Boston & Maine and now has $208. 
+++ Boston & Maine valuation remains the same at $74 per share. 
+Nickel Plate building actions: 
+  *Buy train 17. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Chicago. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $480. 
+++ Bob revieved $30 from 3 shares of Nickel Plate and now has $224. 
+++ Pete revieved $10 from 1 shares of Nickel Plate and now has $27. 
+++ Nel revieved $40 from 4 shares of Nickel Plate and now has $192. 
+++ Sue revieved $20 from 2 shares of Nickel Plate and now has $227. 
+++ Nickel Plate valuation increases to $82 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $115 from 5 shares of New York Central and now has $307. 
+++ Sue revieved $69 from 3 shares of New York Central and now has $296. 
+++ Mal revieved $46 from 2 shares of New York Central and now has $254. 
+++ New York Central valuation increases to $160 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Withhold dividens. 
+++ Chesapeake & Ohio  recieved net profit of  $190 and now has $215. 
+++ Chesapeake & Ohio valuation remains the same at $100 per share. 
+Pennsylvania building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $150. 
+++ Pete revieved $240 from 10 shares of Pennsylvania and now has $267. 
+++ Pennsylvania valuation increases to $100 per share. 
+Baltimore & Ohio building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $250. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $158. 
+++ Bob revieved $200 from 8 shares of Baltimore & Ohio and now has $424. 
+++ Nel revieved $25 from 1 shares of Baltimore & Ohio and now has $332. 
+++ Sue revieved $25 from 1 shares of Baltimore & Ohio and now has $321. 
+++ Baltimore & Ohio valuation increases to $100 per share. 
+Nickel Plate building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $160. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $440. 
+++ Bob revieved $48 from 3 shares of Nickel Plate and now has $472. 
+++ Pete revieved $16 from 1 shares of Nickel Plate and now has $283. 
+++ Nel revieved $64 from 4 shares of Nickel Plate and now has $396. 
+++ Sue revieved $32 from 2 shares of Nickel Plate and now has $353. 
+++ Nickel Plate valuation increases to $91 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $60 from 6 shares and now has $195. 
+++ Mal revieved $40 from 4 shares of Boston & Maine and now has $294. 
+++ Boston & Maine valuation remains the same at $74 per share. 
+++ Sue now has  4 shares of Erie. 
+++ Sue now has $25. 
+++ Erie now has 6 regualr shares and 0 orphan shares. 
+++ Erie now has $328. 
+++ Sue is the new president for Erie. 
+++ Nel now has  5 shares of Illinois Central. 
+++ Nel now has $26. 
+++ Illinois Central now has 5 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $370. 
+++ Nel is the new president for Illinois Central. 
+++ Bob now has  5 shares of Erie. 
+++ Bob now has $62. 
+++ Erie now has 1 regualr shares and 0 orphan shares. 
+++ Erie now has $738. 
+++ Bob is the new president for Erie. 
+++ Pete now has  3 shares of Illinois Central. 
+++ Pete now has $61. 
+++ Illinois Central now has 2 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $592. 
+++ Mal now has $614. 
+++ Mal now has 0 shares of New York Central 
+++ New York Central now has 0 regualr shares and 2 orphan shares. 
+++ New York Central now has $15. 
+++ New York Central  has been sold this turn and its valuation has been reduced to $146 per share. 
+++ Mal now has  6 shares of Wabash. 
+++ Mal now has $68. 
+++ Wabash now has 4 regualr shares and 0 orphan shares. 
+++ Wabash now has $546. 
+++ Mal is the new president for Wabash. 
+++ Sue now has $207. 
+++ Sue now has 0 shares of Nickel Plate 
+++ Nickel Plate now has 0 regualr shares and 2 orphan shares. 
+++ Nickel Plate now has $440. 
+++ Nickel Plate  has been sold this turn and its valuation has been reduced to $82 per share. 
+++ Sue now has  4 shares of New York Central. 
+++ Sue now has $61. 
+++ New York Central now has 0 regualr shares and 1 orphan shares. 
+++ New York Central now has $15. 
+++ Nel now has $354. 
+++ Nel now has 0 shares of Nickel Plate 
+++ Nickel Plate now has 0 regualr shares and 6 orphan shares. 
+++ Nickel Plate now has $440. 
+++ Nickel Plate  has been sold this turn and its valuation has been reduced to $74 per share. 
+++ Bob is the new president for Nickel Plate. 
+++ Nel now has  6 shares of New York Central. 
+++ Nel now has $208. 
+++ New York Central now has 0 regualr shares and 0 orphan shares. 
+++ New York Central now has $15. 
+++ Bob now has $472. 
+++ Bob now has 0 shares of Erie 
+++ Erie now has 1 regualr shares and 5 orphan shares. 
+++ Erie now has $738. 
+++ Erie  has been sold this turn and its valuation has been reduced to $74 per share. 
+++ Sue is the new president for Erie. 
+++ Bob now has  9 shares of Nickel Plate. 
+++ Bob now has $28. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $440. 
+++ Mal now has $568. 
+++ Mal now has 0 shares of Chesapeake & Ohio 
+++ Chesapeake & Ohio now has 0 regualr shares and 5 orphan shares. 
+++ Chesapeake & Ohio now has $215. 
+++ Chesapeake & Ohio  has been sold this turn and its valuation has been reduced to $91 per share. 
+++ Mal now has  10 shares of Wabash. 
+++ Mal now has $204. 
+++ Wabash now has 0 regualr shares and 0 orphan shares. 
+++ Wabash now has $910. 
+++ Sue now has $645. 
+++ Sue now has 0 shares of New York Central 
+++ New York Central now has 0 regualr shares and 4 orphan shares. 
+++ New York Central now has $15. 
+++ New York Central  has been sold this turn and its valuation has been reduced to $133 per share. 
+++ Sue now has  10 shares of Chesapeake & Ohio. 
+++ Sue now has $190. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $215. 
+++ Nel now has $578. 
+++ Nel now has 0 shares of Illinois Central 
+++ Illinois Central now has 2 regualr shares and 5 orphan shares. 
+++ Illinois Central now has $592. 
+++ Illinois Central  has been sold this turn and its valuation has been reduced to $66 per share. 
+++ Pete is the new president for Illinois Central. 
+++ Nel now has  10 shares of New York Central. 
+++ Nel now has $46. 
+++ New York Central now has 0 regualr shares and 0 orphan shares. 
+++ New York Central now has $15. 
+++ Pete now has $135. 
+++ Pete now has 0 shares of Nickel Plate 
+++ Nickel Plate now has 0 regualr shares and 1 orphan shares. 
+++ Nickel Plate now has $440. 
+++ Nickel Plate  has been sold this turn and its valuation has been reduced to $66 per share. 
+++ Pete now has  5 shares of Illinois Central. 
+++ Pete now has $3. 
+++ Illinois Central now has 0 regualr shares and 5 orphan shares. 
+++ Illinois Central now has $724. 
+++ Mal now has  2 shares of Erie. 
+++ Mal now has $56. 
+++ Erie now has 0 regualr shares and 4 orphan shares. 
+++ Erie now has $812. 
+++ Sue now has $290. 
+++ Sue now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 0 regualr shares and 1 orphan shares. 
+++ Baltimore & Ohio now has $158. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $91 per share. 
+++ Sue now has  7 shares of Erie. 
+++ Sue now has $68. 
+++ Erie now has 0 regualr shares and 1 orphan shares. 
+++ Erie now has $812. 
+ Baltimore & Ohio now has $67 and 1 regular shares and 0 orphan shares. 
+ Illinois Central now has $394 and 5 regular shares and 0 orphan shares. 
+ Erie now has $738 and 1 regular shares and 0 orphan shares. 
+ Nickel Plate now has $374 and 1 regular shares and 0 orphan shares. 
+++ Sue now has  1 shares of Illinois Central. 
+++ Sue now has $2. 
+++ Illinois Central now has 4 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $460. 
+Output file stream open failed 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $240 from 10 shares of New York Central and now has $286. 
+++ New York Central valuation increases to $146 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $250. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $150. 
+++ Pete revieved $250 from 10 shares of Pennsylvania and now has $253. 
+++ Pennsylvania valuation increases to $110 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $250. 
+  *Withhold dividens. 
+++ Baltimore & Ohio  recieved net profit of  $250 and now has $317. 
+++ Baltimore & Ohio valuation remains the same at $91 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $100 of track. 
+  *Cities added: 
+   -Albany. 
+   -Syracuse. 
+   -Utica. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $115. 
+++ Sue revieved $200 from 10 shares of Chesapeake & Ohio and now has $202. 
+++ Chesapeake & Ohio valuation increases to $100 per share. 
+Wabash building actions: 
+  *Buy train 18. 
+  *Build $30 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ Wabash recieved $0 from 0 shares and now has $640. 
+++ Mal revieved $30 from 10 shares of Wabash and now has $86. 
+++ Wabash valuation increases to $100 per share. 
+Erie building actions: 
+  *Buy train 19. 
+  *Build $70 of track. 
+  *Cities added: 
+   -Albany. 
+   -Buffalo. 
+   -Syracuse. 
+   -Utica. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Erie recieved $9 from 1 shares and now has $457. 
+++ Sue revieved $63 from 7 shares of Erie and now has $265. 
+++ Mal revieved $18 from 2 shares of Erie and now has $104. 
+++ Erie valuation increases to $82 per share. 
+Boston & Maine building actions: 
+  *Scrap train 12. 
+  *Buy train 20. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $120. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $72 from 6 shares and now has $127. 
+++ Mal revieved $48 from 4 shares of Boston & Maine and now has $152. 
+++ Boston & Maine valuation increases to $82 per share. 
+Nickel Plate building actions: 
+  *Scrap train 17. 
+  *Buy train 21. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cincinnati. 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $27 from 1 shares and now has $81. 
+++ Bob revieved $243 from 9 shares of Nickel Plate and now has $271. 
+++ Nickel Plate valuation increases to $74 per share. 
+Illinois Central building actions: 
+  *Buy train 22. 
+  *Build $50 of track. 
+  *Cities added: 
+   -Chicago. 
+   -SaintLouis. 
+   -Springfield. 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $52 from 4 shares and now has $107. 
+++ Pete revieved $65 from 5 shares of Illinois Central and now has $318. 
+++ Sue revieved $13 from 1 shares of Illinois Central and now has $278. 
+++ Illinois Central valuation increases to $74 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $280 from 10 shares of New York Central and now has $566. 
+++ New York Central valuation increases to $160 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $150. 
+++ Pete revieved $290 from 10 shares of Pennsylvania and now has $608. 
+++ Pennsylvania valuation increases to $121 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $50 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $65. 
+++ Sue revieved $240 from 10 shares of Chesapeake & Ohio and now has $518. 
+++ Chesapeake & Ohio valuation increases to $110 per share. 
+Wabash building actions: 
+  *Build $70 of track. 
+  *Cities added: 
+   -Chicago. 
+   -Cincinnati. 
+   -Lousiville. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Wabash recieved $0 from 0 shares and now has $570. 
+++ Mal revieved $190 from 10 shares of Wabash and now has $342. 
+++ Wabash valuation increases to $110 per share. 
+Baltimore & Ohio building actions: 
+  *Scrap train 10. 
+  *Buy train 23. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $440. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $44 from 1 shares and now has $71. 
+++ Bob revieved $352 from 8 shares of Baltimore & Ohio and now has $623. 
+++ Nel revieved $44 from 1 shares of Baltimore & Ohio and now has $610. 
+++ Baltimore & Ohio valuation increases to $100 per share. 
+Erie building actions: 
+  *Build $260 of track. 
+  *Cities added: 
+   -NewYork. 
+   -Philadelphia. 
+   -Pittsburg. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Erie recieved $19 from 1 shares and now has $216. 
+++ Sue revieved $133 from 7 shares of Erie and now has $651. 
+++ Mal revieved $38 from 2 shares of Erie and now has $380. 
+++ Erie valuation increases to $91 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $78 from 6 shares and now has $205. 
+++ Mal revieved $52 from 4 shares of Boston & Maine and now has $432. 
+++ Boston & Maine valuation increases to $91 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $27 from 1 shares and now has $108. 
+++ Bob revieved $243 from 9 shares of Nickel Plate and now has $866. 
+++ Nickel Plate valuation remains the same at $74 per share. 
+Illinois Central building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $220. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $88 from 4 shares and now has $155. 
+++ Pete revieved $110 from 5 shares of Illinois Central and now has $718. 
+++ Sue revieved $22 from 1 shares of Illinois Central and now has $673. 
+++ Illinois Central valuation increases to $82 per share. 
+++ Mal now has  4 shares of Illinois Central. 
+++ Mal now has $104. 
+++ Illinois Central now has 0 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $483. 
+++ Nel now has  6 shares of Boston & Maine. 
+++ Nel now has $64. 
+++ Boston & Maine now has 0 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $751. 
+++ Nel is the new president for Boston & Maine. 
+++ Sue now has  1 shares of Baltimore & Ohio. 
+++ Sue now has $573. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $171. 
+++ Pete now has  7 shares of New York New Haven & Hartford. 
+++ Pete now has $18. 
+++ New York New Haven & Hartford now has 3 regualr shares and 0 orphan shares. 
+++ New York New Haven & Hartford now has $700. 
+++ Pete is the new president for New York New Haven & Hartford. 
+++ Bob now has  1 shares of Erie. 
+++ Bob now has $775. 
+++ Erie now has 0 regualr shares and 0 orphan shares. 
+++ Erie now has $307. 
+++ Mal now has  1 shares of Nickel Plate. 
+++ Mal now has $30. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $182. 
+++ Sue now has  3 shares of New York New Haven & Hartford. 
+++ Sue now has $273. 
+++ New York New Haven & Hartford now has 0 regualr shares and 0 orphan shares. 
+++ New York New Haven & Hartford now has $1000. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $290 from 10 shares of New York Central and now has $354. 
+++ New York Central valuation increases to $176 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $150. 
+++ Pete revieved $300 from 10 shares of Pennsylvania and now has $318. 
+++ Pennsylvania valuation increases to $133 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $30 of track. 
+  *Cities added: 
+   -Detroit. 
+   -FortWayne. 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $35. 
+++ Sue revieved $280 from 10 shares of Chesapeake & Ohio and now has $553. 
+++ Chesapeake & Ohio valuation increases to $121 per share. 
+Wabash building actions: 
+  *Scrap train 18. 
+  *Buy train 24. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Wabash recieved $0 from 0 shares and now has $345. 
+++ Mal revieved $230 from 10 shares of Wabash and now has $260. 
+++ Wabash valuation increases to $121 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $450. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $171. 
+++ Bob revieved $360 from 8 shares of Baltimore & Ohio and now has $1135. 
+++ Nel revieved $45 from 1 shares of Baltimore & Ohio and now has $399. 
+++ Sue revieved $45 from 1 shares of Baltimore & Ohio and now has $598. 
+++ Baltimore & Ohio valuation increases to $110 per share. 
+New York New Haven & Hartford building actions: 
+  *Buy train 25. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Boston. 
+   -Hartford. 
+   -NewHaven. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $0 from 0 shares and now has $720. 
+++ Pete revieved $42 from 7 shares of New York New Haven & Hartford and now has $360. 
+++ Sue revieved $18 from 3 shares of New York New Haven & Hartford and now has $616. 
+++ New York New Haven & Hartford valuation increases to $110 per share. 
+Erie building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Erie recieved $0 from 0 shares and now has $287. 
+++ Bob revieved $20 from 1 shares of Erie and now has $1155. 
+++ Sue revieved $140 from 7 shares of Erie and now has $756. 
+++ Mal revieved $40 from 2 shares of Erie and now has $300. 
+++ Erie valuation increases to $100 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $0 from 0 shares and now has $751. 
+++ Nel revieved $84 from 6 shares of Boston & Maine and now has $483. 
+++ Mal revieved $56 from 4 shares of Boston & Maine and now has $356. 
+++ Boston & Maine valuation increases to $100 per share. 
+Illinois Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+   -Cincinnati. 
+   -Lousiville. 
+  *Set net profit to $260. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $483. 
+++ Pete revieved $130 from 5 shares of Illinois Central and now has $490. 
+++ Sue revieved $26 from 1 shares of Illinois Central and now has $782. 
+++ Mal revieved $104 from 4 shares of Illinois Central and now has $460. 
+++ Illinois Central valuation increases to $91 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $182. 
+++ Bob revieved $243 from 9 shares of Nickel Plate and now has $1398. 
+++ Mal revieved $27 from 1 shares of Nickel Plate and now has $487. 
+++ Nickel Plate valuation remains the same at $74 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $15. 
+++ Nel revieved $300 from 10 shares of New York Central and now has $783. 
+++ New York Central valuation increases to $194 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $310. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $150. 
+++ Pete revieved $310 from 10 shares of Pennsylvania and now has $800. 
+++ Pennsylvania valuation increases to $146 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $35. 
+++ Sue revieved $290 from 10 shares of Chesapeake & Ohio and now has $1072. 
+++ Chesapeake & Ohio valuation increases to $133 per share. 
+Wabash building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Wabash recieved $0 from 0 shares and now has $345. 
+++ Mal revieved $230 from 10 shares of Wabash and now has $717. 
+++ Wabash valuation remains the same at $121 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $460. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $171. 
+++ Bob revieved $368 from 8 shares of Baltimore & Ohio and now has $1766. 
+++ Nel revieved $46 from 1 shares of Baltimore & Ohio and now has $829. 
+++ Sue revieved $46 from 1 shares of Baltimore & Ohio and now has $1118. 
+++ Baltimore & Ohio valuation increases to $121 per share. 
+New York New Haven & Hartford building actions: 
+  *Build $10 of track. 
+  *Cities added: 
+   -Provience. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $0 from 0 shares and now has $710. 
+++ Pete revieved $63 from 7 shares of New York New Haven & Hartford and now has $863. 
+++ Sue revieved $27 from 3 shares of New York New Haven & Hartford and now has $1145. 
+++ New York New Haven & Hartford valuation increases to $121 per share. 
+Erie building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Erie recieved $0 from 0 shares and now has $287. 
+++ Bob revieved $20 from 1 shares of Erie and now has $1786. 
+++ Sue revieved $140 from 7 shares of Erie and now has $1285. 
+++ Mal revieved $40 from 2 shares of Erie and now has $757. 
+++ Erie valuation remains the same at $100 per share. 
+Boston & Maine building actions: 
+  *Scrap train 20. 
+  *Buy train 26. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $0 from 0 shares and now has $331. 
+++ Nel revieved $114 from 6 shares of Boston & Maine and now has $943. 
+++ Mal revieved $76 from 4 shares of Boston & Maine and now has $833. 
+++ Boston & Maine valuation increases to $110 per share. 
+Illinois Central building actions: 
+  *Scrap train 22. 
+  *Buy train 27. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $360. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $113. 
+++ Pete revieved $180 from 5 shares of Illinois Central and now has $1043. 
+++ Sue revieved $36 from 1 shares of Illinois Central and now has $1321. 
+++ Mal revieved $144 from 4 shares of Illinois Central and now has $977. 
+++ Illinois Central valuation increases to $100 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $310. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $182. 
+++ Bob revieved $279 from 9 shares of Nickel Plate and now has $2065. 
+++ Mal revieved $31 from 1 shares of Nickel Plate and now has $1008. 
+++ Nickel Plate valuation increases to $82 per share. 
+End of the game. The winner is Sue! 
