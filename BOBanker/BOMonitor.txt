@@ -75,3 +75,72 @@ Chesapeake & Ohio building actions:
 ++ Fred revieved $6 from 3 shares of Chesapeake & Ohio and now has $18. 
 ++ ham revieved $6 from 3 shares of Chesapeake & Ohio and now has $88. 
 ++ Chesapeake & Ohio valuation increases to $74 per share. 
+ALL ABOARD!!!! Here we go.
+Pennsylvania building actions: 
+  *Buy train 2. 
+  *Buy train 3. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Philadelphia. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $6 from 6 shares and now has $85. 
+++ Ron revieved $4 from 4 shares of Pennsylvania and now has $10. 
+++ Pennsylvania valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Buy train 4. 
+  *Buy train 5. 
+  *Buy train 6. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $-30. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $-12 from 4 shares and now has $43. 
+++ Fred revieved $-12 from 4 shares of Baltimore & Ohio and now has $6. 
+++ Ron revieved $-6 from 2 shares of Baltimore & Ohio and now has $4. 
+++ Baltimore & Ohio valuation decreases to $55  per share. 
+ALL ABOARD!!!! Here we go.
+New York New Haven & Hartford building actions: 
+  *Buy train 7. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Hartford. 
+   -NewYork. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York New Haven & Hartford recieved $20 from 5 shares and now has $165. 
+++ ham revieved $12 from 3 shares of New York New Haven & Hartford and now has $100. 
+++ Ron revieved $8 from 2 shares of New York New Haven & Hartford and now has $12. 
+++ New York New Haven & Hartford valuation increases to $60 per share. 
+Boston & Maine building actions: 
+  *Buy train 8. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Boston. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $7 from 7 shares and now has $47. 
+++ Fred revieved $1 from 1 shares of Boston & Maine and now has $7. 
+++ ham revieved $1 from 1 shares of Boston & Maine and now has $101. 
+++ Boston & Maine valuation increases to $50 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 9. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Roanoke. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $4 from 4 shares and now has $178. 
+++ Fred revieved $3 from 3 shares of Chesapeake & Ohio and now has $10. 
+++ ham revieved $3 from 3 shares of Chesapeake & Ohio and now has $104. 
+++ Chesapeake & Ohio valuation decreases to $66  per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+   -Harrisburg. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $6 from 6 shares and now has $91. 
+++ Ron revieved $4 from 4 shares of Pennsylvania and now has $16. 
+++ Pennsylvania valuation remains the same at $74 per share. 
