@@ -1,0 +1,18 @@
+Monitor File 
+ 
+ALL ABOARD!!!! Here we go.
+++ b now has  3 shares of Baltimore & Ohio. 
+++ b now has $320. 
+++ Baltimore & Ohio now has 7 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $180. 
+++ b is the new president for Baltimore & Ohio. 
+Baltimore & Ohio building actions: 
+  *Buy train 1. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $7 from 7 shares and now has $87. 
+++ b revieved $3 from 3 shares of Baltimore & Ohio and now has $323. 
+++ Baltimore & Ohio valuation increases to $66 per share. 

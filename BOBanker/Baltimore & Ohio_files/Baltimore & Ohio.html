@@ -1,0 +1,1704 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><script type="text/javascript" src="Baltimore%20&amp;%20Ohio_files/jquery-1.js"></script>
+
+ 
+<title>Baltimore &amp; Ohio</title>
+</head>
+
+<body>
+
+<div id="header" style="display: table; height: 50px; #position: relative; overflow: hidden;">
+<img id="phase-button" src="Baltimore%20&amp;%20Ohio_files/phase60.png" alt="Player portfolios" style="border-width: 3px; border-color: mediumturquoise; border-style: solid; width: 59px;" width="65px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img id="co-button" class="top-button" alt="Chesapeake &amp; Ohio" src="Baltimore%20&amp;%20Ohio_files/co60.png" style="border-width:3px; border-color:goldenrod;" width="65px">
+<img id="ny-button" class="top-button" alt="New York Central" src="Baltimore%20&amp;%20Ohio_files/ny60.png" style="border-width:3px; border-color:forestgreen;" width="65px">
+<img id="bo-button" class="top-button" alt="Baltimore &amp; Ohio" src="Baltimore%20&amp;%20Ohio_files/bo60.png" style="border-width:3px; border-color:dodgerblue;" width="65px">
+<img id="rpr-button" class="top-button" alt="Pennsylvania" src="Baltimore%20&amp;%20Ohio_files/rpr60.png" style="border-width:3px; border-color:red;" width="65px">
+<img id="bm-button" class="top-button" alt="Boston &amp; Maine" src="Baltimore%20&amp;%20Ohio_files/bm60.png" style="border-width:3px; border-color:hotpink;" width="65px">
+<img id="nh-button" class="top-button" alt="New York, New Haven &amp; Hartford" src="Baltimore%20&amp;%20Ohio_files/nh60.png" style="border-width:3px; border-color:grey;" width="65px">
+<img id="erie-button" class="top-button" alt="Erie" src="Baltimore%20&amp;%20Ohio_files/erie60.png" style="border-width:3px; border-color:saddlebrown;" width="65px">
+<img id="ic-button" class="top-button" alt="Illinois Central" src="Baltimore%20&amp;%20Ohio_files/ic60.png" style="border-width:3px; border-color:darkorange;" width="65px">
+<img id="nickel-button" class="top-button" alt="New York, Chicago &amp; Saint Louis" src="Baltimore%20&amp;%20Ohio_files/nickel60.png" style="border-width:3px; border-color:indigo;" width="65px">
+<img id="wabash-button" class="top-button" alt="Wabash" src="Baltimore%20&amp;%20Ohio_files/wabash60.png" style="border-width:3px; border-color:black;" width="65px">
+<img id="nw-button" class="top-button" alt="Norfolk &amp; Western" src="Baltimore%20&amp;%20Ohio_files/nw60.png" style="border-width:3px; border-color:pink;" width="65px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img id="barons-button" src="Baltimore%20&amp;%20Ohio_files/barons60.png" alt="Robber Barons" style="border-width:3px; border-color:CornflowerBlue" width="65px">&nbsp;&nbsp;
+
+<div style=" #position: absolute; #top: 50%;display: table-cell; vertical-align: middle;">
+<div style=" #position: relative; #top: -50%">
+<img src="Baltimore%20&amp;%20Ohio_files/tech60.png" alt="Tech level" width="35px"><br>
+<select id="techLevel">
+  <option value="1" selected="selected">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+</select>
+</div>
+</div>
+</div>
+
+<div id="shareInfo">
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 1" id="name0" type="text"> <span id="stockValue0"></span></legend>
+<table id="table0">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 2" id="name1" type="text"> <span id="stockValue1"></span></legend>
+<table id="table1">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 3" id="name2" type="text"> <span id="stockValue2"></span></legend>
+<table id="table2">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 4" id="name3" type="text"> <span id="stockValue3"></span></legend>
+<table id="table3">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 5" id="name4" type="text"> <span id="stockValue4"></span></legend>
+<table id="table4">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px; margin-bottom:5px;">
+<legend><input value="Player 6" id="name5" type="text"> <span id="stockValue5"></span></legend>
+<table id="table5">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px;">
+<legend style="color:blue">Orphan Box</legend>
+<table id="tableOrphan">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co35.png" alt="Chesapeake &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny35.png" alt="New York Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo35.png" alt="Baltimore &amp; Ohio" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr35.png" alt="Pennsylvania" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm35.png" alt="Boston &amp; Maine" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh35.png" alt="New York, New Haven &amp; Hartford" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie35.png" alt="Erie" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic35.png" alt="Illinois Central" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel35.png" alt="New York, Chicago &amp; Saint Louis" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash35.png" alt="Wabash" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="30px"></td>
+<td><select>
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px; border: 0px;">
+<legend style="color:green">Stock Values</legend>
+<table id="tableValues">
+<tbody><tr>
+<td><img src="Baltimore%20&amp;%20Ohio_files/co50.png" alt="Chesapeake &amp; Ohio"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ny50.png" alt="New York Central"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bo50.png" alt="Baltimore &amp; Ohio"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/rpr50.png" alt="Pennsylvania"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/bm50.png" alt="Boston &amp; Maine"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nh50.png" alt="New York, New Haven &amp; Hartford"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/erie50.png" alt="Erie"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/ic50.png" alt="Illinois Central"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nickel50.png" alt="New York, Chicago &amp; Saint Louis"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/wabash50.png" alt="Wabash"></td>
+<td><img src="Baltimore%20&amp;%20Ohio_files/nw35.png" alt="Norfolk &amp; Western" width="50px"></td>
+</tr>
+<tr>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+<td><select>
+  <option value="0" selected="selected"></option>
+  <option value="34">34</option>
+  <option value="37">37</option>
+  <option value="41">41</option>
+  <option value="45">45</option>
+  <option value="50">50</option>
+  <option value="55">55</option>
+  <option value="60">60</option>
+  <option value="66">66</option>
+  <option value="74">74</option>
+  <option value="82">82</option>
+  <option value="91">91</option>
+  <option value="100">100</option>
+  <option value="110">110</option>
+  <option value="121">121</option>
+  <option value="133">133</option>
+  <option value="146">146</option>
+  <option value="160">160</option>
+  <option value="176">176</option>
+  <option value="194">194</option>
+  <option value="213">213</option>
+  <option value="234">234</option>
+  <option value="257">257</option>
+  <option value="282">282</option>
+  <option value="310">310</option>
+  <option value="341">341</option>
+  <option value="375">375</option>
+</select></td>
+</tr>
+</tbody></table>
+</fieldset>
+</div>
+
+<div id="companyInfo" style="display: none;">
+<fieldset style="width:910px">
+<legend id="cityLegend">Cities</legend>
+<table id="cityTable" style="width:950px">
+<tbody><tr height="40px">
+<td style="color:green"><input name="city" value="Albany" type="checkbox">Albany</td>
+<td><input name="city" value="Augusta" type="checkbox">Augusta</td>
+<td><input name="city" value="Baltimore" type="checkbox">Baltimore</td>
+<td><input name="city" value="Boston" type="checkbox">Boston</td>
+<td style="color:green"><input name="city" value="Buffalo" type="checkbox">Buffalo</td>
+<td><input name="city" value="Burlington" type="checkbox">Burlington</td>
+<td><input name="city" value="Cairo" type="checkbox">Cairo</td>
+</tr>
+<tr height="40px">
+<td style="color:navy"><input name="city" value="Chicago" type="checkbox">Chicago</td>
+<td><input name="city" value="Cincinnati" type="checkbox">Cincinnati</td>
+<td><input name="city" value="Cleveland" type="checkbox">Cleveland</td>
+<td><input name="city" value="Concord" type="checkbox">Concord</td>
+<td><input name="city" value="Detroit" type="checkbox">Detroit</td>
+<td><input name="city" value="Dover" type="checkbox">Dover</td>
+<td><input name="city" value="FortWayne" type="checkbox">Fort Wayne</td>
+</tr>
+<tr height="40px">
+<td style="color:red"><input name="city" value="Harrisburg" type="checkbox">Harrisburg</td>
+<td><input name="city" value="Hartford" type="checkbox">Hartford</td>
+<td><input name="city" value="Huntington" type="checkbox">Huntington</td>
+<td><input name="city" value="Indianapolis" type="checkbox">Indianapolis</td>
+<td><input name="city" value="Lexington" type="checkbox">Lexington</td>
+<td><input name="city" value="Louisville" type="checkbox">Louisville</td>
+<td><input name="city" value="NewHaven" type="checkbox">New Haven</td>
+</tr>
+<tr height="40px">
+<td style="color:green"><input name="city" value="NewYork" type="checkbox">New York</td>
+<td><input name="city" value="Norfolk" type="checkbox">Norfolk</td>
+<td style="color:red"><input name="city" value="Philadelphia" type="checkbox">Philadelphia</td>
+<td style="color:red"><input name="city" value="Pittsburgh" type="checkbox">Pittsburgh</td>
+<td><input name="city" value="Portsmouth" type="checkbox">Portsmouth</td>
+<td><input name="city" value="Providence" type="checkbox">Providence</td>
+<td><input name="city" value="Richmond" type="checkbox">Richmond</td>
+</tr>
+<tr height="40px">
+<td><input name="city" value="Roanoke" type="checkbox">Roanoke</td>
+<td><input name="city" value="SaintLouis" type="checkbox">Saint Louis</td>
+<td><input name="city" value="Springfield" type="checkbox">Springfield</td>
+<td style="color:green"><input name="city" value="Syracuse" type="checkbox">Syracuse</td>
+<td style="color:green"><input name="city" value="Utica" type="checkbox">Utica</td>
+<td><input name="city" value="Washington" type="checkbox">Washington</td>
+<td><input name="city" value="Wheeling" type="checkbox">Wheeling</td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px">
+<legend>Capital Equipment</legend>
+<table style="width:950px">
+<tbody><tr height="40px">
+<td width="14%"><span id="train0Span">1
+<select id="train0">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train1Span">2
+<select id="train1">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train2Span">3
+<select id="train2">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train3Span">4
+<select id="train3">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train4Span">5
+<select id="train4">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train5Span">6
+<select id="train5">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+<td width="14%"><span id="train6Span">7
+<select id="train6">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</span></td>
+</tr>
+</tbody></table>
+</fieldset>
+<fieldset style="width:910px">
+<legend>Riches of the Land</legend>
+<table style="width:950px">
+<tbody><tr><td><span id="coalSpan">Coal</span>
+<select id="coal">
+  <option value="0" selected="selected">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+</select>
+</td>
+<td><input id="lumber" type="checkbox"><span id="lumberSpan">Lumber</span></td>
+</tr></tbody></table>
+</fieldset>
+<div style="width:910px">
+<center><br>Net Revenue: <select id="revenue"></select></center>
+<div id="payments" style="width: 200px; margin: auto; text-align:right"></div>
+</div>
+</div>
+
+<div id="baronsInfo" style="width: 950px; display: none;">
+<table style="margin: auto; text-align:right">
+<tbody><tr><td style="padding:10px; text-align:right"><b>Chicago Stockyards</b></td>
+	<td style="padding:10px"><select id="baron0Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron0Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Coal Magnates</b></td>
+	<td style="padding:10px"><select id="baron1Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron1Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Detroit Auto Manufacturers</b></td>
+	<td style="padding:10px"><select id="baron2Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron2Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Locomotive Builders</b></td>
+	<td style="padding:10px"><select id="baron3Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron3Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Steel Producers</b></td>
+	<td style="padding:10px"><select id="baron4Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron4Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Trans-Atlantic Shippers</b></td>
+	<td style="padding:10px"><select id="baron5Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron5Profit"></span></td>
+	</tr>
+<tr><td style="padding:10px; text-align:right"><b>Wall Street Financiers</b></td>
+	<td style="padding:10px"><select id="baron6Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron6Profit"></span></td>
+	</tr>
+<tr valign="top"><td style="padding:10px; text-align:right"><b>U.S. Army</b><br>Nr occupied hexes: <input value="0" id="nrFilledHexes" style="width:30px" type="text"></td>
+	<td style="padding:10px"><select id="baron7Player"><option value="-1" selected="selected"></option><option value="0">Player 1</option><option value="1">Player 2</option><option value="2">Player 3</option><option value="3">Player 4</option><option value="4">Player 5</option><option value="5">Player 6</option></select></td>
+	<td style="padding:10px">$<span id="baron7Profit"></span></td>
+	</tr>
+
+</tbody></table>
+
+<div id="robberPayments" style="width: 200px; margin: auto; text-align:right"></div>
+
+</div>
+
+
+<script type="text/javascript" src="Baltimore%20&amp;%20Ohio_files/code.js"></script>
+
+</body></html>

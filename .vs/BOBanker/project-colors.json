@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec9b8dbd-7238-45f6-a917-2d7614bedecc": {
+      "ProjectGuid": "ec9b8dbd-7238-45f6-a917-2d7614bedecc",
+      "DisplayName": "BOBanker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
