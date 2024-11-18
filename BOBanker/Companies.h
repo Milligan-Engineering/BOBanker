@@ -62,7 +62,9 @@ public:
 	int getCoalCount(int company);
 	// Precondition: index of company 
 	// Postcondition: Returns number of cities the coals currently services
-
+	bool checkCoal(int coal);
+	//Precondition: Index of coal
+    //Postoncidition: Returns true if coal claimed, false if not
 
 
 

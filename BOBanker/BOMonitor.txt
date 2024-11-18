@@ -1,0 +1,47 @@
+Monitor File 
+ 
+ALL ABOARD!!!! Here we go.
+++ abc now has  5 shares of Baltimore & Ohio. 
+++ abc now has $200. 
+++ Baltimore & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $300. 
+++ abc is the new president for Baltimore & Ohio. 
+Baltimore & Ohio building actions: 
+  *Buy train 1. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $5 from 5 shares and now has $205. 
+++ abc revieved $5 from 5 shares of Baltimore & Ohio and now has $205. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+   -NewYork. 
+   -Pittsburg. 
+   -Wheeling. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $10 from 5 shares and now has $215. 
+++ abc revieved $10 from 5 shares of Baltimore & Ohio and now has $215. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+ALL ABOARD!!!! Here we go.
+Baltimore & Ohio building actions: 
+  *Buy train 2. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $15 from 5 shares and now has $135. 
+++ abc revieved $15 from 5 shares of Baltimore & Ohio and now has $230. 
+++ Baltimore & Ohio valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $15 from 5 shares and now has $150. 
+++ abc revieved $15 from 5 shares of Baltimore & Ohio and now has $245. 
+++ Baltimore & Ohio valuation remains the same at $82 per share. 

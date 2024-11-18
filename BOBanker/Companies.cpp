@@ -284,6 +284,19 @@ int Companies::getCoalCount(int company)
 	return(count);
 }
 
+bool Companies::checkCoal(int coal)
+{
+	int count = 0;
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (getCoal(j,coal))
+			return(TRUE);
+	}
+	return(FALSE);
+}
+
+
+
 //Started functions
 bool Companies::getStarted(int company)
 {

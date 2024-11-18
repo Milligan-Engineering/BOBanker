@@ -1,18 +1,52 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
-++ b now has  3 shares of Baltimore & Ohio. 
-++ b now has $320. 
-++ Baltimore & Ohio now has 7 regualr shares and 0 orphan shares. 
-++ Baltimore & Ohio now has $180. 
-++ b is the new president for Baltimore & Ohio. 
+++ c now has  7 shares of Baltimore & Ohio. 
+++ c now has $80. 
+++ Baltimore & Ohio now has 3 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $420. 
+++ c is the new president for Baltimore & Ohio. 
+++ a now has  5 shares of Chesapeake & Ohio. 
+++ a now has $200. 
+++ Chesapeake & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $300. 
+++ a is the new president for Chesapeake & Ohio. 
 Baltimore & Ohio building actions: 
   *Buy train 1. 
   *Build $0 of track. 
   *Cities added: 
    -Baltimore. 
-  *Set net profit to $10. 
+ -Coal1. 
+ -Coal2. 
+  *Set net profit to $90. 
   *Distribute dividiens. 
-++ Baltimore & Ohio recieved $7 from 7 shares and now has $87. 
-++ b revieved $3 from 3 shares of Baltimore & Ohio and now has $323. 
+++ Baltimore & Ohio recieved $27 from 3 shares and now has $347. 
+++ c revieved $63 from 7 shares of Baltimore & Ohio and now has $143. 
 ++ Baltimore & Ohio valuation increases to $66 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 2. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Richmond. 
+ -Coal3. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $30 from 5 shares and now has $235. 
+++ a revieved $30 from 5 shares of Chesapeake & Ohio and now has $230. 
+++ Chesapeake & Ohio valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $27 from 3 shares and now has $374. 
+++ c revieved $63 from 7 shares of Baltimore & Ohio and now has $206. 
+++ Baltimore & Ohio valuation remains the same at $66 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $30 from 5 shares and now has $265. 
+++ a revieved $30 from 5 shares of Chesapeake & Ohio and now has $260. 
+++ Chesapeake & Ohio valuation remains the same at $66 per share. 

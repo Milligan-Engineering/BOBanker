@@ -51,7 +51,7 @@ public:
 
 	const wchar_t name[maxCities][20] = { L"Albany", L"Augusta", L"Baltimore", L"Boston", L"Buffalo", L"Burlington", L"Cairo", L"Chicago", L"Cincinnati", L"Cleveland",
 		L"Concord", L"Detroit", L"Dover", L"FortWayne", L"Harrisburg", L"Hartford", L"Hunington", L"Indainapolis", L"Lexington", L"Lousiville", L"NewHaven", L"NewYork",
-		L"Norfolk", L"Philadelphia", L"Pittsburg", L"Portsmouth", L"Provience", L"Richmond", L"Roanoke", L"SaintLouis", L"Springfield", L"Syracuse", L"Utica", L"Washington", L"Wheeling" };
+		L"Norfolk", L"Philadelphia", L"Pittsburgh", L"Portsmouth", L"Provience", L"Richmond", L"Roanoke", L"SaintLouis", L"Springfield", L"Syracuse", L"Utica", L"Washington", L"Wheeling" };
 
 	const wchar_t coals[maxCoal][20] = { L"Coal1", L"Coal2", L"Coal3", L"Coal4", L"Coal5" };
 
