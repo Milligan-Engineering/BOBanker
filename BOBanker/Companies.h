@@ -91,6 +91,9 @@ public:
     //Postcondition: This values are stored in oldTurnorder with the first company index
     // in 0, the second in 1, ...
 	int setTurnorders();
+	int dropTurnorder(int company);
+	//Preconditions: index of company that had decrease valuation
+	//Postondition: order is reevaluated to put company at the bottom of its valuation stack
 
 
 

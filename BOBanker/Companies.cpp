@@ -141,7 +141,7 @@ int Companies::decreaseValuation(int company)
 	if (valuation[company] > 0)
 	{
 		valuation[company] --;
-		setTurnorders();
+		dropTurnorder(company);
 	}
 	//	cout << name[company] << " now has a valuation of $" << valuations[valuation[company]] << " per share \n";
 	return(valuation[company]);
@@ -396,6 +396,31 @@ int Companies::setTurnorders()
 	return(0);
 }
 
+int Companies::dropTurnorder(int company)
+{
+	// Drop turn order of devalued company		
+	// do not change external turn order array
+	int temp, newOrder;
+	int Turnorder[maxCompanies];
+	for (int i = 0; i < maxCompanies; i++)
+	{
+		Turnorder[order[i]] = i; //Place current order in local turnorder
+	}
+	newOrder = order[company]; 
+	while (valuation[Turnorder[newOrder]] <= valuation[Turnorder[newOrder+1]])
+	{
+		temp = Turnorder[newOrder];
+		Turnorder[newOrder] = Turnorder[newOrder + 1];
+		Turnorder[newOrder + 1] = temp;
+		newOrder++;
+	}
+	//Store new turn order in local turn order
+	for (int i = 0; i < maxCompanies; i++)
+	{
+		order[Turnorder[i]] = i;
+	}
+	return(0);
+}
 
 //Train Funtions
 
