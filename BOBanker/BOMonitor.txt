@@ -1,3 +1,155 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
+++ r now has  5 shares of New York Central. 
+++ r now has $200. 
+++ New York Central now has 5 regualr shares and 0 orphan shares. 
+++ New York Central now has $300. 
+++ r is the new president for New York Central. 
+New York Central building actions: 
+  *Buy train 1. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Augusta. 
+   -Buffalo. 
+ -Lumber. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $10 from 5 shares and now has $210. 
+++ r revieved $10 from 5 shares of New York Central and now has $210. 
+++ New York Central valuation increases to $66 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $10 from 5 shares and now has $220. 
+++ r revieved $10 from 5 shares of New York Central and now has $220. 
+++ New York Central valuation remains the same at $66 per share. 
+ALL ABOARD!!!! Here we go.
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $15 from 3 shares and now has $358. 
+++ s revieved $35 from 7 shares of Boston & Maine and now has $157. 
+++ Boston & Maine valuation increases to $82 per share. 
+ALL ABOARD!!!! Here we go.
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Lumber. 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ New York Central recieved $6 from 2 shares and now has $398. 
+++ a revieved $24 from 8 shares of New York Central and now has $92. 
+++ New York Central valuation increases to $74 per share. 
+Output file stream open failed 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Lumber. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $7 from 7 shares and now has $104. 
+++ v revieved $3 from 3 shares of Baltimore & Ohio and now has $326. 
+++ Baltimore & Ohio valuation remains the same at $66 per share. 
+Output file stream open failed 
+Output file stream open failed 
+Output file stream open failed 
+Output file stream open failed 
+ALL ABOARD!!!! Here we go.
+ALL ABOARD!!!! Here we go.
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $4 from 2 shares and now has $396. 
+++ a revieved $16 from 8 shares of New York Central and now has $84. 
+++ New York Central valuation remains the same at $66 per share. 
+ALL ABOARD!!!! Here we go.
+ALL ABOARD!!!! Here we go.
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $70 from 7 shares and now has $167. 
+++ v revieved $30 from 3 shares of Baltimore & Ohio and now has $353. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $27 from 3 shares and now has $385. 
+++ s revieved $63 from 7 shares of Boston & Maine and now has $220. 
+++ Boston & Maine valuation increases to $91 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $70 from 7 shares and now has $237. 
+++ v revieved $30 from 3 shares of Baltimore & Ohio and now has $383. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ New York Central recieved $6 from 2 shares and now has $402. 
+++ a revieved $24 from 8 shares of New York Central and now has $108. 
+++ New York Central valuation increases to $74 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $27 from 3 shares and now has $412. 
+++ s revieved $63 from 7 shares of Boston & Maine and now has $283. 
+++ Boston & Maine valuation remains the same at $91 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+   -Augusta. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $70 from 7 shares and now has $307. 
+++ v revieved $30 from 3 shares of Baltimore & Ohio and now has $413. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ New York Central recieved $6 from 2 shares and now has $408. 
+++ a revieved $24 from 8 shares of New York Central and now has $132. 
+++ New York Central valuation remains the same at $74 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Lumber. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $30 from 3 shares and now has $442. 
+++ s revieved $70 from 7 shares of Boston & Maine and now has $353. 
+++ Boston & Maine valuation increases to $100 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $70 from 7 shares and now has $377. 
+++ v revieved $30 from 3 shares of Baltimore & Ohio and now has $443. 
+++ Baltimore & Ohio valuation remains the same at $74 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ New York Central recieved $6 from 2 shares and now has $414. 
+++ a revieved $24 from 8 shares of New York Central and now has $156. 
+++ New York Central valuation remains the same at $74 per share. 
