@@ -1,375 +1,64 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
-++ b now has  8 shares of Baltimore & Ohio. 
-++ b now has $20. 
-++ Baltimore & Ohio now has 2 regualr shares and 0 orphan shares. 
-++ Baltimore & Ohio now has $480. 
-++ b is the new president for Baltimore & Ohio. 
-++ c now has  8 shares of Boston & Maine. 
-++ c now has $20. 
-++ Boston & Maine now has 2 regualr shares and 0 orphan shares. 
-++ Boston & Maine now has $480. 
-++ c is the new president for Boston & Maine. 
-++ a now has  9 shares of Chesapeake & Ohio. 
-++ a now has $5. 
-++ Chesapeake & Ohio now has 1 regualr shares and 0 orphan shares. 
-++ Chesapeake & Ohio now has $495. 
-++ a is the new president for Chesapeake & Ohio. 
+++ w now has  5 shares of Baltimore & Ohio. 
+++ w now has $75. 
+++ Baltimore & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $300. 
+++ w is the new president for Baltimore & Ohio. 
+++ a now has  5 shares of Boston & Maine. 
+++ a now has $75. 
+++ Boston & Maine now has 5 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $300. 
+++ a is the new president for Boston & Maine. 
 Baltimore & Ohio building actions: 
   *Buy train 1. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Baltimore. 
-   -Pittsburgh. 
-   -Washington. 
-  *Set net profit to $10. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $2 from 2 shares and now has $382. 
-++ b revieved $8 from 8 shares of Baltimore & Ohio and now has $28. 
-++ Baltimore & Ohio valuation increases to $66 per share. 
-Boston & Maine building actions: 
   *Buy train 2. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Portsmouth. 
-  *Set net profit to $10. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $2 from 2 shares and now has $387. 
-++ c revieved $8 from 8 shares of Boston & Maine and now has $28. 
-++ Boston & Maine valuation increases to $66 per share. 
-Chesapeake & Ohio building actions: 
   *Buy train 3. 
   *Build $0 of track. 
   *Cities added: 
+   -Buffalo. 
+   -NewHaven. 
    -NewYork. 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $2 from 1 shares and now has $407. 
-++ a revieved $18 from 9 shares of Chesapeake & Ohio and now has $23. 
-++ Chesapeake & Ohio valuation increases to $60 per share. 
-Baltimore & Ohio building actions: 
-  *Buy train 4. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Detroit. 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $4 from 2 shares and now has $301. 
-++ b revieved $16 from 8 shares of Baltimore & Ohio and now has $44. 
-++ Baltimore & Ohio valuation increases to $74 per share. 
-Boston & Maine building actions: 
-  *Buy train 5. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Cleveland. 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $4 from 2 shares and now has $311. 
-++ c revieved $16 from 8 shares of Boston & Maine and now has $44. 
-++ Boston & Maine valuation increases to $74 per share. 
-Chesapeake & Ohio building actions: 
-  *Buy train 6. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Cleveland. 
-  *Set net profit to $30. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $3 from 1 shares and now has $270. 
-++ a revieved $27 from 9 shares of Chesapeake & Ohio and now has $50. 
-++ Chesapeake & Ohio valuation increases to $66 per share. 
-++ b now has $118. 
-++ b now has 7 shares of Baltimore & Ohio 
-++ Baltimore & Ohio now has 2 regualr shares and 1 orphan shares. 
-++ Baltimore & Ohio now has $301. 
-++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $66 per share. 
-ALL ABOARD!!!! Here we go.
-Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
+   -Philadelphia. 
+   -Syracuse. 
  -Coal1. 
- -Coal3. 
- -Coal4. 
- -Coal5. 
-  *Set net profit to $180. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $36 from 2 shares and now has $337. 
-++ b revieved $144 from 8 shares of Baltimore & Ohio and now has $188. 
-++ Baltimore & Ohio valuation increases to $82 per share. 
-Boston & Maine building actions: 
-  *Buy train 7. 
-  *Buy train 8. 
-  *Build $0 of track. 
-  *Cities added: 
-   -FortWayne. 
-   -Harrisburg. 
-   -Hunington. 
-   -Indainapolis. 
-   -Pittsburgh. 
-   -SaintLouis. 
  -Coal2. 
   *Set net profit to $130. 
   *Distribute dividiens. 
-++ Boston & Maine recieved $26 from 2 shares and now has $87. 
-++ c revieved $104 from 8 shares of Boston & Maine and now has $148. 
-++ Boston & Maine valuation increases to $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Buy train 9. 
-  *Buy train 10. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Boston. 
-   -Buffalo. 
-   -Harrisburg. 
-   -NewHaven. 
-   -Philadelphia. 
-   -Portsmouth. 
-   -Syracuse. 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $13 from 1 shares and now has $73. 
-++ a revieved $117 from 9 shares of Chesapeake & Ohio and now has $167. 
-++ Chesapeake & Ohio valuation increases to $74 per share. 
-Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $180. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $36 from 2 shares and now has $373. 
-++ b revieved $144 from 8 shares of Baltimore & Ohio and now has $332. 
-++ Baltimore & Ohio valuation remains the same at $82 per share. 
+++ Baltimore & Ohio recieved $65 from 5 shares and now has $80. 
+++ w revieved $65 from 5 shares of Baltimore & Ohio and now has $140. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
 Boston & Maine building actions: 
+  *Buy train 4. 
+  *Buy train 5. 
   *Build $0 of track. 
   *Cities added: 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $26 from 2 shares and now has $113. 
-++ c revieved $104 from 8 shares of Boston & Maine and now has $252. 
-++ Boston & Maine valuation remains the same at $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $13 from 1 shares and now has $86. 
-++ a revieved $117 from 9 shares of Chesapeake & Ohio and now has $284. 
-++ Chesapeake & Ohio valuation remains the same at $74 per share. 
-++ c now has  2 shares of Pennsylvania. 
-++ c now has $104. 
-++ Pennsylvania now has 8 regualr shares and 0 orphan shares. 
-++ Pennsylvania now has $148. 
-++ c is the new president for Pennsylvania. 
-++ a now has  3 shares of New York New Haven & Hartford. 
-++ a now has $62. 
-++ New York New Haven & Hartford now has 7 regualr shares and 0 orphan shares. 
-++ New York New Haven & Hartford now has $222. 
-++ a is the new president for New York New Haven & Hartford. 
-Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $180. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $36 from 2 shares and now has $409. 
-++ b revieved $144 from 8 shares of Baltimore & Ohio and now has $476. 
-++ Baltimore & Ohio valuation remains the same at $82 per share. 
-Boston & Maine building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $26 from 2 shares and now has $139. 
-++ c revieved $104 from 8 shares of Boston & Maine and now has $208. 
-++ Boston & Maine valuation remains the same at $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-   -Albany. 
-  *Set net profit to $140. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $14 from 1 shares and now has $100. 
-++ a revieved $126 from 9 shares of Chesapeake & Ohio and now has $188. 
-++ Chesapeake & Ohio valuation increases to $82 per share. 
-Pennsylvania building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $0. 
-  *Distribute dividiens. 
-++ Pennsylvania recieved $0 from 8 shares and now has $148. 
-++ c revieved $0 from 2 shares of Pennsylvania and now has $208. 
-++ Pennsylvania valuation decreases to $60 per share. 
-++ c shares in Pennsylvania has been reduced to 1 shares. 
-New York New Haven & Hartford building actions: 
-  *Buy train 11. 
-  *Build $0 of track. 
-  *Cities added: 
+   -Chicago. 
+   -Indainapolis. 
    -NewYork. 
-  *Set net profit to $20. 
+ -Coal4. 
+ -Coal5. 
+  *Set net profit to $110. 
   *Distribute dividiens. 
-++ New York New Haven & Hartford recieved $14 from 7 shares and now has $36. 
-++ a revieved $6 from 3 shares of New York New Haven & Hartford and now has $194. 
-++ New York New Haven & Hartford valuation increases to $82 per share. 
+++ Boston & Maine recieved $55 from 5 shares and now has $190. 
+++ a revieved $55 from 5 shares of Boston & Maine and now has $130. 
+++ Boston & Maine valuation increases to $66 per share. 
 Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $180. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $36 from 2 shares and now has $445. 
-++ b revieved $144 from 8 shares of Baltimore & Ohio and now has $620. 
-++ Baltimore & Ohio valuation remains the same at $82 per share. 
-Boston & Maine building actions: 
   *Build $0 of track. 
   *Cities added: 
   *Set net profit to $130. 
   *Distribute dividiens. 
-++ Boston & Maine recieved $26 from 2 shares and now has $165. 
-++ c revieved $104 from 8 shares of Boston & Maine and now has $312. 
-++ Boston & Maine valuation remains the same at $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $140. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $14 from 1 shares and now has $114. 
-++ a revieved $126 from 9 shares of Chesapeake & Ohio and now has $320. 
-++ Chesapeake & Ohio valuation remains the same at $82 per share. 
-New York New Haven & Hartford building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ New York New Haven & Hartford recieved $14 from 7 shares and now has $50. 
-++ a revieved $6 from 3 shares of New York New Haven & Hartford and now has $326. 
-++ New York New Haven & Hartford valuation remains the same at $82 per share. 
-Pennsylvania building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $0. 
-  *Distribute dividiens. 
-++ Pennsylvania recieved $0 from 9 shares and now has $148. 
-++ c revieved $0 from 1 shares of Pennsylvania and now has $312. 
-++ Pennsylvania valuation decreases to $50 per share. 
-++ c shares in Pennsylvania has been reduced to 0 shares. 
-++ Pennsylvania goes into recievership. 
-++ Pennsylvania now has $0 and 10 regular shares and 0 orphaned shares. 
-++ c now has $394. 
-++ c now has 7 shares of Boston & Maine 
-++ Boston & Maine now has 2 regualr shares and 1 orphan shares. 
-++ Boston & Maine now has $165. 
-++ Boston & Maine  has been sold this turn and its valuation has been reduced to $74 per share. 
-++ a now has $408. 
-++ a now has 8 shares of Chesapeake & Ohio 
-++ Chesapeake & Ohio now has 1 regualr shares and 1 orphan shares. 
-++ Chesapeake & Ohio now has $114. 
-++ Chesapeake & Ohio  has been sold this turn and its valuation has been reduced to $74 per share. 
-++ b now has $702. 
-++ b now has 7 shares of Baltimore & Ohio 
-++ Baltimore & Ohio now has 2 regualr shares and 1 orphan shares. 
-++ Baltimore & Ohio now has $445. 
-++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $74 per share. 
-++ c now has $468. 
-++ c now has 6 shares of Boston & Maine 
-++ Boston & Maine now has 2 regualr shares and 2 orphan shares. 
-++ Boston & Maine now has $165. 
-++ c now has $542. 
-++ c now has 5 shares of Boston & Maine 
-++ Boston & Maine now has 2 regualr shares and 3 orphan shares. 
-++ Boston & Maine now has $165. 
-++ a now has $490. 
-++ a now has 2 shares of New York New Haven & Hartford 
-++ New York New Haven & Hartford now has 7 regualr shares and 1 orphan shares. 
-++ New York New Haven & Hartford now has $50. 
-++ New York New Haven & Hartford  has been sold this turn and its valuation has been reduced to $74 per share. 
-++ b now has $776. 
-++ b now has 6 shares of Baltimore & Ohio 
-++ Baltimore & Ohio now has 2 regualr shares and 2 orphan shares. 
-++ Baltimore & Ohio now has $445. 
-++ Baltimore & Ohio valuation decreases to $66 per share due to orphaned shares. 
-++ Boston & Maine valuation decreases to $66 per share due to orphaned shares. 
-++ Chesapeake & Ohio valuation decreases to $66 per share due to orphaned shares. 
-++ New York New Haven & Hartford valuation decreases to $66 per share due to orphaned shares. 
-Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-   -Chicago. 
-  *Set net profit to $180. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $36 from 2 shares and now has $481. 
-++ b revieved $108 from 6 shares of Baltimore & Ohio and now has $884. 
+++ Baltimore & Ohio recieved $65 from 5 shares and now has $145. 
+++ w revieved $65 from 5 shares of Baltimore & Ohio and now has $205. 
 ++ Baltimore & Ohio valuation remains the same at $66 per share. 
 Boston & Maine building actions: 
+  *Buy train 6. 
   *Build $0 of track. 
   *Cities added: 
-   -Chicago. 
-  *Set net profit to $140. 
+   -Augusta. 
+  *Set net profit to $110. 
   *Distribute dividiens. 
-++ Boston & Maine recieved $28 from 2 shares and now has $193. 
-++ c revieved $70 from 5 shares of Boston & Maine and now has $612. 
-++ Boston & Maine valuation increases to $74 per share. 
-Chesapeake & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $150. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $15 from 1 shares and now has $129. 
-++ a revieved $120 from 8 shares of Chesapeake & Ohio and now has $610. 
-++ Chesapeake & Ohio valuation increases to $74 per share. 
-New York New Haven & Hartford building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-   -Dover. 
-  *Set net profit to $30. 
-  *Distribute dividiens. 
-++ New York New Haven & Hartford recieved $21 from 7 shares and now has $71. 
-++ a revieved $6 from 2 shares of New York New Haven & Hartford and now has $616. 
-++ New York New Haven & Hartford valuation increases to $74 per share. 
-Boston & Maine building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $150. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $30 from 2 shares and now has $223. 
-++ c revieved $75 from 5 shares of Boston & Maine and now has $687. 
-++ Boston & Maine valuation increases to $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-   -Pittsburgh. 
-  *Set net profit to $160. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $16 from 1 shares and now has $145. 
-++ a revieved $128 from 8 shares of Chesapeake & Ohio and now has $744. 
-++ Chesapeake & Ohio valuation increases to $82 per share. 
-New York New Haven & Hartford building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $30. 
-  *Withhold dividens. 
-++ New York New Haven & Hartford  recieved net profit of  $30 and now has $101. 
-++ New York New Haven & Hartford valuation remains the same at $74 per share. 
-Baltimore & Ohio building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $190. 
-  *Withhold dividens. 
-++ Baltimore & Ohio  recieved net profit of  $190 and now has $671. 
-++ Baltimore & Ohio valuation remains the same at $66 per share. 
-++ c now has $769. 
-++ c now has 4 shares of Boston & Maine 
-++ Boston & Maine now has 2 regualr shares and 4 orphan shares. 
-++ Boston & Maine now has $223. 
-++ Boston & Maine  has been sold this turn and its valuation has been reduced to $74 per share. 
-++ a now has $818. 
-++ a now has 1 shares of New York New Haven & Hartford 
-++ New York New Haven & Hartford now has 7 regualr shares and 2 orphan shares. 
-++ New York New Haven & Hartford now has $101. 
-++ New York New Haven & Hartford  has been sold this turn and its valuation has been reduced to $66 per share. 
-++ b now has $950. 
-++ b now has 5 shares of Baltimore & Ohio 
-++ Baltimore & Ohio now has 2 regualr shares and 3 orphan shares. 
-++ Baltimore & Ohio now has $671. 
-++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $60 per share. 
-++ a now has $900. 
-++ a now has 7 shares of Chesapeake & Ohio 
-++ Chesapeake & Ohio now has 1 regualr shares and 2 orphan shares. 
-++ Chesapeake & Ohio now has $145. 
-++ Chesapeake & Ohio  has been sold this turn and its valuation has been reduced to $74 per share. 
+++ Boston & Maine recieved $55 from 5 shares and now has $105. 
+++ a revieved $55 from 5 shares of Boston & Maine and now has $185. 
+++ Boston & Maine valuation remains the same at $66 per share. 

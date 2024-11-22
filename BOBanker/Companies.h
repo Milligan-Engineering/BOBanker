@@ -66,7 +66,15 @@ public:
 	//Precondition: Index of coal
     //Postoncidition: Returns true if coal claimed, false if not
 
-
+	bool getLumber(int company, int lumber);
+	int setLumber(int company, int lumber);
+	int clearLumber(int company, int lumber);
+	int getLumberCount(int company);
+	// Precondition: index of company 
+	// Postcondition: Returns number of cities the lumbers currently services
+	bool checkLumber(int lumber);
+	//Precondition: Index of lumber
+	//Postoncidition: Returns true if lumber claimed, false if not
 
     int getNext(int order);
     void getInfo(int company);
@@ -168,6 +176,7 @@ private:
 	bool recievership[maxCompanies];
 	bool cities[maxCompanies][maxCities];
 	bool coals[maxCompanies][maxCoal];
+	bool lumbers[maxCompanies][maxLumber];
 	int trains[maxCompanies][maxTrains];
 	int techLevel;
 };

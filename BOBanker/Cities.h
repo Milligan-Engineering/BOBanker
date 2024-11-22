@@ -53,7 +53,10 @@ public:
 		L"Concord", L"Detroit", L"Dover", L"FortWayne", L"Harrisburg", L"Hartford", L"Hunington", L"Indainapolis", L"Lexington", L"Lousiville", L"NewHaven", L"NewYork",
 		L"Norfolk", L"Philadelphia", L"Pittsburgh", L"Portsmouth", L"Provience", L"Richmond", L"Roanoke", L"SaintLouis", L"Springfield", L"Syracuse", L"Utica", L"Washington", L"Wheeling" };
 
-	const wchar_t coals[maxCoal][20] = { L"Coal1", L"Coal2", L"Coal3", L"Coal4", L"Coal5" };
+	const wchar_t coals[maxCoal][20] = { L"Coal1", L"Coal2", L"Coal3", L"Coal4", L"Coal5" };	
+	const wchar_t lumbers[maxLumber][20] = { L"Lumber" };
 
 	const int coalValue[maxCoal] = { 40,40,40,40,40 };
+	const int lumberValue[maxLumber] = { 10 };
+
 };

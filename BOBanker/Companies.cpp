@@ -30,7 +30,11 @@ Companies::Companies()
 		}
 		for (int k = 0; k < maxCoal; k++)
 		{
-			cities[j][k] = false;
+			coals[j][k] = false;
+		}
+		for (int k = 0; k < maxLumber; k++)
+		{
+			lumbers[j][k] = false;
 		}
 		for (int k = 0; k < maxTrains; k++)
 		{
@@ -295,6 +299,44 @@ bool Companies::checkCoal(int coal)
 	return(FALSE);
 }
 
+//Lumber functions
+bool Companies::getLumber(int company, int lumber)
+{
+	return(lumbers[company][lumber]);
+}
+int Companies::setLumber(int company, int lumber)
+{
+	lumbers[company][lumber] = true;
+	return (lumbers[company][lumber]);
+}
+int Companies::clearLumber(int company, int lumber)
+{
+	lumbers[company][lumber] = false;
+	return (lumbers[company][lumber]);
+}
+int Companies::getLumberCount(int company)
+{
+	int count = 0;
+	for (int k = 0; k < maxLumber; k++)
+	{
+		if (lumbers[company][k])
+		{
+			count++;
+		}
+	}
+	return(count);
+}
+
+bool Companies::checkLumber(int lumber)
+{
+	int count = 0;
+	for (int j = 0; j < maxCompanies; j++)
+	{
+		if (getLumber(j, lumber))
+			return(TRUE);
+	}
+	return(FALSE);
+}
 
 
 //Started functions
@@ -623,7 +665,7 @@ int Companies::calcNP(int company, int netProfitList[])
 	{
 		if (profits[i])
 		{
-			netProfitList[count] = (i * 10) - (getTechLevel()*getTrainCount(company) * 10) + getCoalCount(company) * 40;
+			netProfitList[count] = (i * 10) - (getTechLevel()*getTrainCount(company) * 10) + getCoalCount(company) * 40 + getTechLevel()*getLumberCount(company)*10;
 			count++;
 		}
 	}
