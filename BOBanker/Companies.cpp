@@ -470,6 +470,7 @@ int Companies::getTrain(int company, int index)
 {
 	return (trains[company][index]);
 }
+
 int Companies::setTrain(int company, int index, int value)
 {
 	trains[company][index] = value;
@@ -489,6 +490,7 @@ int Companies::getTrainForSale()
 	}
 	return (train); //Return highest train not owned
 }
+
 int Companies::buyTrainForSale(int company)
 {
 	int train = getTrainForSale();
@@ -508,7 +510,7 @@ int Companies::returnTrainForSale(int company)
 int Companies::getTrainCount(int company)
 {
 	int numberTrains = 0;
-	for (int k = 0; k < 30; k++)
+	for (int k = 0; k < maxTrains; k++)
 	{
 		if (trains[company][k] == 1)
 		{
@@ -521,7 +523,7 @@ int Companies::getTrainOwned(int company, int index)
 {
 	int count = 0;
 	int trainsOwned[maxTrains];
-	for (int k = 0; k < 30; k++)
+	for (int k = 0; k < maxTrains; k++)
 	{
 		if (trains[company][k] == 1)
 		{
@@ -533,7 +535,7 @@ int Companies::getTrainOwned(int company, int index)
 }
 int Companies::scrapTrainOfCompany(int train, int company)
 {
-	if ((train<0) || (train>=30))
+	if ((train<0) || (train>=maxTrains))
 	{
 		cout << "The company does not own the train to scrap \n";
 		cin.clear();
@@ -561,7 +563,7 @@ int Companies::unscrapTrainOfCompany(int train, int company)
 int Companies::getServiceCapacity(int company)
 {
 	int capacity = 0;
-	for (int k = 0; k < 30; k++)
+	for (int k = 0; k < maxTrains; k++)
 	{
 		if (trains[company][k]==1)
 		{
@@ -582,7 +584,7 @@ int Companies::setTrains(int company, int train, int value)
 int Companies::scrapCompanyTrains(int company)
 {
 	int numberTrains = 0;
-	for (int k = 0; k < 30; k++)
+	for (int k = 0; k < maxTrains; k++)
 	{
 		if (trains[company][k] == 1)
 		{

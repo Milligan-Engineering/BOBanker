@@ -106,8 +106,8 @@ public:
 
 
 	int getTrainForSale();
-	//Precondition: None
-	//Postcondition: Returns the index of the train that is currently for sale
+	//Precondition: If level7Enabled is true
+	//Postcondition: Returns the index of the train that is currently for sale. Limited to 30 if level 7 not enabled
 	int returnTrainForSale(int company);
 	int getTrainCount(int companyVal);
 	// Precondition: index of company
