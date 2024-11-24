@@ -51,6 +51,7 @@ Companies::Companies()
 	color[7] = RGB(75,75,75 ); //white
 	color[8] = RGB(200, 0, 0); //red
 	color[9] = RGB(30, 20,10 ); //black
+	color[10] = RGB(60, 155, 0); //lime
 }
 
 

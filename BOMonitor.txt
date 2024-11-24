@@ -1,397 +1,58 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
-++ c now has  8 shares of Baltimore & Ohio. 
-++ c now has $20. 
-++ Baltimore & Ohio now has 2 regualr shares and 0 orphan shares. 
-++ Baltimore & Ohio now has $480. 
-++ c is the new president for Baltimore & Ohio. 
-++ b now has  8 shares of Boston & Maine. 
-++ b now has $20. 
-++ Boston & Maine now has 2 regualr shares and 0 orphan shares. 
-++ Boston & Maine now has $480. 
-++ b is the new president for Boston & Maine. 
-++ a now has  8 shares of Chesapeake & Ohio. 
-++ a now has $20. 
-++ Chesapeake & Ohio now has 2 regualr shares and 0 orphan shares. 
-++ Chesapeake & Ohio now has $480. 
-++ a is the new president for Chesapeake & Ohio. 
-Baltimore & Ohio building actions: 
-  *Buy train 1. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Baltimore. 
-   -Harrisburg. 
-   -Philadelphia. 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $4 from 2 shares and now has $384. 
-++ c revieved $16 from 8 shares of Baltimore & Ohio and now has $36. 
-++ Baltimore & Ohio valuation increases to $66 per share. 
-Boston & Maine building actions: 
-  *Buy train 2. 
-  *Buy train 3. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Chicago. 
-   -FortWayne. 
-   -Indainapolis. 
-  *Set net profit to $20. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $4 from 2 shares and now has $299. 
-++ b revieved $16 from 8 shares of Boston & Maine and now has $36. 
-++ Boston & Maine valuation increases to $66 per share. 
-Chesapeake & Ohio building actions: 
-  *Buy train 4. 
-  *Buy train 5. 
-  *Buy train 6. 
-  *Build $0 of track. 
-  *Cities added: 
-   -FortWayne. 
-   -Indainapolis. 
-   -Pittsburgh. 
-   -Wheeling. 
- -Coal2. 
- -Coal3. 
-  *Set net profit to $120. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $24 from 2 shares and now has $199. 
-++ a revieved $96 from 8 shares of Chesapeake & Ohio and now has $116. 
-++ Chesapeake & Ohio valuation increases to $66 per share. 
-Baltimore & Ohio building actions: 
-  *Buy train 7. 
-  *Build $0 of track. 
-  *Cities added: 
-   -FortWayne. 
-   -Indainapolis. 
-  *Set net profit to $30. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $6 from 2 shares and now has $260. 
-++ c revieved $24 from 8 shares of Baltimore & Ohio and now has $60. 
-++ Baltimore & Ohio valuation increases to $74 per share. 
-Boston & Maine building actions: 
-  *Buy train 8. 
-  *Buy train 9. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Cairo. 
-   -Cincinnati. 
-   -Lousiville. 
-  *Set net profit to $90. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $18 from 2 shares and now has $87. 
-++ b revieved $72 from 8 shares of Boston & Maine and now has $108. 
-++ Boston & Maine valuation increases to $74 per share. 
-Chesapeake & Ohio building actions: 
-  *Scrap train 4. 
-  *Scrap train 5. 
-  *Buy train 10. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Buffalo. 
-   -Harrisburg. 
-   -Syracuse. 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $26 from 2 shares and now has $165. 
-++ a revieved $104 from 8 shares of Chesapeake & Ohio and now has $220. 
-++ Chesapeake & Ohio valuation increases to $74 per share. 
-ALL ABOARD!!!! Here we go.
-Output file stream open failed 
-Output file stream open failed 
-Output file stream open failed 
-Baltimore & Ohio building actions: 
-  *Scrap train 1. 
-  *Scrap train 7. 
-  *Buy train 11. 
-  *Buy train 12. 
-  *Buy train 13. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $50. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $10 from 2 shares and now has $9515. 
-++ c revieved $40 from 8 shares of Baltimore & Ohio and now has $100. 
-++ Baltimore & Ohio valuation increases to $82 per share. 
-Output file stream open failed 
-Boston & Maine building actions: 
-  *Scrap train 2. 
-  *Scrap train 3. 
-  *Scrap train 8. 
-  *Buy train 14. 
-  *Buy train 15. 
-  *Buy train 16. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $90. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $18 from 2 shares and now has $9528. 
-++ b revieved $72 from 8 shares of Boston & Maine and now has $180. 
-++ Boston & Maine valuation remains the same at $74 per share. 
-Output file stream open failed 
-Chesapeake & Ohio building actions: 
-  *Scrap train 6. 
-  *Scrap train 10. 
-  *Buy train 17. 
-  *Buy train 18. 
-  *Buy train 19. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $220. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $44 from 2 shares and now has $9404. 
-++ a revieved $176 from 8 shares of Chesapeake & Ohio and now has $396. 
-++ Chesapeake & Ohio valuation increases to $82 per share. 
-Output file stream open failed 
-Baltimore & Ohio building actions: 
-  *Scrap train 11. 
-  *Scrap train 12. 
-  *Buy train 20. 
-  *Buy train 21. 
-  *Buy train 22. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Detroit. 
-  *Set net profit to $80. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $16 from 2 shares and now has $8716. 
-++ c revieved $64 from 8 shares of Baltimore & Ohio and now has $164. 
-++ Baltimore & Ohio valuation increases to $91 per share. 
-Output file stream open failed 
-Chesapeake & Ohio building actions: 
-  *Scrap train 17. 
-  *Scrap train 18. 
-  *Buy train 23. 
-  *Buy train 24. 
-  *Buy train 25. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Detroit. 
-  *Set net profit to $270. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $54 from 2 shares and now has $8703. 
-++ a revieved $216 from 8 shares of Chesapeake & Ohio and now has $612. 
-++ Chesapeake & Ohio valuation increases to $91 per share. 
-Output file stream open failed 
-Boston & Maine building actions: 
-  *Scrap train 9. 
-  *Scrap train 14. 
-  *Scrap train 15. 
-  *Buy train 26. 
-  *Buy train 27. 
-  *Buy train 28. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $110. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $22 from 2 shares and now has $8300. 
-++ b revieved $88 from 8 shares of Boston & Maine and now has $268. 
-++ Boston & Maine valuation increases to $82 per share. 
-Output file stream open failed 
-Output file stream open failed 
-Output file stream open failed 
-Output file stream open failed 
-Baltimore & Ohio building actions: 
-  *Buy train 29. 
-  *Buy train 30. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Chicago. 
-   -SaintLouis. 
-   -Springfield. 
-  *Set net profit to $190. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $38 from 2 shares and now has $7964. 
-++ c revieved $152 from 8 shares of Baltimore & Ohio and now has $316. 
-++ Baltimore & Ohio valuation increases to $100 per share. 
-Output file stream open failed 
-ALL ABOARD!!!! Here we go.
-Baltimore & Ohio building actions: 
-  *Scrap train 1. 
-  *Scrap train 7. 
-  *Buy train 11. 
-  *Buy train 12. 
-  *Buy train 13. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $50. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $10 from 2 shares and now has $9515. 
-++ c revieved $40 from 8 shares of Baltimore & Ohio and now has $100. 
-++ Baltimore & Ohio valuation increases to $82 per share. 
-Boston & Maine building actions: 
-  *Scrap train 2. 
-  *Scrap train 3. 
-  *Scrap train 8. 
-  *Buy train 14. 
-  *Buy train 15. 
-  *Buy train 16. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $90. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $18 from 2 shares and now has $9528. 
-++ b revieved $72 from 8 shares of Boston & Maine and now has $180. 
-++ Boston & Maine valuation remains the same at $74 per share. 
-Chesapeake & Ohio building actions: 
-  *Scrap train 6. 
-  *Buy train 17. 
-  *Buy train 18. 
-  *Buy train 19. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $130. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $26 from 2 shares and now has $9346. 
-++ a revieved $104 from 8 shares of Chesapeake & Ohio and now has $324. 
-++ Chesapeake & Ohio valuation remains the same at $74 per share. 
-Baltimore & Ohio building actions: 
-  *Scrap train 11. 
-  *Scrap train 12. 
-  *Buy train 20. 
-  *Buy train 21. 
-  *Buy train 22. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Detroit. 
-  *Set net profit to $80. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $16 from 2 shares and now has $8716. 
-++ c revieved $64 from 8 shares of Baltimore & Ohio and now has $164. 
-++ Baltimore & Ohio valuation increases to $91 per share. 
-Boston & Maine building actions: 
-  *Scrap train 9. 
-  *Scrap train 14. 
-  *Scrap train 15. 
-  *Buy train 23. 
-  *Buy train 24. 
-  *Buy train 25. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $100. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $20 from 2 shares and now has $8793. 
-++ b revieved $80 from 8 shares of Boston & Maine and now has $260. 
-++ Boston & Maine valuation increases to $82 per share. 
-Chesapeake & Ohio building actions: 
-  *Scrap train 10. 
-  *Scrap train 17. 
-  *Scrap train 18. 
-  *Buy train 26. 
-  *Buy train 27. 
-  *Buy train 28. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $210. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $42 from 2 shares and now has $8178. 
-++ a revieved $168 from 8 shares of Chesapeake & Ohio and now has $492. 
-++ Chesapeake & Ohio valuation increases to $82 per share. 
-Baltimore & Ohio building actions: 
-  *Scrap train 13. 
-  *Scrap train 20. 
-  *Scrap train 21. 
-  *Buy train 29. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $80. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $16 from 2 shares and now has $8562. 
-++ c revieved $64 from 8 shares of Baltimore & Ohio and now has $228. 
-++ Baltimore & Ohio valuation remains the same at $91 per share. 
-Boston & Maine building actions: 
-  *Scrap train 16. 
-  *Scrap train 23. 
-  *Scrap train 24. 
-  *Buy train 30. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $100. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $20 from 2 shares and now has $8713. 
-++ b revieved $80 from 8 shares of Boston & Maine and now has $340. 
-++ Boston & Maine valuation remains the same at $82 per share. 
-ALL ABOARD!!!! Here we go.
-ALL ABOARD!!!! Here we go.
-Chesapeake & Ohio building actions: 
-  *Scrap train 19. 
-  *Scrap train 26. 
-  *Scrap train 27. 
-  *Scrap train 28. 
-  *Buy train 31. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Utica. 
-  *Set net profit to $370. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $74 from 2 shares and now has $8052. 
-++ a revieved $296 from 8 shares of Chesapeake & Ohio and now has $788. 
-++ Chesapeake & Ohio valuation increases to $91 per share. 
-Baltimore & Ohio building actions: 
-  *Scrap train 22. 
-  *Scrap train 29. 
-  *Buy train 32. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Cairo. 
-   -Chicago. 
-   -Cincinnati. 
-   -Lousiville. 
-   -Pittsburgh. 
-   -SaintLouis. 
-   -Springfield. 
-   -Wheeling. 
-  *Set net profit to $480. 
-  *Distri++ Baltimore & Ohio recieved $96 from 2 shares and now has $8273. 
-++ c revieved $384 from 8 shares of Baltimore & Ohio and now has $612. 
-++ Baltimore & Ohio valuation increases to $100 per share. 
-Chesapeake & Ohio building actions: 
-  *Buy train 33. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Augusta. 
-   -Burlington. 
-   -Chicago. 
-   -Cleveland. 
-   -Concord. 
-   -Detroit. 
-   -Portsmouth. 
- -Lumber. 
-  *Set net profit to $770. 
-  *Distribute dividiens. 
-++ Chesapeake & Ohio recieved $154 from 2 shares and now has $7636. 
-++ a revieved $616 from 8 shares of Chesapeake & Ohio and now has $1404. 
-++ Chesapeake & Ohio valuation increases to $100 per share. 
-Boston & Maine building actions: 
-  *Scrap train 25. 
-  *Scrap train 30. 
-  *Buy train 34. 
-  *Build $0 of track. 
-  *Cities added: 
-   -Pittsburgh. 
-   -Wheeling. 
-  *Set net profit to $420. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $84 from 2 shares and now has $8482. 
-++ b revieved $336 from 8 shares of Boston & Maine and now has $676. 
-++ Boston & Maine valuation increases to $91 per share. 
-End of the game. The winner is a! 
-ALL ABOARD!!!! Here we go.
-ALL ABOARD!!!! Here we go.
-Boston & Maine building actions: 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $190. 
-  *Distribute dividiens. 
-++ Boston & Maine recieved $38 from 2 shares and now has $8751. 
-++ b revieved $152 from 8 shares of Boston & Maine and now has $492. 
-++ Boston & Maine valuation increases to $91 per share. 
-Baltimore & Ohio building actions: 
-  *Buy train 30. 
-  *Build $0 of track. 
-  *Cities added: 
-  *Set net profit to $420. 
-  *Distribute dividiens. 
-++ Baltimore & Ohio recieved $84 from 2 shares and now has $7977. 
-++ c revieved $336 from 8 shares of Baltimore & Ohio and now has $948. 
-++ Baltimore & Ohio valuation decreases to $91  per share. 
+++ z now has  1 shares of Baltimore & Ohio. 
+++ z now has $440. 
+++ Baltimore & Ohio now has 9 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $60. 
+++ z is the new president for Baltimore & Ohio. 
+++ y now has  1 shares of Boston & Maine. 
+++ y now has $445. 
+++ Boston & Maine now has 9 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $55. 
+++ y is the new president for Boston & Maine. 
+++ x now has  1 shares of Chesapeake & Ohio. 
+++ x now has $434. 
+++ Chesapeake & Ohio now has 9 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $66. 
+++ x is the new president for Chesapeake & Ohio. 
+++ z now has  1 shares of Wabash. 
+++ z now has $374. 
+++ Wabash now has 9 regualr shares and 0 orphan shares. 
+++ Wabash now has $66. 
+++ z is the new president for Wabash. 
+++ y now has  1 shares of New York Central. 
+++ y now has $390. 
+++ New York Central now has 9 regualr shares and 0 orphan shares. 
+++ New York Central now has $55. 
+++ y is the new president for New York Central. 
+++ x now has  1 shares of New York New Haven & Hartford. 
+++ x now has $374. 
+++ New York New Haven & Hartford now has 9 regualr shares and 0 orphan shares. 
+++ New York New Haven & Hartford now has $60. 
+++ x is the new president for New York New Haven & Hartford. 
+++ z now has  1 shares of Illinois Central. 
+++ z now has $308. 
+++ Illinois Central now has 9 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $66. 
+++ z is the new president for Illinois Central. 
+++ y now has  1 shares of Erie. 
+++ y now has $335. 
+++ Erie now has 9 regualr shares and 0 orphan shares. 
+++ Erie now has $55. 
+++ y is the new president for Erie. 
+++ x now has  2 shares of Nickel Plate. 
+++ x now has $254. 
+++ Nickel Plate now has 8 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $120. 
+++ x is the new president for Nickel Plate. 
+++ z now has  1 shares of Pennsylvania. 
+++ z now has $242. 
+++ Pennsylvania now has 9 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $66. 
+++ z is the new president for Pennsylvania. 
+++ y now has  2 shares of Norfolk & Western. 
+++ y now has $215. 
+++ Norfolk & Western now has 8 regualr shares and 0 orphan shares. 
+++ Norfolk & Western now has $120. 
+++ y is the new president for Norfolk & Western. 

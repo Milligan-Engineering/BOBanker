@@ -1,10 +1,9 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
   BOBanker.cpp
   Companies.cpp
-  Trains.cpp
   Generating code
-  16 of 332 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+  17 of 332 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
+    13 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   BOBanker.vcxproj -> C:\Users\jjgiesey\OneDrive - Milligan University\Documents\BOBanker\BOBanker.exe
