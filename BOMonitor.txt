@@ -1,8 +1,38 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
-++ w now has  2 shares of Norfolk & Western. 
-++ w now has $380. 
-++ Norfolk & Western now has 8 regualr shares and 0 orphan shares. 
-++ Norfolk & Western now has $120. 
-++ w is the new president for Norfolk & Western. 
+ALL ABOARD!!!! Here we go.
+ALL ABOARD!!!! Here we go.
+ALL ABOARD!!!! Here we go.
+New York Central building actions: 
+  *Buy train 11. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ New York Central recieved $9 from 9 shares and now has $9809. 
+++ y revieved $1 from 1 shares of New York Central and now has $233. 
+++ New York Central valuation increases to $60 per share. 
+Erie building actions: 
+  *Buy train 12. 
+  *Build $0 of track. 
+  *Cities added: 
+   -Buffalo. 
+   -Syracuse. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Erie recieved $18 from 9 shares and now has $9833. 
+++ y revieved $2 from 1 shares of Erie and now has $235. 
+++ Erie valuation increases to $60 per share. 
+Norfolk & Western building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal1. 
+ -Coal2. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Norfolk & Western recieved $48 from 8 shares and now has $9882. 
+++ y revieved $12 from 2 shares of Norfolk & Western and now has $247. 
+++ Norfolk & Western valuation decreases to $74  per share. 
+ALL ABOARD!!!! Here we go.
