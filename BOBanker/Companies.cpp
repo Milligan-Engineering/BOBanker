@@ -292,7 +292,7 @@ int Companies::getCoalCount(int company)
 bool Companies::checkCoal(int coal)
 {
 	int count = 0;
-	for (int j = 0; j < maxCompanies; j++)
+	for (int j = 0; j < maxCompanies-1; j++) //check companies except for N&W
 	{
 		if (getCoal(j,coal))
 			return(TRUE);
@@ -596,6 +596,18 @@ int Companies::scrapCompanyTrains(int company)
 	return (numberTrains);
 }
 
+// Company availability functions
+
+int Companies::setCompanyAvailable(int levelVal, int companyVal)
+{
+	available[companyVal] = levelVal;
+	return(0);
+}
+
+int Companies::getCompanyAvailable(int companyVal)
+{
+	return(available[companyVal]);
+}
 
 
 // Tech Level functions
@@ -642,7 +654,13 @@ void Companies::getInfo(int company)
 		order[company] << " strt " << started[company] << "sold " << sold[company] << endl;
 		return;
 }
-int Companies::calcNP(int company, int netProfitList[])
+int Companies::calcNP(int netProfitList[]) //For Norfolk and Western
+{
+	int company = indexNW;
+	netProfitList[0] = min(getCoalCount(company), getServiceCapacity(company))* getTechLevel() * 10;
+	return(1);
+}
+int Companies::calcNP(int company, int netProfitList[]) //For regualr companies
 {
 	bool profits[100];
 	for (int i = 0; i < 100; i++)

@@ -1,58 +1,8 @@
 Monitor File 
  
 ALL ABOARD!!!! Here we go.
-++ z now has  1 shares of Baltimore & Ohio. 
-++ z now has $440. 
-++ Baltimore & Ohio now has 9 regualr shares and 0 orphan shares. 
-++ Baltimore & Ohio now has $60. 
-++ z is the new president for Baltimore & Ohio. 
-++ y now has  1 shares of Boston & Maine. 
-++ y now has $445. 
-++ Boston & Maine now has 9 regualr shares and 0 orphan shares. 
-++ Boston & Maine now has $55. 
-++ y is the new president for Boston & Maine. 
-++ x now has  1 shares of Chesapeake & Ohio. 
-++ x now has $434. 
-++ Chesapeake & Ohio now has 9 regualr shares and 0 orphan shares. 
-++ Chesapeake & Ohio now has $66. 
-++ x is the new president for Chesapeake & Ohio. 
-++ z now has  1 shares of Wabash. 
-++ z now has $374. 
-++ Wabash now has 9 regualr shares and 0 orphan shares. 
-++ Wabash now has $66. 
-++ z is the new president for Wabash. 
-++ y now has  1 shares of New York Central. 
-++ y now has $390. 
-++ New York Central now has 9 regualr shares and 0 orphan shares. 
-++ New York Central now has $55. 
-++ y is the new president for New York Central. 
-++ x now has  1 shares of New York New Haven & Hartford. 
-++ x now has $374. 
-++ New York New Haven & Hartford now has 9 regualr shares and 0 orphan shares. 
-++ New York New Haven & Hartford now has $60. 
-++ x is the new president for New York New Haven & Hartford. 
-++ z now has  1 shares of Illinois Central. 
-++ z now has $308. 
-++ Illinois Central now has 9 regualr shares and 0 orphan shares. 
-++ Illinois Central now has $66. 
-++ z is the new president for Illinois Central. 
-++ y now has  1 shares of Erie. 
-++ y now has $335. 
-++ Erie now has 9 regualr shares and 0 orphan shares. 
-++ Erie now has $55. 
-++ y is the new president for Erie. 
-++ x now has  2 shares of Nickel Plate. 
-++ x now has $254. 
-++ Nickel Plate now has 8 regualr shares and 0 orphan shares. 
-++ Nickel Plate now has $120. 
-++ x is the new president for Nickel Plate. 
-++ z now has  1 shares of Pennsylvania. 
-++ z now has $242. 
-++ Pennsylvania now has 9 regualr shares and 0 orphan shares. 
-++ Pennsylvania now has $66. 
-++ z is the new president for Pennsylvania. 
-++ y now has  2 shares of Norfolk & Western. 
-++ y now has $215. 
+++ w now has  2 shares of Norfolk & Western. 
+++ w now has $380. 
 ++ Norfolk & Western now has 8 regualr shares and 0 orphan shares. 
 ++ Norfolk & Western now has $120. 
-++ y is the new president for Norfolk & Western. 
+++ w is the new president for Norfolk & Western. 

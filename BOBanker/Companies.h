@@ -140,7 +140,12 @@ public:
 	int buyTrainForSale(int company);
 	int getTrain(int company, int index);
 	int setTrain(int company, int index, int value);
-
+	int setCompanyAvailable(int levelVal, int companyVal);
+	//Precondition: For company given by companyVal
+	//Postcondition: Sets level available to levelVal
+	int getCompanyAvailable(int companyVal);
+	//Precondition: For company given by companyVal
+	//Postcondition: Returns current level available
 
 
 	int getTechLevel();
@@ -150,16 +155,24 @@ public:
 	//				If level = 0, techLevel is determined by the trains bought
 	// Postcondition: Returns techLevel based on trains.
 
-	int calcNP(int company, int netProfitList[]);
-	//Precondition:
-	//Postconditions:
+	int calcNP(int company, int netProfitList[]); //For regular railroads
+	//Precondition: Given company index
+	//Postconditions: array netProfitList contains potential profits
+	//				  returns number of values in netProfitList
+
+
+	int calcNP(int netProfitList[]); //For Norfolk and Western
+	//Precondition: Given company index
+	//Postconditions: array netProfitList contains potential profits
+	//				  returns number of values in netProfitList
+
 
 	int addone(bool profits[], int sum, int n, int k, int start, int nsum, int company);
 
 
 	COLORREF color[maxCities];
 	wchar_t name[maxCompanies][35] = { L"Baltimore & Ohio", L"Boston & Maine", L"Chesapeake & Ohio", L"Illinois Central", L"Erie", L"New York Central",L"Nickel Plate", L"New York New Haven & Hartford", L"Pennsylvania", L"Wabash", L"Norfolk & Western"};
-	int available[maxCompanies] = { 1,1,1,1,1,1,1,1,1,1,1}; // = { 1,1,1,3,3,1,3,1,1,3,4 }; 
+	int available[maxCompanies] = { 1,1,1,3,3,1,3,1,1,3,8 }; 
 
 private:
 
