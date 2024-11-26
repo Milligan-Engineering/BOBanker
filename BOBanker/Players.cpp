@@ -139,6 +139,7 @@ int  Players::setOrder(int player, int porder)
 	order[player] = porder;
 	return(porder);
 }
+
 int Players::getTurnorders(int playerTurnorder[], int numberPlayers)
 {
 	// Determine  player turn order		
