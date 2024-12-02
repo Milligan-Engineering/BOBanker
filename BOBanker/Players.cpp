@@ -139,17 +139,7 @@ int  Players::setOrder(int player, int porder)
 	order[player] = porder;
 	return(porder);
 }
-int Players::getTurnorders(int playerTurnorder[], int numberPlayers)
-{
-	// Determine  player turn order		
-	// Sort players in order of cash
-	for (int i = 0; i < maxPlayers; i++)
-	{
-		playerTurnorder[order[i]] = i; //Place local order in turnorder
-	}
 
-	return(0);
-}
 int Players::setTurnorders()
 {
 	// Determine  player turn order		
@@ -180,6 +170,17 @@ int Players::setTurnorders()
 	return(0);
 }
 
+int Players::getTurnorders(int playerTurnorder[], int numberPlayers)
+{
+	// Determine  player turn order		
+	// Sort players in order of cash
+	for (int i = 0; i < maxPlayers; i++)
+	{
+		playerTurnorder[order[i]] = i; //Place local order in turnorder
+	}
+
+	return(0);
+}
 //Networth functions
 int  Players::getNetworth(int player)
 {

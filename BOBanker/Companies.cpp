@@ -657,7 +657,7 @@ void Companies::getInfo(int company)
 int Companies::calcNP(int netProfitList[]) //For Norfolk and Western
 {
 	int company = indexNW;
-	netProfitList[0] = min(getCoalCount(company), getServiceCapacity(company))* getTechLevel() * 10;
+	netProfitList[0] = min(getCoalCount(company), getServiceCapacity(company))* getTechLevel() * 10-(getTechLevel() * getTrainCount(company) * 10);
 	return(1);
 }
 int Companies::calcNP(int company, int netProfitList[]) //For regualr companies
