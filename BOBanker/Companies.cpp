@@ -133,7 +133,7 @@ int Companies::setValuationM(int company, int value)
 }
 int Companies::increaseValuation(int company)
 {
-	if (valuation[company] < 26)
+	if (valuation[company] < 27)
 	{
 		valuation[company] ++;
 		setTurnorders();
@@ -143,7 +143,7 @@ int Companies::increaseValuation(int company)
 }
 int Companies::decreaseValuation(int company)
 {
-	if (valuation[company] > 0)
+	if (valuation[company] > 1)
 	{
 		valuation[company] --;
 		dropTurnorder(company);
@@ -386,8 +386,7 @@ int Companies::setRecievership(int company)
 }
 int Companies::clearRecievership(int company)
 {
-	for (int j = 0; j< maxCompanies; j++)
-		recievership[j] = false;
+	recievership[company] = false;
 	return (0);
 }
 
