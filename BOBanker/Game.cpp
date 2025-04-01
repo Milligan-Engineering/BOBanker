@@ -21,6 +21,21 @@ int Game::setTurn(int pTurn)
 	turn = pTurn;
 	return(0);
 }
+int Game::getStep()
+{
+	return(step);
+}
+int Game::incStep()
+{
+	step++;
+	return(step);
+}
+
+int Game::setStep(int pStep)
+{
+	step = pStep;
+	return(0);
+}
 
 int Game::getRound()
 {
@@ -31,6 +46,24 @@ int Game::setRound(int pRound)
 	round = pRound;
 	return(0);
 }
+
+int Game::getStage()
+{
+	return(stage);
+}
+
+int Game::incStage()
+{
+	stage++;
+	return(stage);
+}
+
+int Game::setStage(int pStage)
+{
+	stage = pStage;
+	return(0);
+}
+
 
 int Game::getEndLevel()
 {

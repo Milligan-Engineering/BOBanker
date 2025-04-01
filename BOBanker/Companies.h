@@ -30,6 +30,9 @@ public:
 	int getOrphans(int company);
 	int setOrphans(int company, int value);
     int changeOrphans(int company, int sharesVal);
+	int getSharesForSale(bool exapnsionNW);
+	//Preconditions: Boolean vairable true if using Norfolk and Western Exansion
+	//Postcondition: Returns total number of shares (company and orphans) still for sale in all companies
 
 
     bool getStarted(int company);
@@ -89,6 +92,9 @@ public:
 	int setValuationM(int company, int value);
     int increaseValuation(int company);
 	int decreaseValuation(int company);
+	int getMaxValuation(bool expansionNW);
+	//Preconditions: Boolean vairable true if using Norfolk and Western Exansion
+    //Postcondition: Returns msximum valuation of all companies
 
 	bool getAvailable(int company, int techLevel);
 

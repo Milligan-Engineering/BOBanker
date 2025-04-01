@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BOBanker.cpp
+C:\Users\jjgiesey\OneDrive - Milligan University\Documents\BOBanker\BOBanker\BOBanker.cpp(2829,10): warning C4101: 'cashStr': unreferenced local variable
+  (compiling source file '/BOBanker.cpp')
+  
+  Cities.cpp
+  Companies.cpp
+  Game.cpp
+  Players.cpp
+  TechLevels.cpp
+  Trains.cpp
+  Generating Code...
+  BOBanker.vcxproj -> C:\Users\jjgiesey\OneDrive - Milligan University\Documents\BOBanker\x64\Debug\BOBanker.exe

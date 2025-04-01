@@ -133,7 +133,7 @@ int Companies::setValuationM(int company, int value)
 }
 int Companies::increaseValuation(int company)
 {
-	if (valuation[company] < 27)
+	if (valuation[company] < 26)
 	{
 		valuation[company] ++;
 		setTurnorders();
@@ -151,6 +151,30 @@ int Companies::decreaseValuation(int company)
 	//	cout << name[company] << " now has a valuation of $" << valuations[valuation[company]] << " per share \n";
 	return(valuation[company]);
 }
+int Companies::getMaxValuation(bool expansionNW)
+{
+	int numCompanies;
+	int maxVal = 0;
+	if (expansionNW)
+	{
+		numCompanies = maxCompanies;
+	}
+	else
+	{
+		numCompanies = maxCompanies - 1;
+	}
+	for (int i = 0; i < numCompanies; i++)
+	{
+		if(valuation[i]>maxVal)
+			{
+				maxVal = valuation[i];
+			}
+	}
+	return(maxVal);
+}
+
+
+
 
 //Net Profit functions
 int Companies::getNetprofit(int company)
@@ -189,6 +213,27 @@ int Companies::changeShares(int company, int value)
 	shares[company] += value;
 	return (shares[company]);
 }
+
+int Companies::getSharesForSale(bool expansionNW)
+{
+	int numCompanies;
+	int numShares=0;
+	if (expansionNW)
+	{
+		numCompanies = maxCompanies;
+	}
+	else
+	{
+		numCompanies = maxCompanies-1;
+	}
+	for (int i=0; i<numCompanies; i++)
+	{ 
+		numShares = numShares + shares[i] + orphans[i];
+	}
+	return(numShares);
+}
+
+
 
 //Orphan functions
 int Companies::getOrphans(int company)

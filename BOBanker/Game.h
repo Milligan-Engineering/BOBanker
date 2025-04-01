@@ -14,6 +14,18 @@ public:
 	//Precondition: None
 	//Postcondition: Current value of turn is returned.
 
+	int getStep();
+	//Precondition: None
+	//Postcondition: Current value of step is returned.
+
+	int incStep();
+	//Precondition: None
+	//Postcondition: stepStore in incresed by 1, stored in step and the value is returned.
+
+	int setStep(int pStep);
+	//Precondition: The step is passed in pStep
+	//Postcondition: Value is stored in step.
+
 	int setRound(int round);
 	//Precondition: The index of the round is passed in turn
 	//Postcondition: Value is stored in turn.
@@ -21,6 +33,21 @@ public:
 	int getRound();
 	//Precondition: None
 	//Postcondition: Current value of turn is returned.
+
+	int getStage();
+	//Precondition: None
+	//Postcondition: Current value of stage is returned.
+
+	int incStage();
+	//Precondition: None
+	//Postcondition: stage in incresed by 1 and the value is returned.
+
+	int setStage(int pStage);
+	//Precondition: The stage is passed in pStage
+	//Postcondition: Value is stored in stage.
+
+
+
 
 	int setEndLevel(int level);
 	//Precondition: A value of the end level is passed in turn
@@ -54,11 +81,14 @@ public:
 private:
 	int turn = 0; // Index of current Player or company
 	int round = 0; // Current round
+	int step = 0; // Cumulative total of turns
+	int stepStore = 0; // Storage for current step
+	int stage = 0; // Cumulative total of rounds
 	bool marketSuccess; //Indicates player did not only pass
 	bool buySuccess; // Inicates player bought shares and market turn should end
 	int numberPasses; //Number of passes in turn
-	int playerOrder[maxPlayers] = { 0,1,2,3,4,5 };
-	int companyOrder[maxCompanies] = { 0,1,2,3,4,5,6,7,8,9 };
+	int playerOrder[maxPlayers] = { 0,1,2,3,4,5,6,7,8};
+	int companyOrder[maxCompanies] = { 0,1,2,3,4,5,6,7,8 };
 	int endLevel = 2;
 };
 

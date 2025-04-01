@@ -1,0 +1,1082 @@
+Monitor File 
+ 
+ALL ABOARD!!!! Here we go.
+++ Glenn now has  1 shares of Pennsylvania. 
+++ Glenn now has $240. 
+++ Pennsylvania now has 9 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $60. 
+There are now has  99 shares for sale 
+++ Glenn is the new president for Pennsylvania. 
+++ Jeff now has  3 shares of Baltimore & Ohio. 
+++ Jeff now has $120. 
+++ Baltimore & Ohio now has 7 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $180. 
+There are now has  96 shares for sale 
+++ Jeff is the new president for Baltimore & Ohio. 
+++ John now has  3 shares of New York Central. 
+++ John now has $120. 
+++ New York Central now has 7 regualr shares and 0 orphan shares. 
+++ New York Central now has $180. 
+There are now has  93 shares for sale 
+++ John is the new president for New York Central. 
+++ William now has  5 shares of Baltimore & Ohio. 
+++ William now has $0. 
+++ Baltimore & Ohio now has 2 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $480. 
+There are now has  88 shares for sale 
+++ William is the new president for Baltimore & Ohio. 
+++ Pat now has  3 shares of Pennsylvania. 
+++ Pat now has $120. 
+++ Pennsylvania now has 6 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $240. 
+There are now has  85 shares for sale 
+++ Pat is the new president for Pennsylvania. 
+++ Glenn now has  1 shares of Baltimore & Ohio. 
+++ Glenn now has $180. 
+++ Baltimore & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $540. 
+There are now has  84 shares for sale 
+++ Jeff now has  2 shares of New York Central. 
+++ Jeff now has $0. 
+++ New York Central now has 5 regualr shares and 0 orphan shares. 
+++ New York Central now has $300. 
+There are now has  82 shares for sale 
+++ John now has  1 shares of Baltimore & Ohio. 
+++ John now has $60. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $600. 
+There are now has  81 shares for sale 
+++ Pat now has  1 shares of New York Central. 
+++ Pat now has $60. 
+++ New York Central now has 4 regualr shares and 0 orphan shares. 
+++ New York Central now has $360. 
+There are now has  80 shares for sale 
+++ Glenn now has  1 shares of New York Central. 
+++ Glenn now has $120. 
+++ New York Central now has 3 regualr shares and 0 orphan shares. 
+++ New York Central now has $420. 
+There are now has  79 shares for sale 
+++ John now has  1 shares of Pennsylvania. 
+++ John now has $0. 
+++ Pennsylvania now has 5 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $300. 
+There are now has  78 shares for sale 
+++ Pat now has  4 shares of Pennsylvania. 
+++ Pat now has $0. 
+++ Pennsylvania now has 4 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $360. 
+There are now has  77 shares for sale 
+++ Glenn now has  2 shares of Pennsylvania. 
+++ Glenn now has $60. 
+++ Pennsylvania now has 3 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $420. 
+There are now has  76 shares for sale 
+++ Glenn now has  2 shares of New York Central. 
+++ Glenn now has $0. 
+++ New York Central now has 2 regualr shares and 0 orphan shares. 
+++ New York Central now has $480. 
+There are now has  75 shares for sale 
+Pennsylvania building actions: 
+  *Buy train 1. 
+  *Build $20 of track. 
+  *Cities added: 
+   -Philadelphia. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $6 from 3 shares and now has $306. 
+++ Pat revieved $8 from 4 shares of Pennsylvania and now has $8. 
+++ John revieved $2 from 1 shares of Pennsylvania and now has $2. 
+++ Glenn revieved $4 from 2 shares of Pennsylvania and now has $4. 
+++ Pennsylvania valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Buy train 2. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Baltimore. 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $495. 
+++ William revieved $5 from 5 shares of Baltimore & Ohio and now has $5. 
+++ John revieved $1 from 1 shares of Baltimore & Ohio and now has $3. 
+++ Glenn revieved $1 from 1 shares of Baltimore & Ohio and now has $5. 
+++ Jeff revieved $3 from 3 shares of Baltimore & Ohio and now has $3. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+New York Central building actions: 
+  *Buy train 3. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Albany. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $4 from 2 shares and now has $354. 
+++ Pat revieved $2 from 1 shares of New York Central and now has $10. 
+++ John revieved $6 from 3 shares of New York Central and now has $9. 
+++ Glenn revieved $4 from 2 shares of New York Central and now has $9. 
+++ Jeff revieved $4 from 2 shares of New York Central and now has $7. 
+++ New York Central valuation increases to $66 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Harrisburg. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $6 from 3 shares and now has $292. 
+++ Pat revieved $8 from 4 shares of Pennsylvania and now has $18. 
+++ John revieved $2 from 1 shares of Pennsylvania and now has $11. 
+++ Glenn revieved $4 from 2 shares of Pennsylvania and now has $13. 
+++ Pennsylvania valuation remains the same at $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $475. 
+++ William revieved $5 from 5 shares of Baltimore & Ohio and now has $10. 
+++ John revieved $1 from 1 shares of Baltimore & Ohio and now has $12. 
+++ Glenn revieved $1 from 1 shares of Baltimore & Ohio and now has $14. 
+++ Jeff revieved $3 from 3 shares of Baltimore & Ohio and now has $10. 
+++ Baltimore & Ohio valuation remains the same at $66 per share. 
+New York Central building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+   -NewYork. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ New York Central recieved $4 from 2 shares and now has $298. 
+++ Pat revieved $2 from 1 shares of New York Central and now has $20. 
+++ John revieved $6 from 3 shares of New York Central and now has $18. 
+++ Glenn revieved $4 from 2 shares of New York Central and now has $18. 
+++ Jeff revieved $4 from 2 shares of New York Central and now has $14. 
+++ New York Central valuation remains the same at $66 per share. 
+++ Glenn now has $84. 
+++ Glenn now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 0 regualr shares and 1 orphan shares. 
+++ Baltimore & Ohio now has $475. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ Glenn now has $150. 
+++ Glenn now has 1 shares of New York Central 
+++ New York Central now has 2 regualr shares and 1 orphan shares. 
+++ New York Central now has $298. 
+++ New York Central  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ Glenn now has $210. 
+++ Glenn now has 0 shares of New York Central 
+++ New York Central now has 2 regualr shares and 2 orphan shares. 
+++ New York Central now has $298. 
+++ Glenn now has $342. 
+++ Glenn now has 0 shares of Pennsylvania 
+++ Pennsylvania now has 3 regualr shares and 2 orphan shares. 
+++ Pennsylvania now has $292. 
+++ Pennsylvania  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ Glenn now has  5 shares of Boston & Maine. 
+++ Glenn now has $12. 
+++ Boston & Maine now has 5 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $330. 
+There are now has  75 shares for sale 
+++ Glenn is the new president for Boston & Maine. 
+ New York Central now has $178 and 4 regular shares and 0 orphan shares. 
+ Pennsylvania now has $172 and 5 regular shares and 0 orphan shares. 
+ Baltimore & Ohio now has $415 and 1 regular shares and 0 orphan shares. 
+Boston & Maine building actions: 
+  *Buy train 4. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Boston. 
+   -Hartford. 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $10 from 5 shares and now has $245. 
+++ Glenn revieved $10 from 5 shares of Boston & Maine and now has $22. 
+++ Boston & Maine valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+  *Set net profit to $10. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $1 from 1 shares and now has $356. 
+++ William revieved $5 from 5 shares of Baltimore & Ohio and now has $15. 
+++ John revieved $1 from 1 shares of Baltimore & Ohio and now has $19. 
+++ Jeff revieved $3 from 3 shares of Baltimore & Ohio and now has $17. 
+++ Baltimore & Ohio valuation remains the same at $60 per share. 
+New York Central building actions: 
+  *Buy train 5. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Utica. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ New York Central recieved $16 from 4 shares and now has $104. 
+++ Pat revieved $4 from 1 shares of New York Central and now has $24. 
+++ John revieved $12 from 3 shares of New York Central and now has $31. 
+++ Jeff revieved $8 from 2 shares of New York Central and now has $25. 
+++ New York Central valuation increases to $66 per share. 
+Pennsylvania building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+  *Set net profit to $20. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $10 from 5 shares and now has $102. 
+++ Pat revieved $8 from 4 shares of Pennsylvania and now has $32. 
+++ John revieved $2 from 1 shares of Pennsylvania and now has $33. 
+++ Pennsylvania valuation remains the same at $60 per share. 
+Boston & Maine building actions: 
+  *Buy train 6. 
+  *Build $70 of track. 
+  *Cities added: 
+   -NewHaven. 
+   -NewYork. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $20 from 5 shares and now has $55. 
+++ Glenn revieved $20 from 5 shares of Boston & Maine and now has $42. 
+++ Boston & Maine valuation increases to $82 per share. 
+New York Central building actions: 
+  *Scrap train 3. 
+  *Scrap train 5. 
+  *Buy train 7. 
+  *Build $10 of track. 
+  *Cities added: 
+   -Syracuse. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 4 shares and now has $24. 
+++ Pat revieved $5 from 1 shares of New York Central and now has $37. 
+++ John revieved $15 from 3 shares of New York Central and now has $48. 
+++ Jeff revieved $10 from 2 shares of New York Central and now has $35. 
+++ New York Central valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Buy train 8. 
+  *Build $80 of track. 
+  *Cities added: 
+   -Washington. 
+   -Wheeling. 
+  *Set net profit to $30. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $3 from 1 shares and now has $159. 
+++ William revieved $15 from 5 shares of Baltimore & Ohio and now has $30. 
+++ John revieved $3 from 1 shares of Baltimore & Ohio and now has $51. 
+++ Jeff revieved $9 from 3 shares of Baltimore & Ohio and now has $44. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal1. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $30 from 5 shares and now has $132. 
+++ Pat revieved $24 from 4 shares of Pennsylvania and now has $61. 
+++ John revieved $6 from 1 shares of Pennsylvania and now has $57. 
+++ Pennsylvania valuation increases to $66 per share. 
+++ Jeff now has $242. 
+++ Jeff now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 1 regualr shares and 3 orphan shares. 
+++ Baltimore & Ohio now has $159. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ Jeff now has $390. 
+++ Jeff now has 0 shares of New York Central 
+++ New York Central now has 4 regualr shares and 2 orphan shares. 
+++ New York Central now has $24. 
+++ New York Central  has been sold this turn and its valuation has been reduced to $66 per share. 
+++ Jeff now has  5 shares of Pennsylvania. 
+++ Jeff now has $60. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $462. 
+There are now has  75 shares for sale 
+++ Jeff is the new president for Pennsylvania. 
+++ John now has $117. 
+++ John now has 0 shares of Baltimore & Ohio 
+++ Baltimore & Ohio now has 1 regualr shares and 4 orphan shares. 
+++ Baltimore & Ohio now has $159. 
+++ Baltimore & Ohio  has been sold this turn and its valuation has been reduced to $55 per share. 
+++ John now has $183. 
+++ John now has 0 shares of Pennsylvania 
+++ Pennsylvania now has 0 regualr shares and 1 orphan shares. 
+++ Pennsylvania now has $462. 
+++ Pennsylvania  has been sold this turn and its valuation has been reduced to $60 per share. 
+++ John now has  5 shares of New York Central. 
+++ John now has $51. 
+++ New York Central now has 3 regualr shares and 1 orphan shares. 
+++ New York Central now has $90. 
+There are now has  75 shares for sale 
+++ Pat now has  5 shares of Pennsylvania. 
+++ Pat now has $1. 
+++ Pennsylvania now has 0 regualr shares and 0 orphan shares. 
+++ Pennsylvania now has $462. 
+There are now has  74 shares for sale 
+ Baltimore & Ohio now has $49 and 3 regular shares and 2 orphan shares. 
+ New York Central now has $24 and 4 regular shares and 0 orphan shares. 
+++ Baltimore & Ohio valuation decreases to $50 per share due to orphaned shares. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $25 from 5 shares and now has $80. 
+++ Glenn revieved $25 from 5 shares of Boston & Maine and now has $67. 
+++ Boston & Maine valuation increases to $91 per share. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Buffalo. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 4 shares and now has $24. 
+++ Pat revieved $5 from 1 shares of New York Central and now has $6. 
+++ John revieved $25 from 5 shares of New York Central and now has $76. 
+++ New York Central valuation remains the same at $66 per share. 
+Pennsylvania building actions: 
+  *Buy train 9. 
+  *Build $70 of track. 
+  *Cities added: 
+   -Pittsburgh. 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $282. 
+++ Pat revieved $40 from 5 shares of Pennsylvania and now has $46. 
+++ Jeff revieved $40 from 5 shares of Pennsylvania and now has $100. 
+++ Pennsylvania valuation increases to $66 per share. 
+Baltimore & Ohio building actions: 
+  *Build $30 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $40. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $12 from 3 shares and now has $31. 
+++ William revieved $20 from 5 shares of Baltimore & Ohio and now has $50. 
+++ Baltimore & Ohio valuation increases to $55 per share. 
+Boston & Maine building actions: 
+  *Build $30 of track. 
+  *Cities added: 
+   -Baltimore. 
+   -Philadelphia. 
+  *Set net profit to $60. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $30 from 5 shares and now has $80. 
+++ Glenn revieved $30 from 5 shares of Boston & Maine and now has $97. 
+++ Boston & Maine valuation increases to $100 per share. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ New York Central recieved $20 from 4 shares and now has $24. 
+++ Pat revieved $5 from 1 shares of New York Central and now has $51. 
+++ John revieved $25 from 5 shares of New York Central and now has $101. 
+++ New York Central valuation remains the same at $66 per share. 
+Pennsylvania building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Cleveland. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $262. 
+++ Pat revieved $50 from 5 shares of Pennsylvania and now has $101. 
+++ Jeff revieved $50 from 5 shares of Pennsylvania and now has $150. 
+++ Pennsylvania valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $15 from 3 shares and now has $26. 
+++ William revieved $25 from 5 shares of Baltimore & Ohio and now has $75. 
+++ Baltimore & Ohio valuation increases to $60 per share. 
+++ William now has  6 shares of Baltimore & Ohio. 
+++ William now has $15. 
+++ Baltimore & Ohio now has 2 regualr shares and 2 orphan shares. 
+++ Baltimore & Ohio now has $86. 
+There are now has  73 shares for sale 
+++ Glenn now has  1 shares of New York Central. 
+++ Glenn now has $31. 
+++ New York Central now has 3 regualr shares and 0 orphan shares. 
+++ New York Central now has $90. 
+There are now has  72 shares for sale 
+++ Pat now has  2 shares of New York Central. 
+++ Pat now has $35. 
+++ New York Central now has 2 regualr shares and 0 orphan shares. 
+++ New York Central now has $156. 
+There are now has  71 shares for sale 
+++ John now has  6 shares of New York Central. 
+++ John now has $35. 
+++ New York Central now has 1 regualr shares and 0 orphan shares. 
+++ New York Central now has $222. 
+There are now has  70 shares for sale 
+++ Jeff now has  2 shares of Baltimore & Ohio. 
+++ Jeff now has $30. 
+++ Baltimore & Ohio now has 0 regualr shares and 2 orphan shares. 
+++ Baltimore & Ohio now has $206. 
+There are now has  68 shares for sale 
+ Baltimore & Ohio now has $86 and 2 regular shares and 0 orphan shares. 
+Boston & Maine building actions: 
+  *Scrap train 4. 
+  *Buy train 10. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $50 from 5 shares and now has $50. 
+++ Glenn revieved $50 from 5 shares of Boston & Maine and now has $81. 
+++ Boston & Maine valuation increases to $110 per share. 
+Pennsylvania building actions: 
+  *Scrap train 1. 
+  *Buy train 11. 
+  *Build $80 of track. 
+  *Cities added: 
+   -Detroit. 
+   -NewYork. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $2. 
+++ Pat revieved $95 from 5 shares of Pennsylvania and now has $130. 
+++ Jeff revieved $95 from 5 shares of Pennsylvania and now has $125. 
+++ Pennsylvania valuation increases to $82 per share. 
+New York Central building actions: 
+  *Buy train 12. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Philadelphia. 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ New York Central recieved $14 from 1 shares and now has $21. 
+++ Pat revieved $28 from 2 shares of New York Central and now has $158. 
+++ John revieved $84 from 6 shares of New York Central and now has $119. 
+++ Glenn revieved $14 from 1 shares of New York Central and now has $95. 
+++ New York Central valuation increases to $74 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal2. 
+  *Set net profit to $90. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $18 from 2 shares and now has $104. 
+++ William revieved $54 from 6 shares of Baltimore & Ohio and now has $69. 
+++ Jeff revieved $18 from 2 shares of Baltimore & Ohio and now has $143. 
+++ Baltimore & Ohio valuation increases to $66 per share. 
+Boston & Maine building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Washington. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $50 from 5 shares and now has $80. 
+++ Glenn revieved $50 from 5 shares of Boston & Maine and now has $145. 
+++ Boston & Maine valuation remains the same at $110 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $190. 
+  *Withhold dividens. 
+++ Pennsylvania  recieved net profit of  $190 and now has $192. 
+++ Pennsylvania valuation remains the same at $82 per share. 
+New York Central building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Detroit. 
+  *Set net profit to $150. 
+  *Distribute dividiens. 
+++ New York Central recieved $15 from 1 shares and now has $16. 
+++ Pat revieved $30 from 2 shares of New York Central and now has $188. 
+++ John revieved $90 from 6 shares of New York Central and now has $209. 
+++ Glenn revieved $15 from 1 shares of New York Central and now has $160. 
+++ New York Central valuation increases to $82 per share. 
+Baltimore & Ohio building actions: 
+  *Build $80 of track. 
+  *Cities added: 
+   -Pittsburgh. 
+  *Set net profit to $100. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $20 from 2 shares and now has $44. 
+++ William revieved $60 from 6 shares of Baltimore & Ohio and now has $129. 
+++ Jeff revieved $20 from 2 shares of Baltimore & Ohio and now has $163. 
+++ Baltimore & Ohio valuation increases to $74 per share. 
+++ William now has  7 shares of Baltimore & Ohio. 
+++ William now has $55. 
+++ Baltimore & Ohio now has 1 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $118. 
+There are now has  67 shares for sale 
+++ Glenn now has $600. 
+++ Glenn now has 1 shares of Boston & Maine 
+++ Boston & Maine now has 5 regualr shares and 4 orphan shares. 
+++ Boston & Maine now has $80. 
+++ Boston & Maine  has been sold this turn and its valuation has been reduced to $100 per share. 
+++ Glenn now has  5 shares of Nickel Plate. 
+++ Glenn now has $190. 
+++ Nickel Plate now has 5 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $410. 
+There are now has  66 shares for sale 
+++ Glenn is the new president for Nickel Plate. 
+++ Jeff now has  3 shares of Baltimore & Ohio. 
+++ Jeff now has $89. 
+++ Baltimore & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Baltimore & Ohio now has $192. 
+There are now has  65 shares for sale 
+++ Pat now has  2 shares of Nickel Plate. 
+++ Pat now has $24. 
+++ Nickel Plate now has 3 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $574. 
+There are now has  63 shares for sale 
+++ John now has  7 shares of New York Central. 
+++ John now has $127. 
+++ New York Central now has 0 regualr shares and 0 orphan shares. 
+++ New York Central now has $98. 
+There are now has  62 shares for sale 
+++ Glenn now has  7 shares of Nickel Plate. 
+++ Glenn now has $26. 
+++ Nickel Plate now has 1 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $738. 
+There are now has  60 shares for sale 
+++ Jeff now has  1 shares of Nickel Plate. 
+++ Jeff now has $7. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $820. 
+There are now has  59 shares for sale 
+++ Boston & Maine valuation decreases to $91 per share due to orphaned shares. 
+Boston & Maine building actions: 
+  *Scrap train 6. 
+  *Scrap train 10. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $0. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $0 from 5 shares and now has $160. 
+++ Glenn revieved $0 from 1 shares of Boston & Maine and now has $26. 
+++ Boston & Maine valuation decreases to $74 per share. 
+++ Glenn shares in Boston & Maine has been reduced to 0 shares. 
+++ Boston & Maine goes into recievership. 
+++ Boston & Maine now has $0 and 10 regular shares and 0 orphaned shares. 
+Pennsylvania building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $152. 
+++ Pat revieved $100 from 5 shares of Pennsylvania and now has $124. 
+++ Jeff revieved $100 from 5 shares of Pennsylvania and now has $107. 
+++ Pennsylvania valuation increases to $91 per share. 
+New York Central building actions: 
+  *Build $30 of track. 
+  *Cities added: 
+  *Set net profit to $150. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $68. 
+++ Pat revieved $30 from 2 shares of New York Central and now has $154. 
+++ John revieved $105 from 7 shares of New York Central and now has $232. 
+++ Glenn revieved $15 from 1 shares of New York Central and now has $41. 
+++ New York Central valuation remains the same at $82 per share. 
+Nickel Plate building actions: 
+  *Buy train 13. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Chicago. 
+   -Indainapolis. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $620. 
+++ Pat revieved $10 from 2 shares of Nickel Plate and now has $164. 
+++ Glenn revieved $35 from 7 shares of Nickel Plate and now has $76. 
+++ Jeff revieved $5 from 1 shares of Nickel Plate and now has $112. 
+++ Nickel Plate valuation increases to $91 per share. 
+Baltimore & Ohio building actions: 
+  *Scrap train 2. 
+  *Buy train 14. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Chicago. 
+  *Set net profit to $180. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $27. 
+++ William revieved $126 from 7 shares of Baltimore & Ohio and now has $181. 
+++ Jeff revieved $54 from 3 shares of Baltimore & Ohio and now has $166. 
+++ Baltimore & Ohio valuation increases to $82 per share. 
+Pennsylvania building actions: 
+  *Scrap train 9. 
+  *Buy train 15. 
+  *Build $30 of track. 
+  *Cities added: 
+   -Baltimore. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $27. 
+++ Pat revieved $115 from 5 shares of Pennsylvania and now has $279. 
+++ Jeff revieved $115 from 5 shares of Pennsylvania and now has $281. 
+++ Pennsylvania valuation increases to $100 per share. 
+Nickel Plate building actions: 
+  *Buy train 16. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Detroit. 
+   -FortWayne. 
+  *Set net profit to $120. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $300. 
+++ Pat revieved $24 from 2 shares of Nickel Plate and now has $303. 
+++ Glenn revieved $84 from 7 shares of Nickel Plate and now has $160. 
+++ Jeff revieved $12 from 1 shares of Nickel Plate and now has $293. 
+++ Nickel Plate valuation increases to $100 per share. 
+New York Central building actions: 
+  *Build $60 of track. 
+  *Cities added: 
+   -Chicago. 
+   -Cincinnati. 
+   -FortWayne. 
+  *Set net profit to $200. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $8. 
+++ Pat revieved $40 from 2 shares of New York Central and now has $343. 
+++ John revieved $140 from 7 shares of New York Central and now has $372. 
+++ Glenn revieved $20 from 1 shares of New York Central and now has $180. 
+++ New York Central valuation increases to $91 per share. 
+Baltimore & Ohio building actions: 
+  *Build $20 of track. 
+  *Cities added: 
+   -Philadelphia. 
+  *Set net profit to $240. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $7. 
+++ William revieved $168 from 7 shares of Baltimore & Ohio and now has $349. 
+++ Jeff revieved $72 from 3 shares of Baltimore & Ohio and now has $365. 
+++ Baltimore & Ohio valuation increases to $91 per share. 
+++ Glenn now has $271. 
+++ Glenn now has 0 shares of New York Central 
+++ New York Central now has 0 regualr shares and 1 orphan shares. 
+++ New York Central now has $8. 
+++ New York Central  has been sold this turn and its valuation has been reduced to $82 per share. 
+++ Glenn now has  5 shares of Boston & Maine. 
+++ Glenn now has $21. 
+++ Boston & Maine now has 5 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $250. 
+There are now has  56 shares for sale 
+++ Pat now has  4 shares of Illinois Central. 
+++ Pat now has $15. 
+++ Illinois Central now has 6 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $328. 
+There are now has  52 shares for sale 
+++ Pat is the new president for Illinois Central. 
+++ Jeff now has $465. 
+++ Jeff now has 0 shares of Nickel Plate 
+++ Nickel Plate now has 0 regualr shares and 1 orphan shares. 
+++ Nickel Plate now has $300. 
+++ Nickel Plate  has been sold this turn and its valuation has been reduced to $91 per share. 
+++ Jeff now has  5 shares of Chesapeake & Ohio. 
+++ Jeff now has $10. 
+++ Chesapeake & Ohio now has 5 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $455. 
+There are now has  48 shares for sale 
+++ Jeff is the new president for Chesapeake & Ohio. 
+++ John now has  3 shares of Chesapeake & Ohio. 
+++ John now has $99. 
+++ Chesapeake & Ohio now has 2 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $728. 
+There are now has  45 shares for sale 
+ Nickel Plate now has $209 and 1 regular shares and 0 orphan shares. 
+++ William now has  2 shares of Chesapeake & Ohio. 
+++ William now has $167. 
+++ Chesapeake & Ohio now has 0 regualr shares and 0 orphan shares. 
+++ Chesapeake & Ohio now has $910. 
+There are now has  43 shares for sale 
+++ John now has  8 shares of New York Central. 
+++ John now has $17. 
+++ New York Central now has 0 regualr shares and 0 orphan shares. 
+++ New York Central now has $8. 
+There are now has  42 shares for sale 
+++ William now has  1 shares of Nickel Plate. 
+++ William now has $76. 
+++ Nickel Plate now has 0 regualr shares and 0 orphan shares. 
+++ Nickel Plate now has $300. 
+There are now has  41 shares for sale 
+++ William now has  1 shares of Boston & Maine. 
+++ William now has $26. 
+++ Boston & Maine now has 4 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $300. 
+There are now has  40 shares for sale 
+ALL ABOARD!!!! Here we go.
+ALL ABOARD!!!! Here we go.
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $270. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $27. 
+++ Pat revieved $135 from 5 shares of Pennsylvania and now has $150. 
+++ Jeff revieved $135 from 5 shares of Pennsylvania and now has $145. 
+++ Pennsylvania valuation increases to $110 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $240. 
+  *Withhold dividens. 
+++ Baltimore & Ohio  recieved net profit of  $240 and now has $247. 
+++ Baltimore & Ohio valuation remains the same at $91 per share. 
+Nickel Plate building actions: 
+  *Scrap train 13. 
+  *Build $80 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Pittsburgh. 
+  *Set net profit to $190. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $280. 
+++ William revieved $19 from 1 shares of Nickel Plate and now has $45. 
+++ Pat revieved $38 from 2 shares of Nickel Plate and now has $188. 
+++ Glenn revieved $133 from 7 shares of Nickel Plate and now has $154. 
+++ Nickel Plate valuation increases to $100 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 17. 
+  *Build $50 of track. 
+  *Cities added: 
+   -Baltimore. 
+   -Richmond. 
+   -Washington. 
+  *Set net profit to $50. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $600. 
+++ William revieved $10 from 2 shares of Chesapeake & Ohio and now has $55. 
+++ John revieved $15 from 3 shares of Chesapeake & Ohio and now has $32. 
+++ Jeff revieved $25 from 5 shares of Chesapeake & Ohio and now has $170. 
+++ Chesapeake & Ohio valuation increases to $100 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $210. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $8. 
+++ Pat revieved $42 from 2 shares of New York Central and now has $230. 
+++ John revieved $168 from 8 shares of New York Central and now has $200. 
+++ New York Central valuation increases to $91 per share. 
+Illinois Central building actions: 
+  *Buy train 18. 
+  *Build $50 of track. 
+  *Cities added: 
+   -Chicago. 
+   -SaintLouis. 
+   -Springfield. 
+  *Set net profit to $110. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $66 from 6 shares and now has $104. 
+++ Pat revieved $44 from 4 shares of Illinois Central and now has $274. 
+++ Illinois Central valuation increases to $91 per share. 
+Boston & Maine building actions: 
+  *Buy train 19. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $52 from 4 shares and now has $132. 
+++ William revieved $13 from 1 shares of Boston & Maine and now has $68. 
+++ Glenn revieved $65 from 5 shares of Boston & Maine and now has $219. 
+++ Boston & Maine valuation increases to $55 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $27. 
+++ Pat revieved $140 from 5 shares of Pennsylvania and now has $414. 
+++ Jeff revieved $140 from 5 shares of Pennsylvania and now has $310. 
+++ Pennsylvania valuation increases to $121 per share. 
+Nickel Plate building actions: 
+  *Buy train 20. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $80. 
+++ William revieved $23 from 1 shares of Nickel Plate and now has $91. 
+++ Pat revieved $46 from 2 shares of Nickel Plate and now has $460. 
+++ Glenn revieved $161 from 7 shares of Nickel Plate and now has $380. 
+++ Nickel Plate valuation increases to $110 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $180 of track. 
+  *Cities added: 
+   -Hunington. 
+   -Roanoke. 
+  *Set net profit to $80. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $420. 
+++ William revieved $16 from 2 shares of Chesapeake & Ohio and now has $107. 
+++ John revieved $24 from 3 shares of Chesapeake & Ohio and now has $224. 
+++ Jeff revieved $40 from 5 shares of Chesapeake & Ohio and now has $350. 
+++ Chesapeake & Ohio valuation increases to $110 per share. 
+Baltimore & Ohio building actions: 
+  *Build $160 of track. 
+  *Cities added: 
+   -NewYork. 
+  *Set net profit to $260. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $87. 
+++ William revieved $182 from 7 shares of Baltimore & Ohio and now has $289. 
+++ Jeff revieved $78 from 3 shares of Baltimore & Ohio and now has $428. 
+++ Baltimore & Ohio valuation increases to $100 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $210. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $8. 
+++ Pat revieved $42 from 2 shares of New York Central and now has $502. 
+++ John revieved $168 from 8 shares of New York Central and now has $392. 
+++ New York Central valuation remains the same at $91 per share. 
+Illinois Central building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $160. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $96 from 6 shares and now has $160. 
+++ Pat revieved $64 from 4 shares of Illinois Central and now has $566. 
+++ Illinois Central valuation increases to $100 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $56 from 4 shares and now has $188. 
+++ William revieved $14 from 1 shares of Boston & Maine and now has $303. 
+++ Glenn revieved $70 from 5 shares of Boston & Maine and now has $450. 
+++ Boston & Maine valuation increases to $60 per share. 
+++ William now has  3 shares of Illinois Central. 
+++ William now has $3. 
+++ Illinois Central now has 3 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $460. 
+There are now has  37 shares for sale 
+++ John now has  3 shares of Illinois Central. 
+++ John now has $92. 
+++ Illinois Central now has 0 regualr shares and 0 orphan shares. 
+++ Illinois Central now has $760. 
+There are now has  34 shares for sale 
+++ Jeff now has  5 shares of Erie. 
+++ Jeff now has $18. 
+++ Erie now has 5 regualr shares and 0 orphan shares. 
+++ Erie now has $410. 
+There are now has  29 shares for sale 
+++ Jeff is the new president for Erie. 
+++ Glenn now has  9 shares of Boston & Maine. 
+++ Glenn now has $210. 
+++ Boston & Maine now has 0 regualr shares and 0 orphan shares. 
+++ Boston & Maine now has $428. 
+There are now has  25 shares for sale 
+++ Pat now has  3 shares of Erie. 
+++ Pat now has $320. 
+++ Erie now has 2 regualr shares and 0 orphan shares. 
+++ Erie now has $656. 
+There are now has  22 shares for sale 
+++ John now has  1 shares of Erie. 
+++ John now has $10. 
+++ Erie now has 1 regualr shares and 0 orphan shares. 
+++ Erie now has $738. 
+There are now has  21 shares for sale 
+++ Glenn now has  2 shares of Wabash. 
+++ Glenn now has $28. 
+++ Wabash now has 8 regualr shares and 0 orphan shares. 
+++ Wabash now has $182. 
+There are now has  19 shares for sale 
+++ Glenn is the new president for Wabash. 
+++ Pat now has  3 shares of Wabash. 
+++ Pat now has $47. 
+++ Wabash now has 5 regualr shares and 0 orphan shares. 
+++ Wabash now has $455. 
+There are now has  16 shares for sale 
+++ Pat is the new president for Wabash. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $27. 
+++ Pat revieved $150 from 5 shares of Pennsylvania and now has $197. 
+++ Jeff revieved $150 from 5 shares of Pennsylvania and now has $168. 
+++ Pennsylvania valuation increases to $133 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $230. 
+  *Withhold dividens. 
+++ Nickel Plate  recieved net profit of  $230 and now has $310. 
+++ Nickel Plate valuation remains the same at $110 per share. 
+Chesapeake & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+   -Philadelphia. 
+ -Coal5. 
+  *Set net profit to $140. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $420. 
+++ William revieved $28 from 2 shares of Chesapeake & Ohio and now has $31. 
+++ John revieved $42 from 3 shares of Chesapeake & Ohio and now has $52. 
+++ Jeff revieved $70 from 5 shares of Chesapeake & Ohio and now has $238. 
+++ Chesapeake & Ohio valuation increases to $121 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+ -Coal3. 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $87. 
+++ William revieved $210 from 7 shares of Baltimore & Ohio and now has $241. 
+++ Jeff revieved $90 from 3 shares of Baltimore & Ohio and now has $328. 
+++ Baltimore & Ohio valuation increases to $110 per share. 
+Illinois Central building actions: 
+  *Scrap train 18. 
+  *Buy train 21. 
+  *Build $40 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $420. 
+++ William revieved $84 from 3 shares of Illinois Central and now has $325. 
+++ Pat revieved $112 from 4 shares of Illinois Central and now has $309. 
+++ John revieved $84 from 3 shares of Illinois Central and now has $136. 
+++ Illinois Central valuation increases to $110 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $260. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $8. 
+++ Pat revieved $52 from 2 shares of New York Central and now has $361. 
+++ John revieved $208 from 8 shares of New York Central and now has $344. 
+++ New York Central valuation increases to $100 per share. 
+Wabash building actions: 
+  *Buy train 22. 
+  *Build $50 of track. 
+  *Cities added: 
+   -Chicago. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $130. 
+  *Distribute dividiens. 
+++ Wabash recieved $65 from 5 shares and now has $115. 
+++ Pat revieved $39 from 3 shares of Wabash and now has $400. 
+++ Glenn revieved $26 from 2 shares of Wabash and now has $54. 
+++ Wabash valuation increases to $100 per share. 
+Erie building actions: 
+  *Buy train 23. 
+  *Build $160 of track. 
+  *Cities added: 
+   -Albany. 
+   -Buffalo. 
+   -NewYork. 
+   -Syracuse. 
+   -Utica. 
+  *Set net profit to $160. 
+  *Distribute dividiens. 
+++ Erie recieved $16 from 1 shares and now has $264. 
+++ Pat revieved $48 from 3 shares of Erie and now has $448. 
+++ John revieved $16 from 1 shares of Erie and now has $360. 
+++ Jeff revieved $80 from 5 shares of Erie and now has $408. 
+++ Erie valuation increases to $91 per share. 
+Boston & Maine building actions: 
+  *Scrap train 19. 
+  *Buy train 24. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $180. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $0 from 0 shares and now has $203. 
+++ William revieved $18 from 1 shares of Boston & Maine and now has $343. 
+++ Glenn revieved $162 from 9 shares of Boston & Maine and now has $216. 
+++ Boston & Maine valuation increases to $66 per share. 
+Pennsylvania building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $340. 
+  *Distribute dividiens. 
+++ Pennsylvania recieved $0 from 0 shares and now has $27. 
+++ Pat revieved $170 from 5 shares of Pennsylvania and now has $618. 
+++ Jeff revieved $170 from 5 shares of Pennsylvania and now has $578. 
+++ Pennsylvania valuation increases to $146 per share. 
+Chesapeake & Ohio building actions: 
+  *Buy train 25. 
+  *Build $70 of track. 
+  *Cities added: 
+   -Cincinnati. 
+   -FortWayne. 
+   -Indainapolis. 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Chesapeake & Ohio recieved $0 from 0 shares and now has $70. 
+++ William revieved $56 from 2 shares of Chesapeake & Ohio and now has $399. 
+++ John revieved $84 from 3 shares of Chesapeake & Ohio and now has $444. 
+++ Jeff revieved $140 from 5 shares of Chesapeake & Ohio and now has $718. 
+++ Chesapeake & Ohio valuation increases to $133 per share. 
+Nickel Plate building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $290. 
+  *Distribute dividiens. 
+++ Nickel Plate recieved $0 from 0 shares and now has $310. 
+++ William revieved $29 from 1 shares of Nickel Plate and now has $428. 
+++ Pat revieved $58 from 2 shares of Nickel Plate and now has $676. 
+++ Glenn revieved $203 from 7 shares of Nickel Plate and now has $419. 
+++ Nickel Plate valuation increases to $121 per share. 
+Baltimore & Ohio building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $340. 
+  *Distribute dividiens. 
+++ Baltimore & Ohio recieved $0 from 0 shares and now has $87. 
+++ William revieved $238 from 7 shares of Baltimore & Ohio and now has $666. 
+++ Jeff revieved $102 from 3 shares of Baltimore & Ohio and now has $820. 
+++ Baltimore & Ohio valuation increases to $121 per share. 
+Illinois Central building actions: 
+  *Scrap train 21. 
+  *Buy train 26. 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $390. 
+  *Distribute dividiens. 
+++ Illinois Central recieved $0 from 0 shares and now has $20. 
+++ William revieved $117 from 3 shares of Illinois Central and now has $783. 
+++ Pat revieved $156 from 4 shares of Illinois Central and now has $832. 
+++ John revieved $117 from 3 shares of Illinois Central and now has $561. 
+++ Illinois Central valuation increases to $121 per share. 
+New York Central building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ New York Central recieved $0 from 0 shares and now has $8. 
+++ Pat revieved $56 from 2 shares of New York Central and now has $888. 
+++ John revieved $224 from 8 shares of New York Central and now has $785. 
+++ New York Central valuation increases to $110 per share. 
+Wabash building actions: 
+  *Build $40 of track. 
+  *Cities added: 
+   -Cleveland. 
+   -Detroit. 
+  *Set net profit to $300. 
+  *Distribute dividiens. 
+++ Wabash recieved $150 from 5 shares and now has $225. 
+++ Pat revieved $90 from 3 shares of Wabash and now has $978. 
+++ Glenn revieved $60 from 2 shares of Wabash and now has $479. 
+++ Wabash valuation increases to $110 per share. 
+Erie building actions: 
+  *Build $170 of track. 
+  *Cities added: 
+   -Philadelphia. 
+   -Pittsburgh. 
+   -Wheeling. 
+  *Set net profit to $280. 
+  *Distribute dividiens. 
+++ Erie recieved $28 from 1 shares and now has $122. 
+++ Pat revieved $84 from 3 shares of Erie and now has $1062. 
+++ John revieved $28 from 1 shares of Erie and now has $813. 
+++ Jeff revieved $140 from 5 shares of Erie and now has $960. 
+++ Erie valuation increases to $100 per share. 
+Boston & Maine building actions: 
+  *Build $0 of track. 
+  *Cities added: 
+  *Set net profit to $220. 
+  *Distribute dividiens. 
+++ Boston & Maine recieved $0 from 0 shares and now has $203. 
+++ William revieved $22 from 1 shares of Boston & Maine and now has $805. 
+++ Glenn revieved $198 from 9 shares of Boston & Maine and now has $677. 
+++ Boston & Maine valuation increases to $74 per share. 
+End of the game. The winner is Pat! 
