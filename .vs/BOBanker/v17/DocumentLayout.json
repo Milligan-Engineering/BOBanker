@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\BOBanker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\Players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\BOBanker.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 )$  \u0022     "
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Players.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\Players.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Cities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\Cities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|solutionrelative:BOBanker\\Players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC9B8DBD-7238-45F6-A917-2D7614BEDECC}|BOBanker\\BOBanker.vcxproj|C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 114,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,6 +103,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BOBanker.rc - IDD_ABOUTBOX - Dialog",
+              "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.rc",
+              "RelativeDocumentMoniker": "BOBanker\\BOBanker.rc",
+              "ToolTip": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.rc - IDD_ABOUTBOX - Dialog",
+              "RelativeToolTip": "BOBanker\\BOBanker.rc - IDD_ABOUTBOX - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-12T15:14:28.716Z",
+              "EditorCaption": " - IDD_ABOUTBOX - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cities.h",
+              "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Cities.h",
+              "RelativeDocumentMoniker": "BOBanker\\Cities.h",
+              "ToolTip": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Cities.h",
+              "RelativeToolTip": "BOBanker\\Cities.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T15:07:09.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Players.cpp",
               "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Players.cpp",
               "RelativeDocumentMoniker": "BOBanker\\Players.cpp",
@@ -106,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\stdafx.h",
               "RelativeDocumentMoniker": "BOBanker\\stdafx.h",
@@ -122,16 +154,16 @@
               "Title": "BOBanker.cpp",
               "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.cpp",
               "RelativeDocumentMoniker": "BOBanker\\BOBanker.cpp",
-              "ToolTip": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.cpp*",
-              "RelativeToolTip": "BOBanker\\BOBanker.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\BOBanker.cpp",
+              "RelativeToolTip": "BOBanker\\BOBanker.cpp",
+              "ViewState": "AgIAAHMEAAAAAAAAAAAkwIwEAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-18T23:58:42.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Game.h",
               "RelativeDocumentMoniker": "BOBanker\\Game.h",
@@ -149,7 +181,7 @@
               "RelativeDocumentMoniker": "BOBanker\\Players.h",
               "ToolTip": "C:\\Users\\jjgiesey\\OneDrive - Milligan University\\Documents\\BOBanker\\BOBanker\\Players.h",
               "RelativeToolTip": "BOBanker\\Players.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-18T23:54:20.861Z"
             }
